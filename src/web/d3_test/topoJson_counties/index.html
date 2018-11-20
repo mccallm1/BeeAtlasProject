@@ -27,7 +27,7 @@ var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-var url = "../../main/geo_data/OR_Counties.json"
+var url = "OR_Counties.json"
 d3.json(url, function(error, topology) {
   if (error) throw error;
 
