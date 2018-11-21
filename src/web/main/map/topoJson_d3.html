@@ -31,13 +31,27 @@
 		  .defer(d3.json, "../data/OR_Counties.json") // Load OR Counties
 		  .await(ready); // Run 'ready' when JSONs are loaded
 
-		// Ready Function, runs when data is loaded
+		/*
 		function ready(error, us) {
+		  if (error) throw error;
+
+		  svg.append("g")
+		      .attr("class", "counties")
+		    .selectAll("path")
+		      .data(topojson.feature(us, us.objects.counties).features) // Bind TopoJSON data elements
+		    .enter().append("path")
+		      .attr("d", path)
+		      .style("fill", "white")
+		      .style("stroke", "black");
+		}
+		*/
+		// Ready Function, runs when data is loaded
+		function ready(error, OR_Counties) {
 		  if (error) throw error;
 		  svg.append("g")
 		    	.attr("class", "counties")
 		    .selectAll("path")
-		      .data(topojson.feature(us, us.objects.counties).features) // Bind TopoJSON data elements
+		      .data(topojson.feature(OR_Counties, OR_Counties.objects.counties).features) // Bind TopoJSON data elements
 		    .enter().append("path")
 		      .attr("d", path)
 		      .style("fill", "white")
