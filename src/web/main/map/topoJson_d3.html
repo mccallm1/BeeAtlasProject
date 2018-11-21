@@ -51,7 +51,7 @@
 		  svg.append("g")
 		    	.attr("class", "counties")
 		    .selectAll("path")
-		      .data(topojson.feature(OR_Counties, OR_Counties.objects.counties).features) // Bind TopoJSON data elements
+		      .data(topojson.feature(OR_Counties, OR_Counties.objects.cb_2015_oregon_county_20m).features) // Bind TopoJSON data elements
 		    .enter().append("path")
 		      .attr("d", path)
 		      .style("fill", "white")
