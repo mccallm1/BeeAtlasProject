@@ -28,7 +28,7 @@
 
 		// Queue up datasets using d3 Queue
 		queue()
-		  .defer(d3.json, "../data/OR_Counties.json") // Load OR Counties
+		  .defer(d3.json, "or.json") // Load OR Counties
 		  .await(ready); // Run 'ready' when JSONs are loaded
 
 		/*
@@ -46,12 +46,12 @@
 		}
 		*/
 		// Ready Function, runs when data is loaded
-		function ready(error, OR_Counties) {
+		function ready(error, or) {
 		  if (error) throw error;
 		  svg.append("g")
 		    	.attr("class", "counties")
 		    .selectAll("path")
-		      .data(topojson.feature(OR_Counties, OR_Counties.objects.cb_2015_oregon_county_20m).features) // Bind TopoJSON data elements
+		      .data(topojson.feature(or, or.objects.cb_2015_oregon_county_20m).features) // Bind TopoJSON data elements
 		    .enter().append("path")
 		      .attr("d", path)
 		      .style("fill", "white")
