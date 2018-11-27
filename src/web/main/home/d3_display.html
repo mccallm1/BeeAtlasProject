@@ -10,6 +10,7 @@ var path = d3.geoPath();
 
 d3.json("../data/OR_counties_formatted.json", function(error, OR_counties_formatted) {
   if (error) throw error;
+  console.log(OR_counties_formatted);
 
   svg.append("path")
       .attr("stroke", "#aaa")
