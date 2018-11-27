@@ -9,7 +9,7 @@
   var context = d3.select("canvas").node().getContext("2d"),
       path = d3.geoPath().context(context);
 
-  d3.json("../data/OR_counties.json", function(error, OR_counties) {
+  d3.json("../data/OR_Counties.json", function(error, OR_counties) {
     if (error) throw error;
 
     context.beginPath();
