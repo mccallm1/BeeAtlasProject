@@ -13,7 +13,7 @@ d3.json("../data/OR_counties_formatted.json", function(error, OR_counties_format
   console.log(OR_counties_formatted);
 
   svg.append("path")
-      .attr("stroke", "#aaa")
+      //.attr("stroke", "#aaa")
       .attr("stroke-width", 0.5)
       .attr("d", path(topojson.mesh(OR_counties_formatted, OR_counties_formatted.objects.cb_2015_oregon_county_20m, function(a, b) { return a !== b && (a.id / 1000 | 0) === (b.id / 1000 | 0); })));
 
