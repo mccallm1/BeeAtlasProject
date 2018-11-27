@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<svg width="960" height="600" fill="none" stroke="#000" stroke-linejoin="round" stroke-linecap="round"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://unpkg.com/topojson-client@3"></script>
+<script>
+
+var svg = d3.select("svg");
+
+var path = d3.geoPath();
+
+d3.json("../data/OR_counties_formatted.json", function(error, OR_counties_formatted) {
+  if (error) throw error;
+
+  svg.append("path")
+      .attr("stroke", "#aaa")
+      .attr("stroke-width", 0.5)
+      .attr("d", path(topojson.mesh(OR_counties_formatted, OR_counties_formatted.objects.cb_2015_oregon_county_20m, function(a, b) { return a !== b && (a.id / 1000 | 0) === (b.id / 1000 | 0); })));
+
+});
+
+</script>
