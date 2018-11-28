@@ -23,17 +23,19 @@
   var svg = d3.select("svg");
   var path = d3.geoPath();
 
-  d3.json("data/us_counties.json", function(error, us) {
+  d3.json("data/OR_Counties.json", function(error, or) {
     if (error) throw error;
+
     svg.append("g")
         .attr("class", "states")
       .selectAll("path")
-      .data(topojson.feature(us, us.objects.states).features)
+      .data(topojson.feature(or, or.objects.cb_2015_oregon_county_20m).features)
       .enter().append("path")
         .attr("d", path);
+
     svg.append("path")
-        .attr("class", "state-borders")
-        .attr("d", path(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; })));
+        .attr("class", "county`-borders")
+        .attr("d", path(topojson.mesh(or, or.objects.cb_2015_oregon_county_20m, function(a, b) { return a !== b; })));
   });
   /*
     d3.json("data/us_counties.json", function(error, us) {
