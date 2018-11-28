@@ -26,17 +26,19 @@
   d3.json("data/or.json", function(error, or) {
     if (error) throw error;
 
+    /*
     svg.append("g")
         .attr("class", "counties")
       .selectAll("path")
       .data(topojson.feature(or, or.objects.cb_2015_oregon_county_20m).features)
       .enter().append("path")
         .attr("d", path);
-    /*
+    */
+
     svg.append("path")
         .attr("class", "county-borders")
         .attr("d", path(topojson.mesh(or, or.objects.cb_2015_oregon_county_20m, function(a, b) { return a !== b; })));
-    */
+    
   });
   /*
     d3.json("data/us_counties.json", function(error, us) {
