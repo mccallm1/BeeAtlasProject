@@ -23,7 +23,7 @@
   var svg = d3.select("svg");
   var path = d3.geoPath();
 
-  d3.json("data/or_counties.json", function(error, or) {
+  d3.json("data/or.json", function(error, or) {
     if (error) throw error;
 
     svg.append("g")
