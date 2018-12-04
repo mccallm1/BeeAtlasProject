@@ -16,14 +16,14 @@
 
 <svg width="960" height="600" stroke="black"></svg>
 
-
-
 <script src="https://d3js.org/d3.v4.js"></script>
 <script src="https://d3js.org/topojson.v2.min.js"></script>
 
 <script>
   var svg = d3.select("svg");
-  var path = d3.geoPath();
+  var projection = d3.geoMercator();
+  var path = d3.geoPath().projection(projection);
+  //var path = d3.geoPath();
 
   d3.json("data/or.json", function(error, or) {
     if (error) throw error;
