@@ -2,8 +2,8 @@
   "type": "Topology",
   "transform": {
     "scale": [
-      0.002,
-      0.0015
+      0.01,
+      0.01
     ],
     "translate": [
       -124.55271296313062,
