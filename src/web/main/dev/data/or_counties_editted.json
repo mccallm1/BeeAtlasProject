@@ -3071,7 +3071,7 @@
     ]
   ],
   "objects": {
-    "counties": {
+    "cb_2015_oregon_county_20m": {
       "type": "GeometryCollection",
       "geometries": [
         {
