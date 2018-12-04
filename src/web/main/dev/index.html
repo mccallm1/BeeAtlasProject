@@ -21,7 +21,8 @@
 
 <script>
   var svg = d3.select("svg");
-  var projection = d3.geoMercator();
+  //var projection = d3.geoMercator();
+  var projection = d3.geo.conicEqualArea();
   var path = d3.geoPath().projection(projection);
   //var path = d3.geoPath();
 
