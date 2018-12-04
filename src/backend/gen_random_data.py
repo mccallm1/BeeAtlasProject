@@ -24,11 +24,9 @@ def write_csv(num_rows):
     print("\t--> Done.")
 
 def main():
-    print 'Number of arguments:', len(sys.argv), 'arguments.'
     print 'Argument List:', str(sys.argv)
     num_rows = sys.argv[1]
-    print 'rows:', num_rows
-    #write_csv(1000)
+    write_csv(num_rows)
 
 if __name__ == '__main__':
     main()
