@@ -27,7 +27,7 @@ def main():
     print 'Number of arguments:', len(sys.argv), 'arguments.'
     print 'Argument List:', str(sys.argv)
     num_rows = sys.argv[1]
-    write_csv(1000)
+    #write_csv(1000)
 
 if __name__ == '__main__':
     main()
