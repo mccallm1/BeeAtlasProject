@@ -25,7 +25,7 @@ def write_csv(num_rows):
 
 def main():
     print 'Argument List:', str(sys.argv)
-    num_rows = sys.argv[1]
+    num_rows = int(sys.argv[1])
     write_csv(num_rows)
 
 if __name__ == '__main__':
