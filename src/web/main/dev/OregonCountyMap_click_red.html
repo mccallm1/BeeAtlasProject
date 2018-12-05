@@ -39,10 +39,24 @@
         .attr("d", path);
 
     svg.append("path")
-        .attr("class", "county-borders")
-        .attr("d", path(topojson.mesh(or, or.objects.cb_2015_oregon_county_20m, function(a, b) { return a !== b; })));
+      .attr("class", "county-borders")
+      .attr("d", path(topojson.mesh(or, or.objects.cb_2015_oregon_county_20m, function(a, b) { return a !== b; })));
 
-    // zoom and pan
+    svg.append("g")
+      .attr("class", "points")
+      .selectAll("path")
+      .data('data/test_results_geo_small.json'.features)
+      .enter().append("path")
+        .attr("d", path)
+        .attr('fill', '#900')
+        .attr('stroke', '#999')
+        .attr('d', geoPath);
+
+
+
+
+
+    // zoom and pan functions
     var zoom = d3.behavior.zoom()
         .on("zoom",function() {
             g.attr("transform","translate("+
@@ -53,7 +67,6 @@
                 .attr("d", path.projection(projection));
 
       });
-
     svg.call(zoom)
 
   });
