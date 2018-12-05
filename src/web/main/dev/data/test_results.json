@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 0,
+    "lat": 47,
+    "long": 121,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 1,
+    "lat": 32,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 2,
+    "lat": 39,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 3,
+    "lat": 21,
+    "long": 134,
+    "species": "Osmia"
+  },
+  {
+    "id": 4,
+    "lat": 33,
+    "long": 103,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 5,
+    "lat": 25,
+    "long": 126,
+    "species": "Seladonia"
+  },
+  {
+    "id": 6,
+    "lat": 60,
+    "long": 112,
+    "species": "Seladonia"
+  },
+  {
+    "id": 7,
+    "lat": 47,
+    "long": 137,
+    "species": "Seladonia"
+  },
+  {
+    "id": 8,
+    "lat": 45,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 9,
+    "lat": 35,
+    "long": 119,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 10,
+    "lat": 24,
+    "long": 108,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 11,
+    "lat": 30,
+    "long": 114,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 12,
+    "lat": 27,
+    "long": 110,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 13,
+    "lat": 31,
+    "long": 127,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 14,
+    "lat": 59,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 15,
+    "lat": 28,
+    "long": 129,
+    "species": "Osmia"
+  },
+  {
+    "id": 16,
+    "lat": 50,
+    "long": 136,
+    "species": "Seladonia"
+  },
+  {
+    "id": 17,
+    "lat": 28,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 18,
+    "lat": 57,
+    "long": 121,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 19,
+    "lat": 49,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 20,
+    "lat": 41,
+    "long": 131,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 21,
+    "lat": 51,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 22,
+    "lat": 53,
+    "long": 140,
+    "species": "Seladonia"
+  },
+  {
+    "id": 23,
+    "lat": 51,
+    "long": 130,
+    "species": "Osmia"
+  },
+  {
+    "id": 24,
+    "lat": 42,
+    "long": 115,
+    "species": "Osmia"
+  },
+  {
+    "id": 25,
+    "lat": 30,
+    "long": 102,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 26,
+    "lat": 35,
+    "long": 107,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 27,
+    "lat": 43,
+    "long": 133,
+    "species": "Seladonia"
+  },
+  {
+    "id": 28,
+    "lat": 47,
+    "long": 134,
+    "species": "Osmia"
+  },
+  {
+    "id": 29,
+    "lat": 27,
+    "long": 131,
+    "species": "Seladonia"
+  },
+  {
+    "id": 30,
+    "lat": 54,
+    "long": 122,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 31,
+    "lat": 56,
+    "long": 107,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 32,
+    "lat": 37,
+    "long": 140,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 33,
+    "lat": 20,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 34,
+    "lat": 48,
+    "long": 119,
+    "species": "Seladonia"
+  },
+  {
+    "id": 35,
+    "lat": 28,
+    "long": 140,
+    "species": "Osmia"
+  },
+  {
+    "id": 36,
+    "lat": 50,
+    "long": 106,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 37,
+    "lat": 60,
+    "long": 129,
+    "species": "Seladonia"
+  },
+  {
+    "id": 38,
+    "lat": 44,
+    "long": 109,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 39,
+    "lat": 35,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 40,
+    "lat": 20,
+    "long": 112,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 41,
+    "lat": 32,
+    "long": 135,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 42,
+    "lat": 28,
+    "long": 102,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 43,
+    "lat": 23,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 44,
+    "lat": 20,
+    "long": 133,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 45,
+    "lat": 50,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 46,
+    "lat": 58,
+    "long": 122,
+    "species": "Osmia"
+  },
+  {
+    "id": 47,
+    "lat": 41,
+    "long": 116,
+    "species": "Osmia"
+  },
+  {
+    "id": 48,
+    "lat": 32,
+    "long": 117,
+    "species": "Seladonia"
+  },
+  {
+    "id": 49,
+    "lat": 50,
+    "long": 122,
+    "species": "Osmia"
+  },
+  {
+    "id": 50,
+    "lat": 47,
+    "long": 103,
+    "species": "Osmia"
+  },
+  {
+    "id": 51,
+    "lat": 28,
+    "long": 133,
+    "species": "Seladonia"
+  },
+  {
+    "id": 52,
+    "lat": 33,
+    "long": 139,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 53,
+    "lat": 57,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 54,
+    "lat": 58,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 55,
+    "lat": 23,
+    "long": 126,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 56,
+    "lat": 40,
+    "long": 131,
+    "species": "Osmia"
+  },
+  {
+    "id": 57,
+    "lat": 28,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 58,
+    "lat": 26,
+    "long": 121,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 59,
+    "lat": 44,
+    "long": 130,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 60,
+    "lat": 35,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 61,
+    "lat": 43,
+    "long": 111,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 62,
+    "lat": 50,
+    "long": 116,
+    "species": "Seladonia"
+  },
+  {
+    "id": 63,
+    "lat": 41,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 64,
+    "lat": 38,
+    "long": 115,
+    "species": "Osmia"
+  },
+  {
+    "id": 65,
+    "lat": 28,
+    "long": 118,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 66,
+    "lat": 54,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 67,
+    "lat": 22,
+    "long": 125,
+    "species": "Osmia"
+  },
+  {
+    "id": 68,
+    "lat": 22,
+    "long": 131,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 69,
+    "lat": 51,
+    "long": 111,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 70,
+    "lat": 22,
+    "long": 133,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 71,
+    "lat": 38,
+    "long": 133,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 72,
+    "lat": 20,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 73,
+    "lat": 25,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 74,
+    "lat": 51,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 75,
+    "lat": 35,
+    "long": 140,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 76,
+    "lat": 47,
+    "long": 134,
+    "species": "Seladonia"
+  },
+  {
+    "id": 77,
+    "lat": 53,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 78,
+    "lat": 42,
+    "long": 127,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 79,
+    "lat": 20,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 80,
+    "lat": 44,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 81,
+    "lat": 28,
+    "long": 102,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 82,
+    "lat": 31,
+    "long": 129,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 83,
+    "lat": 47,
+    "long": 104,
+    "species": "Osmia"
+  },
+  {
+    "id": 84,
+    "lat": 32,
+    "long": 133,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 85,
+    "lat": 37,
+    "long": 124,
+    "species": "Osmia"
+  },
+  {
+    "id": 86,
+    "lat": 56,
+    "long": 127,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 87,
+    "lat": 36,
+    "long": 115,
+    "species": "Seladonia"
+  },
+  {
+    "id": 88,
+    "lat": 26,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 89,
+    "lat": 38,
+    "long": 139,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 90,
+    "lat": 36,
+    "long": 133,
+    "species": "Osmia"
+  },
+  {
+    "id": 91,
+    "lat": 25,
+    "long": 113,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 92,
+    "lat": 44,
+    "long": 126,
+    "species": "Seladonia"
+  },
+  {
+    "id": 93,
+    "lat": 27,
+    "long": 135,
+    "species": "Seladonia"
+  },
+  {
+    "id": 94,
+    "lat": 29,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 95,
+    "lat": 54,
+    "long": 131,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 96,
+    "lat": 52,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 97,
+    "lat": 42,
+    "long": 130,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 98,
+    "lat": 28,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 99,
+    "lat": 25,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 100,
+    "lat": 56,
+    "long": 129,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 101,
+    "lat": 20,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 102,
+    "lat": 46,
+    "long": 109,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 103,
+    "lat": 38,
+    "long": 126,
+    "species": "Seladonia"
+  },
+  {
+    "id": 104,
+    "lat": 49,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 105,
+    "lat": 56,
+    "long": 129,
+    "species": "Seladonia"
+  },
+  {
+    "id": 106,
+    "lat": 50,
+    "long": 103,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 107,
+    "lat": 34,
+    "long": 110,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 108,
+    "lat": 56,
+    "long": 125,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 109,
+    "lat": 29,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 110,
+    "lat": 42,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 111,
+    "lat": 57,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 112,
+    "lat": 60,
+    "long": 123,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 113,
+    "lat": 25,
+    "long": 124,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 114,
+    "lat": 43,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 115,
+    "lat": 47,
+    "long": 121,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 116,
+    "lat": 58,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 117,
+    "lat": 41,
+    "long": 118,
+    "species": "Osmia"
+  },
+  {
+    "id": 118,
+    "lat": 36,
+    "long": 102,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 119,
+    "lat": 38,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 120,
+    "lat": 33,
+    "long": 131,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 121,
+    "lat": 21,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 122,
+    "lat": 29,
+    "long": 136,
+    "species": "Osmia"
+  },
+  {
+    "id": 123,
+    "lat": 58,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 124,
+    "lat": 23,
+    "long": 122,
+    "species": "Osmia"
+  },
+  {
+    "id": 125,
+    "lat": 25,
+    "long": 130,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 126,
+    "lat": 52,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 127,
+    "lat": 22,
+    "long": 132,
+    "species": "Osmia"
+  },
+  {
+    "id": 128,
+    "lat": 57,
+    "long": 102,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 129,
+    "lat": 39,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 130,
+    "lat": 27,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 131,
+    "lat": 46,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 132,
+    "lat": 28,
+    "long": 137,
+    "species": "Seladonia"
+  },
+  {
+    "id": 133,
+    "lat": 29,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 134,
+    "lat": 46,
+    "long": 109,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 135,
+    "lat": 25,
+    "long": 129,
+    "species": "Osmia"
+  },
+  {
+    "id": 136,
+    "lat": 59,
+    "long": 123,
+    "species": "Osmia"
+  },
+  {
+    "id": 137,
+    "lat": 46,
+    "long": 117,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 138,
+    "lat": 51,
+    "long": 139,
+    "species": "Seladonia"
+  },
+  {
+    "id": 139,
+    "lat": 48,
+    "long": 140,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 140,
+    "lat": 54,
+    "long": 127,
+    "species": "Seladonia"
+  },
+  {
+    "id": 141,
+    "lat": 40,
+    "long": 113,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 142,
+    "lat": 31,
+    "long": 131,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 143,
+    "lat": 45,
+    "long": 106,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 144,
+    "lat": 44,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 145,
+    "lat": 40,
+    "long": 121,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 146,
+    "lat": 58,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 147,
+    "lat": 59,
+    "long": 132,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 148,
+    "lat": 23,
+    "long": 101,
+    "species": "Seladonia"
+  },
+  {
+    "id": 149,
+    "lat": 37,
+    "long": 109,
+    "species": "Osmia"
+  },
+  {
+    "id": 150,
+    "lat": 32,
+    "long": 119,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 151,
+    "lat": 31,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 152,
+    "lat": 40,
+    "long": 140,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 153,
+    "lat": 52,
+    "long": 105,
+    "species": "Seladonia"
+  },
+  {
+    "id": 154,
+    "lat": 48,
+    "long": 138,
+    "species": "Osmia"
+  },
+  {
+    "id": 155,
+    "lat": 50,
+    "long": 108,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 156,
+    "lat": 31,
+    "long": 111,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 157,
+    "lat": 43,
+    "long": 139,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 158,
+    "lat": 25,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 159,
+    "lat": 53,
+    "long": 134,
+    "species": "Osmia"
+  },
+  {
+    "id": 160,
+    "lat": 31,
+    "long": 134,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 161,
+    "lat": 59,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 162,
+    "lat": 46,
+    "long": 111,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 163,
+    "lat": 54,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 164,
+    "lat": 32,
+    "long": 104,
+    "species": "Seladonia"
+  },
+  {
+    "id": 165,
+    "lat": 47,
+    "long": 140,
+    "species": "Seladonia"
+  },
+  {
+    "id": 166,
+    "lat": 33,
+    "long": 106,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 167,
+    "lat": 32,
+    "long": 107,
+    "species": "Osmia"
+  },
+  {
+    "id": 168,
+    "lat": 44,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 169,
+    "lat": 42,
+    "long": 124,
+    "species": "Seladonia"
+  },
+  {
+    "id": 170,
+    "lat": 33,
+    "long": 111,
+    "species": "Seladonia"
+  },
+  {
+    "id": 171,
+    "lat": 57,
+    "long": 107,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 172,
+    "lat": 39,
+    "long": 129,
+    "species": "Osmia"
+  },
+  {
+    "id": 173,
+    "lat": 32,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 174,
+    "lat": 40,
+    "long": 104,
+    "species": "Seladonia"
+  },
+  {
+    "id": 175,
+    "lat": 44,
+    "long": 137,
+    "species": "Seladonia"
+  },
+  {
+    "id": 176,
+    "lat": 49,
+    "long": 121,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 177,
+    "lat": 32,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 178,
+    "lat": 44,
+    "long": 120,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 179,
+    "lat": 58,
+    "long": 118,
+    "species": "Osmia"
+  },
+  {
+    "id": 180,
+    "lat": 43,
+    "long": 113,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 181,
+    "lat": 51,
+    "long": 107,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 182,
+    "lat": 43,
+    "long": 135,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 183,
+    "lat": 60,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 184,
+    "lat": 42,
+    "long": 124,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 185,
+    "lat": 53,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 186,
+    "lat": 28,
+    "long": 120,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 187,
+    "lat": 53,
+    "long": 139,
+    "species": "Osmia"
+  },
+  {
+    "id": 188,
+    "lat": 30,
+    "long": 126,
+    "species": "Osmia"
+  },
+  {
+    "id": 189,
+    "lat": 21,
+    "long": 111,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 190,
+    "lat": 50,
+    "long": 114,
+    "species": "Seladonia"
+  },
+  {
+    "id": 191,
+    "lat": 37,
+    "long": 111,
+    "species": "Osmia"
+  },
+  {
+    "id": 192,
+    "lat": 48,
+    "long": 104,
+    "species": "Osmia"
+  },
+  {
+    "id": 193,
+    "lat": 55,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 194,
+    "lat": 45,
+    "long": 128,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 195,
+    "lat": 56,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 196,
+    "lat": 32,
+    "long": 135,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 197,
+    "lat": 52,
+    "long": 112,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 198,
+    "lat": 28,
+    "long": 140,
+    "species": "Osmia"
+  },
+  {
+    "id": 199,
+    "lat": 46,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 200,
+    "lat": 34,
+    "long": 137,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 201,
+    "lat": 42,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 202,
+    "lat": 48,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 203,
+    "lat": 51,
+    "long": 125,
+    "species": "Seladonia"
+  },
+  {
+    "id": 204,
+    "lat": 28,
+    "long": 137,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 205,
+    "lat": 50,
+    "long": 108,
+    "species": "Seladonia"
+  },
+  {
+    "id": 206,
+    "lat": 36,
+    "long": 130,
+    "species": "Seladonia"
+  },
+  {
+    "id": 207,
+    "lat": 38,
+    "long": 134,
+    "species": "Seladonia"
+  },
+  {
+    "id": 208,
+    "lat": 50,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 209,
+    "lat": 57,
+    "long": 118,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 210,
+    "lat": 22,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 211,
+    "lat": 24,
+    "long": 123,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 212,
+    "lat": 20,
+    "long": 132,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 213,
+    "lat": 39,
+    "long": 132,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 214,
+    "lat": 46,
+    "long": 106,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 215,
+    "lat": 26,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 216,
+    "lat": 28,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 217,
+    "lat": 36,
+    "long": 102,
+    "species": "Seladonia"
+  },
+  {
+    "id": 218,
+    "lat": 54,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 219,
+    "lat": 20,
+    "long": 113,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 220,
+    "lat": 33,
+    "long": 103,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 221,
+    "lat": 47,
+    "long": 112,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 222,
+    "lat": 58,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 223,
+    "lat": 40,
+    "long": 114,
+    "species": "Seladonia"
+  },
+  {
+    "id": 224,
+    "lat": 46,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 225,
+    "lat": 58,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 226,
+    "lat": 48,
+    "long": 125,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 227,
+    "lat": 32,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 228,
+    "lat": 55,
+    "long": 114,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 229,
+    "lat": 42,
+    "long": 120,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 230,
+    "lat": 50,
+    "long": 129,
+    "species": "Osmia"
+  },
+  {
+    "id": 231,
+    "lat": 32,
+    "long": 118,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 232,
+    "lat": 44,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 233,
+    "lat": 43,
+    "long": 104,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 234,
+    "lat": 48,
+    "long": 123,
+    "species": "Osmia"
+  },
+  {
+    "id": 235,
+    "lat": 32,
+    "long": 136,
+    "species": "Seladonia"
+  },
+  {
+    "id": 236,
+    "lat": 48,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 237,
+    "lat": 27,
+    "long": 115,
+    "species": "Osmia"
+  },
+  {
+    "id": 238,
+    "lat": 22,
+    "long": 111,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 239,
+    "lat": 59,
+    "long": 129,
+    "species": "Seladonia"
+  },
+  {
+    "id": 240,
+    "lat": 53,
+    "long": 120,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 241,
+    "lat": 33,
+    "long": 123,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 242,
+    "lat": 50,
+    "long": 108,
+    "species": "Seladonia"
+  },
+  {
+    "id": 243,
+    "lat": 37,
+    "long": 122,
+    "species": "Seladonia"
+  },
+  {
+    "id": 244,
+    "lat": 20,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 245,
+    "lat": 40,
+    "long": 123,
+    "species": "Osmia"
+  },
+  {
+    "id": 246,
+    "lat": 45,
+    "long": 109,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 247,
+    "lat": 27,
+    "long": 129,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 248,
+    "lat": 42,
+    "long": 112,
+    "species": "Seladonia"
+  },
+  {
+    "id": 249,
+    "lat": 24,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 250,
+    "lat": 32,
+    "long": 117,
+    "species": "Osmia"
+  },
+  {
+    "id": 251,
+    "lat": 42,
+    "long": 125,
+    "species": "Osmia"
+  },
+  {
+    "id": 252,
+    "lat": 55,
+    "long": 105,
+    "species": "Seladonia"
+  },
+  {
+    "id": 253,
+    "lat": 34,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 254,
+    "lat": 35,
+    "long": 137,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 255,
+    "lat": 46,
+    "long": 115,
+    "species": "Seladonia"
+  },
+  {
+    "id": 256,
+    "lat": 49,
+    "long": 121,
+    "species": "Osmia"
+  },
+  {
+    "id": 257,
+    "lat": 45,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 258,
+    "lat": 52,
+    "long": 139,
+    "species": "Osmia"
+  },
+  {
+    "id": 259,
+    "lat": 42,
+    "long": 120,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 260,
+    "lat": 57,
+    "long": 112,
+    "species": "Osmia"
+  },
+  {
+    "id": 261,
+    "lat": 37,
+    "long": 138,
+    "species": "Osmia"
+  },
+  {
+    "id": 262,
+    "lat": 28,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 263,
+    "lat": 24,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 264,
+    "lat": 34,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 265,
+    "lat": 23,
+    "long": 120,
+    "species": "Osmia"
+  },
+  {
+    "id": 266,
+    "lat": 24,
+    "long": 119,
+    "species": "Osmia"
+  },
+  {
+    "id": 267,
+    "lat": 28,
+    "long": 102,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 268,
+    "lat": 43,
+    "long": 112,
+    "species": "Osmia"
+  },
+  {
+    "id": 269,
+    "lat": 30,
+    "long": 131,
+    "species": "Seladonia"
+  },
+  {
+    "id": 270,
+    "lat": 31,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 271,
+    "lat": 48,
+    "long": 137,
+    "species": "Seladonia"
+  },
+  {
+    "id": 272,
+    "lat": 59,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 273,
+    "lat": 28,
+    "long": 125,
+    "species": "Seladonia"
+  },
+  {
+    "id": 274,
+    "lat": 39,
+    "long": 109,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 275,
+    "lat": 23,
+    "long": 117,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 276,
+    "lat": 24,
+    "long": 104,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 277,
+    "lat": 39,
+    "long": 100,
+    "species": "Seladonia"
+  },
+  {
+    "id": 278,
+    "lat": 44,
+    "long": 121,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 279,
+    "lat": 33,
+    "long": 106,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 280,
+    "lat": 55,
+    "long": 118,
+    "species": "Osmia"
+  },
+  {
+    "id": 281,
+    "lat": 40,
+    "long": 125,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 282,
+    "lat": 49,
+    "long": 101,
+    "species": "Seladonia"
+  },
+  {
+    "id": 283,
+    "lat": 48,
+    "long": 138,
+    "species": "Osmia"
+  },
+  {
+    "id": 284,
+    "lat": 26,
+    "long": 130,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 285,
+    "lat": 25,
+    "long": 119,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 286,
+    "lat": 20,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 287,
+    "lat": 57,
+    "long": 122,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 288,
+    "lat": 50,
+    "long": 110,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 289,
+    "lat": 60,
+    "long": 107,
+    "species": "Osmia"
+  },
+  {
+    "id": 290,
+    "lat": 56,
+    "long": 137,
+    "species": "Seladonia"
+  },
+  {
+    "id": 291,
+    "lat": 32,
+    "long": 104,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 292,
+    "lat": 46,
+    "long": 119,
+    "species": "Seladonia"
+  },
+  {
+    "id": 293,
+    "lat": 34,
+    "long": 100,
+    "species": "Seladonia"
+  },
+  {
+    "id": 294,
+    "lat": 37,
+    "long": 136,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 295,
+    "lat": 54,
+    "long": 107,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 296,
+    "lat": 38,
+    "long": 123,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 297,
+    "lat": 49,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 298,
+    "lat": 55,
+    "long": 121,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 299,
+    "lat": 56,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 300,
+    "lat": 51,
+    "long": 113,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 301,
+    "lat": 36,
+    "long": 127,
+    "species": "Seladonia"
+  },
+  {
+    "id": 302,
+    "lat": 43,
+    "long": 106,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 303,
+    "lat": 32,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 304,
+    "lat": 60,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 305,
+    "lat": 36,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 306,
+    "lat": 26,
+    "long": 137,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 307,
+    "lat": 26,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 308,
+    "lat": 44,
+    "long": 110,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 309,
+    "lat": 27,
+    "long": 111,
+    "species": "Seladonia"
+  },
+  {
+    "id": 310,
+    "lat": 30,
+    "long": 124,
+    "species": "Osmia"
+  },
+  {
+    "id": 311,
+    "lat": 50,
+    "long": 125,
+    "species": "Osmia"
+  },
+  {
+    "id": 312,
+    "lat": 44,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 313,
+    "lat": 38,
+    "long": 122,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 314,
+    "lat": 58,
+    "long": 101,
+    "species": "Osmia"
+  },
+  {
+    "id": 315,
+    "lat": 21,
+    "long": 100,
+    "species": "Osmia"
+  },
+  {
+    "id": 316,
+    "lat": 51,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 317,
+    "lat": 60,
+    "long": 128,
+    "species": "Seladonia"
+  },
+  {
+    "id": 318,
+    "lat": 53,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 319,
+    "lat": 40,
+    "long": 114,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 320,
+    "lat": 34,
+    "long": 104,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 321,
+    "lat": 49,
+    "long": 119,
+    "species": "Osmia"
+  },
+  {
+    "id": 322,
+    "lat": 60,
+    "long": 109,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 323,
+    "lat": 34,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 324,
+    "lat": 39,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 325,
+    "lat": 53,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 326,
+    "lat": 26,
+    "long": 138,
+    "species": "Osmia"
+  },
+  {
+    "id": 327,
+    "lat": 51,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 328,
+    "lat": 39,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 329,
+    "lat": 25,
+    "long": 109,
+    "species": "Seladonia"
+  },
+  {
+    "id": 330,
+    "lat": 56,
+    "long": 120,
+    "species": "Osmia"
+  },
+  {
+    "id": 331,
+    "lat": 48,
+    "long": 135,
+    "species": "Seladonia"
+  },
+  {
+    "id": 332,
+    "lat": 24,
+    "long": 100,
+    "species": "Osmia"
+  },
+  {
+    "id": 333,
+    "lat": 54,
+    "long": 138,
+    "species": "Seladonia"
+  },
+  {
+    "id": 334,
+    "lat": 58,
+    "long": 137,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 335,
+    "lat": 33,
+    "long": 119,
+    "species": "Seladonia"
+  },
+  {
+    "id": 336,
+    "lat": 33,
+    "long": 125,
+    "species": "Seladonia"
+  },
+  {
+    "id": 337,
+    "lat": 39,
+    "long": 122,
+    "species": "Osmia"
+  },
+  {
+    "id": 338,
+    "lat": 46,
+    "long": 136,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 339,
+    "lat": 45,
+    "long": 117,
+    "species": "Osmia"
+  },
+  {
+    "id": 340,
+    "lat": 55,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 341,
+    "lat": 29,
+    "long": 124,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 342,
+    "lat": 22,
+    "long": 123,
+    "species": "Osmia"
+  },
+  {
+    "id": 343,
+    "lat": 60,
+    "long": 115,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 344,
+    "lat": 56,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 345,
+    "lat": 29,
+    "long": 114,
+    "species": "Seladonia"
+  },
+  {
+    "id": 346,
+    "lat": 42,
+    "long": 129,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 347,
+    "lat": 32,
+    "long": 104,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 348,
+    "lat": 47,
+    "long": 109,
+    "species": "Osmia"
+  },
+  {
+    "id": 349,
+    "lat": 37,
+    "long": 100,
+    "species": "Seladonia"
+  },
+  {
+    "id": 350,
+    "lat": 52,
+    "long": 119,
+    "species": "Seladonia"
+  },
+  {
+    "id": 351,
+    "lat": 22,
+    "long": 111,
+    "species": "Osmia"
+  },
+  {
+    "id": 352,
+    "lat": 35,
+    "long": 131,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 353,
+    "lat": 39,
+    "long": 100,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 354,
+    "lat": 32,
+    "long": 130,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 355,
+    "lat": 34,
+    "long": 103,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 356,
+    "lat": 40,
+    "long": 124,
+    "species": "Seladonia"
+  },
+  {
+    "id": 357,
+    "lat": 25,
+    "long": 137,
+    "species": "Seladonia"
+  },
+  {
+    "id": 358,
+    "lat": 20,
+    "long": 117,
+    "species": "Seladonia"
+  },
+  {
+    "id": 359,
+    "lat": 26,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 360,
+    "lat": 27,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 361,
+    "lat": 49,
+    "long": 119,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 362,
+    "lat": 58,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 363,
+    "lat": 34,
+    "long": 111,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 364,
+    "lat": 41,
+    "long": 117,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 365,
+    "lat": 55,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 366,
+    "lat": 60,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 367,
+    "lat": 23,
+    "long": 119,
+    "species": "Seladonia"
+  },
+  {
+    "id": 368,
+    "lat": 22,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 369,
+    "lat": 51,
+    "long": 112,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 370,
+    "lat": 37,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 371,
+    "lat": 51,
+    "long": 121,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 372,
+    "lat": 54,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 373,
+    "lat": 32,
+    "long": 124,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 374,
+    "lat": 50,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 375,
+    "lat": 34,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 376,
+    "lat": 21,
+    "long": 120,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 377,
+    "lat": 38,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 378,
+    "lat": 57,
+    "long": 130,
+    "species": "Osmia"
+  },
+  {
+    "id": 379,
+    "lat": 24,
+    "long": 119,
+    "species": "Osmia"
+  },
+  {
+    "id": 380,
+    "lat": 56,
+    "long": 132,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 381,
+    "lat": 24,
+    "long": 121,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 382,
+    "lat": 23,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 383,
+    "lat": 26,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 384,
+    "lat": 55,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 385,
+    "lat": 31,
+    "long": 114,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 386,
+    "lat": 42,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 387,
+    "lat": 51,
+    "long": 140,
+    "species": "Seladonia"
+  },
+  {
+    "id": 388,
+    "lat": 32,
+    "long": 116,
+    "species": "Seladonia"
+  },
+  {
+    "id": 389,
+    "lat": 41,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 390,
+    "lat": 55,
+    "long": 108,
+    "species": "Osmia"
+  },
+  {
+    "id": 391,
+    "lat": 21,
+    "long": 131,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 392,
+    "lat": 22,
+    "long": 101,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 393,
+    "lat": 48,
+    "long": 107,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 394,
+    "lat": 49,
+    "long": 115,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 395,
+    "lat": 20,
+    "long": 133,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 396,
+    "lat": 37,
+    "long": 101,
+    "species": "Osmia"
+  },
+  {
+    "id": 397,
+    "lat": 37,
+    "long": 136,
+    "species": "Seladonia"
+  },
+  {
+    "id": 398,
+    "lat": 41,
+    "long": 119,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 399,
+    "lat": 51,
+    "long": 100,
+    "species": "Seladonia"
+  },
+  {
+    "id": 400,
+    "lat": 46,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 401,
+    "lat": 34,
+    "long": 135,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 402,
+    "lat": 32,
+    "long": 129,
+    "species": "Seladonia"
+  },
+  {
+    "id": 403,
+    "lat": 22,
+    "long": 121,
+    "species": "Osmia"
+  },
+  {
+    "id": 404,
+    "lat": 39,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 405,
+    "lat": 51,
+    "long": 125,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 406,
+    "lat": 38,
+    "long": 109,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 407,
+    "lat": 51,
+    "long": 128,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 408,
+    "lat": 43,
+    "long": 138,
+    "species": "Seladonia"
+  },
+  {
+    "id": 409,
+    "lat": 33,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 410,
+    "lat": 50,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 411,
+    "lat": 43,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 412,
+    "lat": 36,
+    "long": 133,
+    "species": "Seladonia"
+  },
+  {
+    "id": 413,
+    "lat": 28,
+    "long": 108,
+    "species": "Osmia"
+  },
+  {
+    "id": 414,
+    "lat": 32,
+    "long": 139,
+    "species": "Osmia"
+  },
+  {
+    "id": 415,
+    "lat": 42,
+    "long": 116,
+    "species": "Osmia"
+  },
+  {
+    "id": 416,
+    "lat": 53,
+    "long": 109,
+    "species": "Osmia"
+  },
+  {
+    "id": 417,
+    "lat": 42,
+    "long": 130,
+    "species": "Osmia"
+  },
+  {
+    "id": 418,
+    "lat": 21,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 419,
+    "lat": 54,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 420,
+    "lat": 34,
+    "long": 114,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 421,
+    "lat": 24,
+    "long": 120,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 422,
+    "lat": 38,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 423,
+    "lat": 51,
+    "long": 111,
+    "species": "Osmia"
+  },
+  {
+    "id": 424,
+    "lat": 56,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 425,
+    "lat": 24,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 426,
+    "lat": 31,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 427,
+    "lat": 41,
+    "long": 132,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 428,
+    "lat": 48,
+    "long": 118,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 429,
+    "lat": 21,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 430,
+    "lat": 27,
+    "long": 118,
+    "species": "Osmia"
+  },
+  {
+    "id": 431,
+    "lat": 59,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 432,
+    "lat": 56,
+    "long": 118,
+    "species": "Osmia"
+  },
+  {
+    "id": 433,
+    "lat": 43,
+    "long": 120,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 434,
+    "lat": 34,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 435,
+    "lat": 39,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 436,
+    "lat": 55,
+    "long": 121,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 437,
+    "lat": 46,
+    "long": 139,
+    "species": "Osmia"
+  },
+  {
+    "id": 438,
+    "lat": 57,
+    "long": 132,
+    "species": "Osmia"
+  },
+  {
+    "id": 439,
+    "lat": 26,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 440,
+    "lat": 20,
+    "long": 102,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 441,
+    "lat": 30,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 442,
+    "lat": 37,
+    "long": 112,
+    "species": "Seladonia"
+  },
+  {
+    "id": 443,
+    "lat": 38,
+    "long": 103,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 444,
+    "lat": 53,
+    "long": 107,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 445,
+    "lat": 52,
+    "long": 126,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 446,
+    "lat": 20,
+    "long": 133,
+    "species": "Osmia"
+  },
+  {
+    "id": 447,
+    "lat": 25,
+    "long": 127,
+    "species": "Seladonia"
+  },
+  {
+    "id": 448,
+    "lat": 56,
+    "long": 136,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 449,
+    "lat": 25,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 450,
+    "lat": 60,
+    "long": 110,
+    "species": "Osmia"
+  },
+  {
+    "id": 451,
+    "lat": 33,
+    "long": 115,
+    "species": "Seladonia"
+  },
+  {
+    "id": 452,
+    "lat": 28,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 453,
+    "lat": 43,
+    "long": 126,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 454,
+    "lat": 26,
+    "long": 134,
+    "species": "Osmia"
+  },
+  {
+    "id": 455,
+    "lat": 21,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 456,
+    "lat": 41,
+    "long": 101,
+    "species": "Seladonia"
+  },
+  {
+    "id": 457,
+    "lat": 31,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 458,
+    "lat": 27,
+    "long": 131,
+    "species": "Osmia"
+  },
+  {
+    "id": 459,
+    "lat": 30,
+    "long": 111,
+    "species": "Osmia"
+  },
+  {
+    "id": 460,
+    "lat": 57,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 461,
+    "lat": 28,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 462,
+    "lat": 40,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 463,
+    "lat": 53,
+    "long": 117,
+    "species": "Osmia"
+  },
+  {
+    "id": 464,
+    "lat": 48,
+    "long": 134,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 465,
+    "lat": 33,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 466,
+    "lat": 28,
+    "long": 119,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 467,
+    "lat": 54,
+    "long": 130,
+    "species": "Osmia"
+  },
+  {
+    "id": 468,
+    "lat": 49,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 469,
+    "lat": 23,
+    "long": 100,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 470,
+    "lat": 30,
+    "long": 139,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 471,
+    "lat": 44,
+    "long": 104,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 472,
+    "lat": 54,
+    "long": 132,
+    "species": "Seladonia"
+  },
+  {
+    "id": 473,
+    "lat": 29,
+    "long": 130,
+    "species": "Osmia"
+  },
+  {
+    "id": 474,
+    "lat": 53,
+    "long": 101,
+    "species": "Osmia"
+  },
+  {
+    "id": 475,
+    "lat": 44,
+    "long": 131,
+    "species": "Seladonia"
+  },
+  {
+    "id": 476,
+    "lat": 50,
+    "long": 138,
+    "species": "Seladonia"
+  },
+  {
+    "id": 477,
+    "lat": 42,
+    "long": 107,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 478,
+    "lat": 33,
+    "long": 111,
+    "species": "Seladonia"
+  },
+  {
+    "id": 479,
+    "lat": 43,
+    "long": 127,
+    "species": "Seladonia"
+  },
+  {
+    "id": 480,
+    "lat": 31,
+    "long": 107,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 481,
+    "lat": 33,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 482,
+    "lat": 35,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 483,
+    "lat": 38,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 484,
+    "lat": 36,
+    "long": 136,
+    "species": "Osmia"
+  },
+  {
+    "id": 485,
+    "lat": 36,
+    "long": 123,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 486,
+    "lat": 30,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 487,
+    "lat": 40,
+    "long": 139,
+    "species": "Osmia"
+  },
+  {
+    "id": 488,
+    "lat": 30,
+    "long": 133,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 489,
+    "lat": 48,
+    "long": 124,
+    "species": "Osmia"
+  },
+  {
+    "id": 490,
+    "lat": 28,
+    "long": 129,
+    "species": "Osmia"
+  },
+  {
+    "id": 491,
+    "lat": 52,
+    "long": 103,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 492,
+    "lat": 44,
+    "long": 117,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 493,
+    "lat": 44,
+    "long": 102,
+    "species": "Seladonia"
+  },
+  {
+    "id": 494,
+    "lat": 30,
+    "long": 129,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 495,
+    "lat": 52,
+    "long": 120,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 496,
+    "lat": 42,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 497,
+    "lat": 26,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 498,
+    "lat": 23,
+    "long": 139,
+    "species": "Seladonia"
+  },
+  {
+    "id": 499,
+    "lat": 56,
+    "long": 106,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 500,
+    "lat": 40,
+    "long": 135,
+    "species": "Seladonia"
+  },
+  {
+    "id": 501,
+    "lat": 40,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 502,
+    "lat": 33,
+    "long": 100,
+    "species": "Seladonia"
+  },
+  {
+    "id": 503,
+    "lat": 32,
+    "long": 138,
+    "species": "Seladonia"
+  },
+  {
+    "id": 504,
+    "lat": 27,
+    "long": 126,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 505,
+    "lat": 22,
+    "long": 124,
+    "species": "Seladonia"
+  },
+  {
+    "id": 506,
+    "lat": 43,
+    "long": 133,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 507,
+    "lat": 53,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 508,
+    "lat": 30,
+    "long": 139,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 509,
+    "lat": 42,
+    "long": 140,
+    "species": "Seladonia"
+  },
+  {
+    "id": 510,
+    "lat": 43,
+    "long": 125,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 511,
+    "lat": 58,
+    "long": 139,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 512,
+    "lat": 37,
+    "long": 106,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 513,
+    "lat": 20,
+    "long": 138,
+    "species": "Osmia"
+  },
+  {
+    "id": 514,
+    "lat": 48,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 515,
+    "lat": 49,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 516,
+    "lat": 20,
+    "long": 140,
+    "species": "Seladonia"
+  },
+  {
+    "id": 517,
+    "lat": 28,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 518,
+    "lat": 28,
+    "long": 127,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 519,
+    "lat": 32,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 520,
+    "lat": 31,
+    "long": 135,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 521,
+    "lat": 33,
+    "long": 126,
+    "species": "Seladonia"
+  },
+  {
+    "id": 522,
+    "lat": 57,
+    "long": 121,
+    "species": "Osmia"
+  },
+  {
+    "id": 523,
+    "lat": 54,
+    "long": 109,
+    "species": "Osmia"
+  },
+  {
+    "id": 524,
+    "lat": 45,
+    "long": 119,
+    "species": "Osmia"
+  },
+  {
+    "id": 525,
+    "lat": 58,
+    "long": 123,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 526,
+    "lat": 40,
+    "long": 135,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 527,
+    "lat": 32,
+    "long": 134,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 528,
+    "lat": 52,
+    "long": 134,
+    "species": "Osmia"
+  },
+  {
+    "id": 529,
+    "lat": 44,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 530,
+    "lat": 26,
+    "long": 103,
+    "species": "Osmia"
+  },
+  {
+    "id": 531,
+    "lat": 33,
+    "long": 100,
+    "species": "Osmia"
+  },
+  {
+    "id": 532,
+    "lat": 55,
+    "long": 125,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 533,
+    "lat": 53,
+    "long": 108,
+    "species": "Osmia"
+  },
+  {
+    "id": 534,
+    "lat": 34,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 535,
+    "lat": 24,
+    "long": 104,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 536,
+    "lat": 47,
+    "long": 116,
+    "species": "Seladonia"
+  },
+  {
+    "id": 537,
+    "lat": 55,
+    "long": 123,
+    "species": "Seladonia"
+  },
+  {
+    "id": 538,
+    "lat": 33,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 539,
+    "lat": 24,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 540,
+    "lat": 59,
+    "long": 105,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 541,
+    "lat": 31,
+    "long": 126,
+    "species": "Seladonia"
+  },
+  {
+    "id": 542,
+    "lat": 52,
+    "long": 108,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 543,
+    "lat": 33,
+    "long": 129,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 544,
+    "lat": 53,
+    "long": 115,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 545,
+    "lat": 44,
+    "long": 140,
+    "species": "Seladonia"
+  },
+  {
+    "id": 546,
+    "lat": 24,
+    "long": 131,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 547,
+    "lat": 55,
+    "long": 131,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 548,
+    "lat": 43,
+    "long": 104,
+    "species": "Osmia"
+  },
+  {
+    "id": 549,
+    "lat": 50,
+    "long": 128,
+    "species": "Seladonia"
+  },
+  {
+    "id": 550,
+    "lat": 28,
+    "long": 140,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 551,
+    "lat": 30,
+    "long": 126,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 552,
+    "lat": 59,
+    "long": 122,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 553,
+    "lat": 36,
+    "long": 128,
+    "species": "Seladonia"
+  },
+  {
+    "id": 554,
+    "lat": 57,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 555,
+    "lat": 23,
+    "long": 129,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 556,
+    "lat": 26,
+    "long": 117,
+    "species": "Seladonia"
+  },
+  {
+    "id": 557,
+    "lat": 57,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 558,
+    "lat": 44,
+    "long": 136,
+    "species": "Osmia"
+  },
+  {
+    "id": 559,
+    "lat": 37,
+    "long": 105,
+    "species": "Seladonia"
+  },
+  {
+    "id": 560,
+    "lat": 40,
+    "long": 118,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 561,
+    "lat": 51,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 562,
+    "lat": 57,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 563,
+    "lat": 32,
+    "long": 133,
+    "species": "Osmia"
+  },
+  {
+    "id": 564,
+    "lat": 28,
+    "long": 139,
+    "species": "Osmia"
+  },
+  {
+    "id": 565,
+    "lat": 31,
+    "long": 105,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 566,
+    "lat": 22,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 567,
+    "lat": 36,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 568,
+    "lat": 44,
+    "long": 138,
+    "species": "Seladonia"
+  },
+  {
+    "id": 569,
+    "lat": 21,
+    "long": 136,
+    "species": "Osmia"
+  },
+  {
+    "id": 570,
+    "lat": 23,
+    "long": 132,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 571,
+    "lat": 40,
+    "long": 131,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 572,
+    "lat": 60,
+    "long": 139,
+    "species": "Seladonia"
+  },
+  {
+    "id": 573,
+    "lat": 37,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 574,
+    "lat": 44,
+    "long": 111,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 575,
+    "lat": 42,
+    "long": 103,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 576,
+    "lat": 33,
+    "long": 116,
+    "species": "Seladonia"
+  },
+  {
+    "id": 577,
+    "lat": 33,
+    "long": 115,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 578,
+    "lat": 47,
+    "long": 106,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 579,
+    "lat": 52,
+    "long": 120,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 580,
+    "lat": 52,
+    "long": 130,
+    "species": "Seladonia"
+  },
+  {
+    "id": 581,
+    "lat": 25,
+    "long": 111,
+    "species": "Osmia"
+  },
+  {
+    "id": 582,
+    "lat": 60,
+    "long": 100,
+    "species": "Osmia"
+  },
+  {
+    "id": 583,
+    "lat": 30,
+    "long": 135,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 584,
+    "lat": 56,
+    "long": 108,
+    "species": "Osmia"
+  },
+  {
+    "id": 585,
+    "lat": 25,
+    "long": 122,
+    "species": "Osmia"
+  },
+  {
+    "id": 586,
+    "lat": 44,
+    "long": 119,
+    "species": "Seladonia"
+  },
+  {
+    "id": 587,
+    "lat": 36,
+    "long": 115,
+    "species": "Osmia"
+  },
+  {
+    "id": 588,
+    "lat": 56,
+    "long": 139,
+    "species": "Seladonia"
+  },
+  {
+    "id": 589,
+    "lat": 23,
+    "long": 136,
+    "species": "Osmia"
+  },
+  {
+    "id": 590,
+    "lat": 49,
+    "long": 114,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 591,
+    "lat": 22,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 592,
+    "lat": 36,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 593,
+    "lat": 43,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 594,
+    "lat": 22,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 595,
+    "lat": 23,
+    "long": 123,
+    "species": "Seladonia"
+  },
+  {
+    "id": 596,
+    "lat": 31,
+    "long": 138,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 597,
+    "lat": 57,
+    "long": 120,
+    "species": "Osmia"
+  },
+  {
+    "id": 598,
+    "lat": 22,
+    "long": 132,
+    "species": "Osmia"
+  },
+  {
+    "id": 599,
+    "lat": 56,
+    "long": 104,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 600,
+    "lat": 40,
+    "long": 135,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 601,
+    "lat": 59,
+    "long": 114,
+    "species": "Seladonia"
+  },
+  {
+    "id": 602,
+    "lat": 40,
+    "long": 124,
+    "species": "Osmia"
+  },
+  {
+    "id": 603,
+    "lat": 42,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 604,
+    "lat": 45,
+    "long": 112,
+    "species": "Seladonia"
+  },
+  {
+    "id": 605,
+    "lat": 59,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 606,
+    "lat": 21,
+    "long": 132,
+    "species": "Osmia"
+  },
+  {
+    "id": 607,
+    "lat": 28,
+    "long": 108,
+    "species": "Seladonia"
+  },
+  {
+    "id": 608,
+    "lat": 39,
+    "long": 124,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 609,
+    "lat": 39,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 610,
+    "lat": 20,
+    "long": 100,
+    "species": "Seladonia"
+  },
+  {
+    "id": 611,
+    "lat": 26,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 612,
+    "lat": 24,
+    "long": 117,
+    "species": "Osmia"
+  },
+  {
+    "id": 613,
+    "lat": 36,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 614,
+    "lat": 47,
+    "long": 136,
+    "species": "Seladonia"
+  },
+  {
+    "id": 615,
+    "lat": 29,
+    "long": 120,
+    "species": "Seladonia"
+  },
+  {
+    "id": 616,
+    "lat": 26,
+    "long": 132,
+    "species": "Osmia"
+  },
+  {
+    "id": 617,
+    "lat": 54,
+    "long": 130,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 618,
+    "lat": 45,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 619,
+    "lat": 58,
+    "long": 117,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 620,
+    "lat": 28,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 621,
+    "lat": 27,
+    "long": 119,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 622,
+    "lat": 52,
+    "long": 101,
+    "species": "Osmia"
+  },
+  {
+    "id": 623,
+    "lat": 50,
+    "long": 107,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 624,
+    "lat": 22,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 625,
+    "lat": 23,
+    "long": 140,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 626,
+    "lat": 56,
+    "long": 107,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 627,
+    "lat": 46,
+    "long": 117,
+    "species": "Osmia"
+  },
+  {
+    "id": 628,
+    "lat": 57,
+    "long": 135,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 629,
+    "lat": 29,
+    "long": 110,
+    "species": "Osmia"
+  },
+  {
+    "id": 630,
+    "lat": 26,
+    "long": 125,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 631,
+    "lat": 44,
+    "long": 131,
+    "species": "Seladonia"
+  },
+  {
+    "id": 632,
+    "lat": 47,
+    "long": 107,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 633,
+    "lat": 32,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 634,
+    "lat": 24,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 635,
+    "lat": 55,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 636,
+    "lat": 57,
+    "long": 125,
+    "species": "Osmia"
+  },
+  {
+    "id": 637,
+    "lat": 29,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 638,
+    "lat": 44,
+    "long": 106,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 639,
+    "lat": 58,
+    "long": 137,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 640,
+    "lat": 26,
+    "long": 103,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 641,
+    "lat": 40,
+    "long": 111,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 642,
+    "lat": 54,
+    "long": 132,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 643,
+    "lat": 24,
+    "long": 102,
+    "species": "Seladonia"
+  },
+  {
+    "id": 644,
+    "lat": 32,
+    "long": 119,
+    "species": "Osmia"
+  },
+  {
+    "id": 645,
+    "lat": 22,
+    "long": 130,
+    "species": "Seladonia"
+  },
+  {
+    "id": 646,
+    "lat": 54,
+    "long": 140,
+    "species": "Osmia"
+  },
+  {
+    "id": 647,
+    "lat": 31,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 648,
+    "lat": 22,
+    "long": 101,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 649,
+    "lat": 38,
+    "long": 136,
+    "species": "Seladonia"
+  },
+  {
+    "id": 650,
+    "lat": 23,
+    "long": 129,
+    "species": "Seladonia"
+  },
+  {
+    "id": 651,
+    "lat": 33,
+    "long": 138,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 652,
+    "lat": 46,
+    "long": 123,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 653,
+    "lat": 22,
+    "long": 100,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 654,
+    "lat": 52,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 655,
+    "lat": 26,
+    "long": 101,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 656,
+    "lat": 59,
+    "long": 130,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 657,
+    "lat": 36,
+    "long": 128,
+    "species": "Seladonia"
+  },
+  {
+    "id": 658,
+    "lat": 33,
+    "long": 110,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 659,
+    "lat": 29,
+    "long": 129,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 660,
+    "lat": 41,
+    "long": 121,
+    "species": "Osmia"
+  },
+  {
+    "id": 661,
+    "lat": 52,
+    "long": 140,
+    "species": "Seladonia"
+  },
+  {
+    "id": 662,
+    "lat": 54,
+    "long": 126,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 663,
+    "lat": 31,
+    "long": 140,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 664,
+    "lat": 30,
+    "long": 119,
+    "species": "Osmia"
+  },
+  {
+    "id": 665,
+    "lat": 49,
+    "long": 130,
+    "species": "Osmia"
+  },
+  {
+    "id": 666,
+    "lat": 22,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 667,
+    "lat": 21,
+    "long": 100,
+    "species": "Osmia"
+  },
+  {
+    "id": 668,
+    "lat": 36,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 669,
+    "lat": 50,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 670,
+    "lat": 38,
+    "long": 122,
+    "species": "Seladonia"
+  },
+  {
+    "id": 671,
+    "lat": 51,
+    "long": 125,
+    "species": "Osmia"
+  },
+  {
+    "id": 672,
+    "lat": 47,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 673,
+    "lat": 27,
+    "long": 108,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 674,
+    "lat": 52,
+    "long": 108,
+    "species": "Seladonia"
+  },
+  {
+    "id": 675,
+    "lat": 27,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 676,
+    "lat": 50,
+    "long": 106,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 677,
+    "lat": 55,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 678,
+    "lat": 55,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 679,
+    "lat": 39,
+    "long": 106,
+    "species": "Seladonia"
+  },
+  {
+    "id": 680,
+    "lat": 32,
+    "long": 111,
+    "species": "Seladonia"
+  },
+  {
+    "id": 681,
+    "lat": 41,
+    "long": 116,
+    "species": "Osmia"
+  },
+  {
+    "id": 682,
+    "lat": 34,
+    "long": 121,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 683,
+    "lat": 28,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 684,
+    "lat": 29,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 685,
+    "lat": 50,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 686,
+    "lat": 27,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 687,
+    "lat": 23,
+    "long": 115,
+    "species": "Osmia"
+  },
+  {
+    "id": 688,
+    "lat": 37,
+    "long": 133,
+    "species": "Seladonia"
+  },
+  {
+    "id": 689,
+    "lat": 44,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 690,
+    "lat": 37,
+    "long": 115,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 691,
+    "lat": 26,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 692,
+    "lat": 20,
+    "long": 111,
+    "species": "Seladonia"
+  },
+  {
+    "id": 693,
+    "lat": 58,
+    "long": 140,
+    "species": "Osmia"
+  },
+  {
+    "id": 694,
+    "lat": 48,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 695,
+    "lat": 33,
+    "long": 134,
+    "species": "Seladonia"
+  },
+  {
+    "id": 696,
+    "lat": 45,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 697,
+    "lat": 26,
+    "long": 119,
+    "species": "Osmia"
+  },
+  {
+    "id": 698,
+    "lat": 33,
+    "long": 123,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 699,
+    "lat": 21,
+    "long": 139,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 700,
+    "lat": 50,
+    "long": 140,
+    "species": "Osmia"
+  },
+  {
+    "id": 701,
+    "lat": 22,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 702,
+    "lat": 20,
+    "long": 111,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 703,
+    "lat": 26,
+    "long": 132,
+    "species": "Osmia"
+  },
+  {
+    "id": 704,
+    "lat": 32,
+    "long": 123,
+    "species": "Osmia"
+  },
+  {
+    "id": 705,
+    "lat": 59,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 706,
+    "lat": 35,
+    "long": 115,
+    "species": "Osmia"
+  },
+  {
+    "id": 707,
+    "lat": 44,
+    "long": 136,
+    "species": "Osmia"
+  },
+  {
+    "id": 708,
+    "lat": 22,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 709,
+    "lat": 42,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 710,
+    "lat": 45,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 711,
+    "lat": 32,
+    "long": 113,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 712,
+    "lat": 59,
+    "long": 125,
+    "species": "Osmia"
+  },
+  {
+    "id": 713,
+    "lat": 39,
+    "long": 119,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 714,
+    "lat": 49,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 715,
+    "lat": 26,
+    "long": 134,
+    "species": "Osmia"
+  },
+  {
+    "id": 716,
+    "lat": 28,
+    "long": 123,
+    "species": "Osmia"
+  },
+  {
+    "id": 717,
+    "lat": 42,
+    "long": 133,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 718,
+    "lat": 30,
+    "long": 131,
+    "species": "Osmia"
+  },
+  {
+    "id": 719,
+    "lat": 56,
+    "long": 115,
+    "species": "Seladonia"
+  },
+  {
+    "id": 720,
+    "lat": 58,
+    "long": 122,
+    "species": "Seladonia"
+  },
+  {
+    "id": 721,
+    "lat": 49,
+    "long": 139,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 722,
+    "lat": 41,
+    "long": 105,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 723,
+    "lat": 20,
+    "long": 106,
+    "species": "Seladonia"
+  },
+  {
+    "id": 724,
+    "lat": 30,
+    "long": 126,
+    "species": "Osmia"
+  },
+  {
+    "id": 725,
+    "lat": 35,
+    "long": 134,
+    "species": "Osmia"
+  },
+  {
+    "id": 726,
+    "lat": 44,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 727,
+    "lat": 48,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 728,
+    "lat": 36,
+    "long": 120,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 729,
+    "lat": 41,
+    "long": 105,
+    "species": "Seladonia"
+  },
+  {
+    "id": 730,
+    "lat": 23,
+    "long": 130,
+    "species": "Osmia"
+  },
+  {
+    "id": 731,
+    "lat": 30,
+    "long": 126,
+    "species": "Osmia"
+  },
+  {
+    "id": 732,
+    "lat": 33,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 733,
+    "lat": 38,
+    "long": 104,
+    "species": "Osmia"
+  },
+  {
+    "id": 734,
+    "lat": 26,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 735,
+    "lat": 34,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 736,
+    "lat": 48,
+    "long": 131,
+    "species": "Seladonia"
+  },
+  {
+    "id": 737,
+    "lat": 51,
+    "long": 125,
+    "species": "Seladonia"
+  },
+  {
+    "id": 738,
+    "lat": 20,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 739,
+    "lat": 60,
+    "long": 123,
+    "species": "Osmia"
+  },
+  {
+    "id": 740,
+    "lat": 38,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 741,
+    "lat": 59,
+    "long": 139,
+    "species": "Osmia"
+  },
+  {
+    "id": 742,
+    "lat": 35,
+    "long": 132,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 743,
+    "lat": 44,
+    "long": 115,
+    "species": "Osmia"
+  },
+  {
+    "id": 744,
+    "lat": 25,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 745,
+    "lat": 30,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 746,
+    "lat": 35,
+    "long": 120,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 747,
+    "lat": 47,
+    "long": 139,
+    "species": "Seladonia"
+  },
+  {
+    "id": 748,
+    "lat": 45,
+    "long": 122,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 749,
+    "lat": 60,
+    "long": 138,
+    "species": "Osmia"
+  },
+  {
+    "id": 750,
+    "lat": 33,
+    "long": 109,
+    "species": "Osmia"
+  },
+  {
+    "id": 751,
+    "lat": 50,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 752,
+    "lat": 34,
+    "long": 108,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 753,
+    "lat": 52,
+    "long": 122,
+    "species": "Osmia"
+  },
+  {
+    "id": 754,
+    "lat": 36,
+    "long": 126,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 755,
+    "lat": 55,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 756,
+    "lat": 26,
+    "long": 129,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 757,
+    "lat": 58,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 758,
+    "lat": 36,
+    "long": 110,
+    "species": "Osmia"
+  },
+  {
+    "id": 759,
+    "lat": 31,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 760,
+    "lat": 50,
+    "long": 103,
+    "species": "Osmia"
+  },
+  {
+    "id": 761,
+    "lat": 32,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 762,
+    "lat": 41,
+    "long": 105,
+    "species": "Seladonia"
+  },
+  {
+    "id": 763,
+    "lat": 31,
+    "long": 116,
+    "species": "Osmia"
+  },
+  {
+    "id": 764,
+    "lat": 44,
+    "long": 122,
+    "species": "Seladonia"
+  },
+  {
+    "id": 765,
+    "lat": 26,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 766,
+    "lat": 25,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 767,
+    "lat": 26,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 768,
+    "lat": 30,
+    "long": 139,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 769,
+    "lat": 39,
+    "long": 136,
+    "species": "Osmia"
+  },
+  {
+    "id": 770,
+    "lat": 32,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 771,
+    "lat": 45,
+    "long": 124,
+    "species": "Seladonia"
+  },
+  {
+    "id": 772,
+    "lat": 29,
+    "long": 110,
+    "species": "Osmia"
+  },
+  {
+    "id": 773,
+    "lat": 29,
+    "long": 137,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 774,
+    "lat": 43,
+    "long": 139,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 775,
+    "lat": 59,
+    "long": 134,
+    "species": "Seladonia"
+  },
+  {
+    "id": 776,
+    "lat": 45,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 777,
+    "lat": 59,
+    "long": 121,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 778,
+    "lat": 30,
+    "long": 109,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 779,
+    "lat": 23,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 780,
+    "lat": 21,
+    "long": 105,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 781,
+    "lat": 58,
+    "long": 124,
+    "species": "Osmia"
+  },
+  {
+    "id": 782,
+    "lat": 27,
+    "long": 109,
+    "species": "Osmia"
+  },
+  {
+    "id": 783,
+    "lat": 35,
+    "long": 112,
+    "species": "Osmia"
+  },
+  {
+    "id": 784,
+    "lat": 27,
+    "long": 127,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 785,
+    "lat": 54,
+    "long": 131,
+    "species": "Osmia"
+  },
+  {
+    "id": 786,
+    "lat": 47,
+    "long": 104,
+    "species": "Osmia"
+  },
+  {
+    "id": 787,
+    "lat": 38,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 788,
+    "lat": 39,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 789,
+    "lat": 49,
+    "long": 129,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 790,
+    "lat": 42,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 791,
+    "lat": 24,
+    "long": 109,
+    "species": "Seladonia"
+  },
+  {
+    "id": 792,
+    "lat": 30,
+    "long": 129,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 793,
+    "lat": 33,
+    "long": 139,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 794,
+    "lat": 55,
+    "long": 110,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 795,
+    "lat": 40,
+    "long": 131,
+    "species": "Osmia"
+  },
+  {
+    "id": 796,
+    "lat": 28,
+    "long": 101,
+    "species": "Seladonia"
+  },
+  {
+    "id": 797,
+    "lat": 36,
+    "long": 120,
+    "species": "Osmia"
+  },
+  {
+    "id": 798,
+    "lat": 43,
+    "long": 133,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 799,
+    "lat": 35,
+    "long": 114,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 800,
+    "lat": 21,
+    "long": 135,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 801,
+    "lat": 34,
+    "long": 124,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 802,
+    "lat": 31,
+    "long": 103,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 803,
+    "lat": 37,
+    "long": 137,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 804,
+    "lat": 21,
+    "long": 123,
+    "species": "Osmia"
+  },
+  {
+    "id": 805,
+    "lat": 42,
+    "long": 125,
+    "species": "Osmia"
+  },
+  {
+    "id": 806,
+    "lat": 46,
+    "long": 116,
+    "species": "Osmia"
+  },
+  {
+    "id": 807,
+    "lat": 40,
+    "long": 125,
+    "species": "Seladonia"
+  },
+  {
+    "id": 808,
+    "lat": 31,
+    "long": 116,
+    "species": "Seladonia"
+  },
+  {
+    "id": 809,
+    "lat": 32,
+    "long": 108,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 810,
+    "lat": 46,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 811,
+    "lat": 25,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 812,
+    "lat": 55,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 813,
+    "lat": 40,
+    "long": 116,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 814,
+    "lat": 54,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 815,
+    "lat": 59,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 816,
+    "lat": 57,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 817,
+    "lat": 24,
+    "long": 108,
+    "species": "Seladonia"
+  },
+  {
+    "id": 818,
+    "lat": 37,
+    "long": 109,
+    "species": "Seladonia"
+  },
+  {
+    "id": 819,
+    "lat": 31,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 820,
+    "lat": 58,
+    "long": 127,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 821,
+    "lat": 20,
+    "long": 116,
+    "species": "Seladonia"
+  },
+  {
+    "id": 822,
+    "lat": 49,
+    "long": 100,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 823,
+    "lat": 36,
+    "long": 124,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 824,
+    "lat": 48,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 825,
+    "lat": 30,
+    "long": 136,
+    "species": "Seladonia"
+  },
+  {
+    "id": 826,
+    "lat": 23,
+    "long": 136,
+    "species": "Seladonia"
+  },
+  {
+    "id": 827,
+    "lat": 38,
+    "long": 130,
+    "species": "Seladonia"
+  },
+  {
+    "id": 828,
+    "lat": 60,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 829,
+    "lat": 25,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 830,
+    "lat": 33,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 831,
+    "lat": 47,
+    "long": 129,
+    "species": "Osmia"
+  },
+  {
+    "id": 832,
+    "lat": 48,
+    "long": 115,
+    "species": "Seladonia"
+  },
+  {
+    "id": 833,
+    "lat": 46,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 834,
+    "lat": 43,
+    "long": 117,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 835,
+    "lat": 28,
+    "long": 136,
+    "species": "Osmia"
+  },
+  {
+    "id": 836,
+    "lat": 57,
+    "long": 104,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 837,
+    "lat": 40,
+    "long": 128,
+    "species": "Seladonia"
+  },
+  {
+    "id": 838,
+    "lat": 42,
+    "long": 119,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 839,
+    "lat": 51,
+    "long": 116,
+    "species": "Seladonia"
+  },
+  {
+    "id": 840,
+    "lat": 20,
+    "long": 132,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 841,
+    "lat": 36,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 842,
+    "lat": 31,
+    "long": 100,
+    "species": "Seladonia"
+  },
+  {
+    "id": 843,
+    "lat": 22,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 844,
+    "lat": 23,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 845,
+    "lat": 25,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 846,
+    "lat": 26,
+    "long": 106,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 847,
+    "lat": 30,
+    "long": 111,
+    "species": "Osmia"
+  },
+  {
+    "id": 848,
+    "lat": 21,
+    "long": 130,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 849,
+    "lat": 25,
+    "long": 113,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 850,
+    "lat": 51,
+    "long": 100,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 851,
+    "lat": 26,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 852,
+    "lat": 55,
+    "long": 114,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 853,
+    "lat": 56,
+    "long": 119,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 854,
+    "lat": 56,
+    "long": 110,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 855,
+    "lat": 32,
+    "long": 109,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 856,
+    "lat": 45,
+    "long": 139,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 857,
+    "lat": 47,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 858,
+    "lat": 44,
+    "long": 107,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 859,
+    "lat": 37,
+    "long": 129,
+    "species": "Seladonia"
+  },
+  {
+    "id": 860,
+    "lat": 54,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 861,
+    "lat": 23,
+    "long": 112,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 862,
+    "lat": 41,
+    "long": 117,
+    "species": "Seladonia"
+  },
+  {
+    "id": 863,
+    "lat": 48,
+    "long": 118,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 864,
+    "lat": 49,
+    "long": 118,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 865,
+    "lat": 55,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 866,
+    "lat": 31,
+    "long": 116,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 867,
+    "lat": 43,
+    "long": 140,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 868,
+    "lat": 32,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 869,
+    "lat": 45,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 870,
+    "lat": 32,
+    "long": 102,
+    "species": "Seladonia"
+  },
+  {
+    "id": 871,
+    "lat": 59,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 872,
+    "lat": 31,
+    "long": 100,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 873,
+    "lat": 59,
+    "long": 125,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 874,
+    "lat": 27,
+    "long": 115,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 875,
+    "lat": 56,
+    "long": 101,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 876,
+    "lat": 29,
+    "long": 112,
+    "species": "Osmia"
+  },
+  {
+    "id": 877,
+    "lat": 31,
+    "long": 136,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 878,
+    "lat": 25,
+    "long": 112,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 879,
+    "lat": 59,
+    "long": 118,
+    "species": "Osmia"
+  },
+  {
+    "id": 880,
+    "lat": 26,
+    "long": 106,
+    "species": "Osmia"
+  },
+  {
+    "id": 881,
+    "lat": 48,
+    "long": 106,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 882,
+    "lat": 33,
+    "long": 102,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 883,
+    "lat": 54,
+    "long": 135,
+    "species": "Seladonia"
+  },
+  {
+    "id": 884,
+    "lat": 54,
+    "long": 129,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 885,
+    "lat": 51,
+    "long": 107,
+    "species": "Osmia"
+  },
+  {
+    "id": 886,
+    "lat": 59,
+    "long": 140,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 887,
+    "lat": 48,
+    "long": 120,
+    "species": "Osmia"
+  },
+  {
+    "id": 888,
+    "lat": 60,
+    "long": 128,
+    "species": "Osmia"
+  },
+  {
+    "id": 889,
+    "lat": 22,
+    "long": 100,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 890,
+    "lat": 30,
+    "long": 120,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 891,
+    "lat": 27,
+    "long": 130,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 892,
+    "lat": 30,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 893,
+    "lat": 47,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 894,
+    "lat": 57,
+    "long": 107,
+    "species": "Osmia"
+  },
+  {
+    "id": 895,
+    "lat": 45,
+    "long": 112,
+    "species": "Osmia"
+  },
+  {
+    "id": 896,
+    "lat": 25,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 897,
+    "lat": 49,
+    "long": 120,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 898,
+    "lat": 24,
+    "long": 104,
+    "species": "Osmia"
+  },
+  {
+    "id": 899,
+    "lat": 30,
+    "long": 117,
+    "species": "Osmia"
+  },
+  {
+    "id": 900,
+    "lat": 52,
+    "long": 132,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 901,
+    "lat": 34,
+    "long": 118,
+    "species": "Osmia"
+  },
+  {
+    "id": 902,
+    "lat": 49,
+    "long": 118,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 903,
+    "lat": 25,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 904,
+    "lat": 49,
+    "long": 138,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 905,
+    "lat": 25,
+    "long": 114,
+    "species": "Osmia"
+  },
+  {
+    "id": 906,
+    "lat": 29,
+    "long": 138,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 907,
+    "lat": 60,
+    "long": 109,
+    "species": "Osmia"
+  },
+  {
+    "id": 908,
+    "lat": 26,
+    "long": 129,
+    "species": "Seladonia"
+  },
+  {
+    "id": 909,
+    "lat": 27,
+    "long": 136,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 910,
+    "lat": 31,
+    "long": 140,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 911,
+    "lat": 59,
+    "long": 123,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 912,
+    "lat": 60,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 913,
+    "lat": 51,
+    "long": 104,
+    "species": "Seladonia"
+  },
+  {
+    "id": 914,
+    "lat": 45,
+    "long": 132,
+    "species": "Seladonia"
+  },
+  {
+    "id": 915,
+    "lat": 35,
+    "long": 118,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 916,
+    "lat": 39,
+    "long": 103,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 917,
+    "lat": 49,
+    "long": 131,
+    "species": "Seladonia"
+  },
+  {
+    "id": 918,
+    "lat": 21,
+    "long": 108,
+    "species": "Osmia"
+  },
+  {
+    "id": 919,
+    "lat": 37,
+    "long": 128,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 920,
+    "lat": 31,
+    "long": 111,
+    "species": "Seladonia"
+  },
+  {
+    "id": 921,
+    "lat": 30,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 922,
+    "lat": 52,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 923,
+    "lat": 36,
+    "long": 137,
+    "species": "Seladonia"
+  },
+  {
+    "id": 924,
+    "lat": 21,
+    "long": 104,
+    "species": "Seladonia"
+  },
+  {
+    "id": 925,
+    "lat": 54,
+    "long": 108,
+    "species": "Osmia"
+  },
+  {
+    "id": 926,
+    "lat": 56,
+    "long": 134,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 927,
+    "lat": 25,
+    "long": 119,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 928,
+    "lat": 59,
+    "long": 115,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 929,
+    "lat": 26,
+    "long": 126,
+    "species": "Seladonia"
+  },
+  {
+    "id": 930,
+    "lat": 59,
+    "long": 104,
+    "species": "Seladonia"
+  },
+  {
+    "id": 931,
+    "lat": 39,
+    "long": 120,
+    "species": "Osmia"
+  },
+  {
+    "id": 932,
+    "lat": 59,
+    "long": 107,
+    "species": "Seladonia"
+  },
+  {
+    "id": 933,
+    "lat": 33,
+    "long": 112,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 934,
+    "lat": 54,
+    "long": 109,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 935,
+    "lat": 33,
+    "long": 113,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 936,
+    "lat": 25,
+    "long": 137,
+    "species": "Seladonia"
+  },
+  {
+    "id": 937,
+    "lat": 28,
+    "long": 138,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 938,
+    "lat": 25,
+    "long": 127,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 939,
+    "lat": 27,
+    "long": 109,
+    "species": "Osmia"
+  },
+  {
+    "id": 940,
+    "lat": 58,
+    "long": 111,
+    "species": "Seladonia"
+  },
+  {
+    "id": 941,
+    "lat": 48,
+    "long": 134,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 942,
+    "lat": 47,
+    "long": 126,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 943,
+    "lat": 37,
+    "long": 131,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 944,
+    "lat": 28,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 945,
+    "lat": 47,
+    "long": 116,
+    "species": "Osmia"
+  },
+  {
+    "id": 946,
+    "lat": 40,
+    "long": 128,
+    "species": "Seladonia"
+  },
+  {
+    "id": 947,
+    "lat": 46,
+    "long": 121,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 948,
+    "lat": 24,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 949,
+    "lat": 26,
+    "long": 111,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 950,
+    "lat": 59,
+    "long": 128,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 951,
+    "lat": 23,
+    "long": 124,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 952,
+    "lat": 35,
+    "long": 130,
+    "species": "Seladonia"
+  },
+  {
+    "id": 953,
+    "lat": 37,
+    "long": 118,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 954,
+    "lat": 56,
+    "long": 137,
+    "species": "Osmia"
+  },
+  {
+    "id": 955,
+    "lat": 20,
+    "long": 121,
+    "species": "Seladonia"
+  },
+  {
+    "id": 956,
+    "lat": 57,
+    "long": 108,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 957,
+    "lat": 56,
+    "long": 103,
+    "species": "Seladonia"
+  },
+  {
+    "id": 958,
+    "lat": 40,
+    "long": 135,
+    "species": "Osmia"
+  },
+  {
+    "id": 959,
+    "lat": 25,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 960,
+    "lat": 36,
+    "long": 128,
+    "species": "Seladonia"
+  },
+  {
+    "id": 961,
+    "lat": 40,
+    "long": 132,
+    "species": "Seladonia"
+  },
+  {
+    "id": 962,
+    "lat": 21,
+    "long": 138,
+    "species": "Seladonia"
+  },
+  {
+    "id": 963,
+    "lat": 43,
+    "long": 122,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 964,
+    "lat": 56,
+    "long": 121,
+    "species": "Osmia"
+  },
+  {
+    "id": 965,
+    "lat": 52,
+    "long": 124,
+    "species": "Osmia"
+  },
+  {
+    "id": 966,
+    "lat": 40,
+    "long": 117,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 967,
+    "lat": 26,
+    "long": 109,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 968,
+    "lat": 34,
+    "long": 117,
+    "species": "Seladonia"
+  },
+  {
+    "id": 969,
+    "lat": 55,
+    "long": 120,
+    "species": "Osmia"
+  },
+  {
+    "id": 970,
+    "lat": 24,
+    "long": 126,
+    "species": "Osmia"
+  },
+  {
+    "id": 971,
+    "lat": 48,
+    "long": 105,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 972,
+    "lat": 24,
+    "long": 102,
+    "species": "Osmia"
+  },
+  {
+    "id": 973,
+    "lat": 46,
+    "long": 104,
+    "species": "Seladonia"
+  },
+  {
+    "id": 974,
+    "lat": 28,
+    "long": 130,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 975,
+    "lat": 59,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 976,
+    "lat": 49,
+    "long": 112,
+    "species": "Seladonia"
+  },
+  {
+    "id": 977,
+    "lat": 51,
+    "long": 122,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 978,
+    "lat": 20,
+    "long": 102,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 979,
+    "lat": 29,
+    "long": 127,
+    "species": "Osmia"
+  },
+  {
+    "id": 980,
+    "lat": 29,
+    "long": 123,
+    "species": "Seladonia"
+  },
+  {
+    "id": 981,
+    "lat": 55,
+    "long": 113,
+    "species": "Seladonia"
+  },
+  {
+    "id": 982,
+    "lat": 27,
+    "long": 113,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 983,
+    "lat": 22,
+    "long": 107,
+    "species": "Osmia"
+  },
+  {
+    "id": 984,
+    "lat": 52,
+    "long": 121,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 985,
+    "lat": 36,
+    "long": 105,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 986,
+    "lat": 20,
+    "long": 116,
+    "species": "Osmia"
+  },
+  {
+    "id": 987,
+    "lat": 39,
+    "long": 105,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 988,
+    "lat": 28,
+    "long": 113,
+    "species": "Osmia"
+  },
+  {
+    "id": 989,
+    "lat": 39,
+    "long": 123,
+    "species": "Seladonia"
+  },
+  {
+    "id": 990,
+    "lat": 39,
+    "long": 114,
+    "species": "Seladonia"
+  },
+  {
+    "id": 991,
+    "lat": 51,
+    "long": 127,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 992,
+    "lat": 46,
+    "long": 103,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 993,
+    "lat": 37,
+    "long": 105,
+    "species": "Osmia"
+  },
+  {
+    "id": 994,
+    "lat": 21,
+    "long": 120,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 995,
+    "lat": 36,
+    "long": 110,
+    "species": "Seladonia"
+  },
+  {
+    "id": 996,
+    "lat": 35,
+    "long": 106,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 997,
+    "lat": 45,
+    "long": 129,
+    "species": "Lasioglossum"
+  },
+  {
+    "id": 998,
+    "lat": 24,
+    "long": 123,
+    "species": "Apis mellifera"
+  },
+  {
+    "id": 999,
+    "lat": 45,
+    "long": 100,
+    "species": "Osmia"
+  }
+]
