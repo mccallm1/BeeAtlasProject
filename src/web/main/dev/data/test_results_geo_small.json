@@ -1,0 +1,125 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,32 ]
+    },
+    "properties": {
+    "0":1,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,39 ]
+    },
+    "properties": {
+    "0":2,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,21 ]
+    },
+    "properties": {
+    "0":3,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,33 ]
+    },
+    "properties": {
+    "0":4,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,25 ]
+    },
+    "properties": {
+    "0":5,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,60 ]
+    },
+    "properties": {
+    "0":6,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,47 ]
+    },
+    "properties": {
+    "0":7,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,45 ]
+    },
+    "properties": {
+    "0":8,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,35 ]
+    },
+    "properties": {
+    "0":9,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,24 ]
+    },
+    "properties": {
+    "0":10,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,30 ]
+    },
+    "properties": {
+    "0":11,
+    "Lasioglossum":"Apis mellifera"
+    }
+  }
+}
