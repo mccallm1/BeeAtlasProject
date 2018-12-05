@@ -1,7 +1,7 @@
 var points = svg.append('g');
 
 points.selectAll('path')
-  .data('data/test_results_geo.json'.features)
+  .data('data/test_results_geo_small.json'.features)
   .enter()
   .append('path')
   .attr('fill', '#900')
