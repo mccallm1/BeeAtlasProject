@@ -1,0 +1,10994 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,32 ]
+    },
+    "properties": {
+    "0":1,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,39 ]
+    },
+    "properties": {
+    "0":2,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,21 ]
+    },
+    "properties": {
+    "0":3,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,33 ]
+    },
+    "properties": {
+    "0":4,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,25 ]
+    },
+    "properties": {
+    "0":5,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,60 ]
+    },
+    "properties": {
+    "0":6,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,47 ]
+    },
+    "properties": {
+    "0":7,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,45 ]
+    },
+    "properties": {
+    "0":8,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,35 ]
+    },
+    "properties": {
+    "0":9,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,24 ]
+    },
+    "properties": {
+    "0":10,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,30 ]
+    },
+    "properties": {
+    "0":11,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,27 ]
+    },
+    "properties": {
+    "0":12,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,31 ]
+    },
+    "properties": {
+    "0":13,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,59 ]
+    },
+    "properties": {
+    "0":14,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,28 ]
+    },
+    "properties": {
+    "0":15,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,50 ]
+    },
+    "properties": {
+    "0":16,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,28 ]
+    },
+    "properties": {
+    "0":17,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,57 ]
+    },
+    "properties": {
+    "0":18,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,49 ]
+    },
+    "properties": {
+    "0":19,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,41 ]
+    },
+    "properties": {
+    "0":20,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,51 ]
+    },
+    "properties": {
+    "0":21,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,53 ]
+    },
+    "properties": {
+    "0":22,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,51 ]
+    },
+    "properties": {
+    "0":23,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,42 ]
+    },
+    "properties": {
+    "0":24,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,30 ]
+    },
+    "properties": {
+    "0":25,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,35 ]
+    },
+    "properties": {
+    "0":26,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,43 ]
+    },
+    "properties": {
+    "0":27,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,47 ]
+    },
+    "properties": {
+    "0":28,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,27 ]
+    },
+    "properties": {
+    "0":29,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,54 ]
+    },
+    "properties": {
+    "0":30,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,56 ]
+    },
+    "properties": {
+    "0":31,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,37 ]
+    },
+    "properties": {
+    "0":32,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,20 ]
+    },
+    "properties": {
+    "0":33,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,48 ]
+    },
+    "properties": {
+    "0":34,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,28 ]
+    },
+    "properties": {
+    "0":35,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,50 ]
+    },
+    "properties": {
+    "0":36,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,60 ]
+    },
+    "properties": {
+    "0":37,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,44 ]
+    },
+    "properties": {
+    "0":38,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,35 ]
+    },
+    "properties": {
+    "0":39,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,20 ]
+    },
+    "properties": {
+    "0":40,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,32 ]
+    },
+    "properties": {
+    "0":41,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,28 ]
+    },
+    "properties": {
+    "0":42,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,23 ]
+    },
+    "properties": {
+    "0":43,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,20 ]
+    },
+    "properties": {
+    "0":44,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,50 ]
+    },
+    "properties": {
+    "0":45,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,58 ]
+    },
+    "properties": {
+    "0":46,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,41 ]
+    },
+    "properties": {
+    "0":47,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,32 ]
+    },
+    "properties": {
+    "0":48,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,50 ]
+    },
+    "properties": {
+    "0":49,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,47 ]
+    },
+    "properties": {
+    "0":50,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,28 ]
+    },
+    "properties": {
+    "0":51,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,33 ]
+    },
+    "properties": {
+    "0":52,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,57 ]
+    },
+    "properties": {
+    "0":53,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,58 ]
+    },
+    "properties": {
+    "0":54,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,23 ]
+    },
+    "properties": {
+    "0":55,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,40 ]
+    },
+    "properties": {
+    "0":56,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,28 ]
+    },
+    "properties": {
+    "0":57,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,26 ]
+    },
+    "properties": {
+    "0":58,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,44 ]
+    },
+    "properties": {
+    "0":59,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,35 ]
+    },
+    "properties": {
+    "0":60,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,43 ]
+    },
+    "properties": {
+    "0":61,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,50 ]
+    },
+    "properties": {
+    "0":62,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,41 ]
+    },
+    "properties": {
+    "0":63,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,38 ]
+    },
+    "properties": {
+    "0":64,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,28 ]
+    },
+    "properties": {
+    "0":65,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,54 ]
+    },
+    "properties": {
+    "0":66,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,22 ]
+    },
+    "properties": {
+    "0":67,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,22 ]
+    },
+    "properties": {
+    "0":68,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,51 ]
+    },
+    "properties": {
+    "0":69,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,22 ]
+    },
+    "properties": {
+    "0":70,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,38 ]
+    },
+    "properties": {
+    "0":71,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,20 ]
+    },
+    "properties": {
+    "0":72,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,25 ]
+    },
+    "properties": {
+    "0":73,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,51 ]
+    },
+    "properties": {
+    "0":74,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,35 ]
+    },
+    "properties": {
+    "0":75,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,47 ]
+    },
+    "properties": {
+    "0":76,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,53 ]
+    },
+    "properties": {
+    "0":77,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,42 ]
+    },
+    "properties": {
+    "0":78,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,20 ]
+    },
+    "properties": {
+    "0":79,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,44 ]
+    },
+    "properties": {
+    "0":80,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,28 ]
+    },
+    "properties": {
+    "0":81,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,31 ]
+    },
+    "properties": {
+    "0":82,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,47 ]
+    },
+    "properties": {
+    "0":83,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,32 ]
+    },
+    "properties": {
+    "0":84,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,37 ]
+    },
+    "properties": {
+    "0":85,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,56 ]
+    },
+    "properties": {
+    "0":86,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,36 ]
+    },
+    "properties": {
+    "0":87,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,26 ]
+    },
+    "properties": {
+    "0":88,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,38 ]
+    },
+    "properties": {
+    "0":89,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,36 ]
+    },
+    "properties": {
+    "0":90,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,25 ]
+    },
+    "properties": {
+    "0":91,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,44 ]
+    },
+    "properties": {
+    "0":92,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,27 ]
+    },
+    "properties": {
+    "0":93,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,29 ]
+    },
+    "properties": {
+    "0":94,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,54 ]
+    },
+    "properties": {
+    "0":95,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,52 ]
+    },
+    "properties": {
+    "0":96,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,42 ]
+    },
+    "properties": {
+    "0":97,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,28 ]
+    },
+    "properties": {
+    "0":98,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,25 ]
+    },
+    "properties": {
+    "0":99,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,56 ]
+    },
+    "properties": {
+    "0":100,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,20 ]
+    },
+    "properties": {
+    "0":101,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,46 ]
+    },
+    "properties": {
+    "0":102,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,38 ]
+    },
+    "properties": {
+    "0":103,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,49 ]
+    },
+    "properties": {
+    "0":104,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,56 ]
+    },
+    "properties": {
+    "0":105,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,50 ]
+    },
+    "properties": {
+    "0":106,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,34 ]
+    },
+    "properties": {
+    "0":107,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,56 ]
+    },
+    "properties": {
+    "0":108,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,29 ]
+    },
+    "properties": {
+    "0":109,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,42 ]
+    },
+    "properties": {
+    "0":110,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,57 ]
+    },
+    "properties": {
+    "0":111,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,60 ]
+    },
+    "properties": {
+    "0":112,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,25 ]
+    },
+    "properties": {
+    "0":113,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,43 ]
+    },
+    "properties": {
+    "0":114,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,47 ]
+    },
+    "properties": {
+    "0":115,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,58 ]
+    },
+    "properties": {
+    "0":116,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,41 ]
+    },
+    "properties": {
+    "0":117,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,36 ]
+    },
+    "properties": {
+    "0":118,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,38 ]
+    },
+    "properties": {
+    "0":119,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,33 ]
+    },
+    "properties": {
+    "0":120,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,21 ]
+    },
+    "properties": {
+    "0":121,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,29 ]
+    },
+    "properties": {
+    "0":122,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,58 ]
+    },
+    "properties": {
+    "0":123,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,23 ]
+    },
+    "properties": {
+    "0":124,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,25 ]
+    },
+    "properties": {
+    "0":125,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,52 ]
+    },
+    "properties": {
+    "0":126,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,22 ]
+    },
+    "properties": {
+    "0":127,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,57 ]
+    },
+    "properties": {
+    "0":128,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,39 ]
+    },
+    "properties": {
+    "0":129,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,27 ]
+    },
+    "properties": {
+    "0":130,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,46 ]
+    },
+    "properties": {
+    "0":131,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,28 ]
+    },
+    "properties": {
+    "0":132,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,29 ]
+    },
+    "properties": {
+    "0":133,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,46 ]
+    },
+    "properties": {
+    "0":134,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,25 ]
+    },
+    "properties": {
+    "0":135,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,59 ]
+    },
+    "properties": {
+    "0":136,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,46 ]
+    },
+    "properties": {
+    "0":137,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,51 ]
+    },
+    "properties": {
+    "0":138,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,48 ]
+    },
+    "properties": {
+    "0":139,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,54 ]
+    },
+    "properties": {
+    "0":140,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,40 ]
+    },
+    "properties": {
+    "0":141,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,31 ]
+    },
+    "properties": {
+    "0":142,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,45 ]
+    },
+    "properties": {
+    "0":143,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,44 ]
+    },
+    "properties": {
+    "0":144,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,40 ]
+    },
+    "properties": {
+    "0":145,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,58 ]
+    },
+    "properties": {
+    "0":146,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,59 ]
+    },
+    "properties": {
+    "0":147,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,23 ]
+    },
+    "properties": {
+    "0":148,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,37 ]
+    },
+    "properties": {
+    "0":149,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,32 ]
+    },
+    "properties": {
+    "0":150,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,31 ]
+    },
+    "properties": {
+    "0":151,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,40 ]
+    },
+    "properties": {
+    "0":152,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,52 ]
+    },
+    "properties": {
+    "0":153,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,48 ]
+    },
+    "properties": {
+    "0":154,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,50 ]
+    },
+    "properties": {
+    "0":155,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,31 ]
+    },
+    "properties": {
+    "0":156,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,43 ]
+    },
+    "properties": {
+    "0":157,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,25 ]
+    },
+    "properties": {
+    "0":158,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,53 ]
+    },
+    "properties": {
+    "0":159,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,31 ]
+    },
+    "properties": {
+    "0":160,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,59 ]
+    },
+    "properties": {
+    "0":161,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,46 ]
+    },
+    "properties": {
+    "0":162,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,54 ]
+    },
+    "properties": {
+    "0":163,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,32 ]
+    },
+    "properties": {
+    "0":164,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,47 ]
+    },
+    "properties": {
+    "0":165,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,33 ]
+    },
+    "properties": {
+    "0":166,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,32 ]
+    },
+    "properties": {
+    "0":167,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,44 ]
+    },
+    "properties": {
+    "0":168,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,42 ]
+    },
+    "properties": {
+    "0":169,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,33 ]
+    },
+    "properties": {
+    "0":170,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,57 ]
+    },
+    "properties": {
+    "0":171,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,39 ]
+    },
+    "properties": {
+    "0":172,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,32 ]
+    },
+    "properties": {
+    "0":173,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,40 ]
+    },
+    "properties": {
+    "0":174,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,44 ]
+    },
+    "properties": {
+    "0":175,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,49 ]
+    },
+    "properties": {
+    "0":176,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,32 ]
+    },
+    "properties": {
+    "0":177,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,44 ]
+    },
+    "properties": {
+    "0":178,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,58 ]
+    },
+    "properties": {
+    "0":179,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,43 ]
+    },
+    "properties": {
+    "0":180,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,51 ]
+    },
+    "properties": {
+    "0":181,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,43 ]
+    },
+    "properties": {
+    "0":182,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,60 ]
+    },
+    "properties": {
+    "0":183,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,42 ]
+    },
+    "properties": {
+    "0":184,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,53 ]
+    },
+    "properties": {
+    "0":185,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,28 ]
+    },
+    "properties": {
+    "0":186,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,53 ]
+    },
+    "properties": {
+    "0":187,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,30 ]
+    },
+    "properties": {
+    "0":188,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,21 ]
+    },
+    "properties": {
+    "0":189,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,50 ]
+    },
+    "properties": {
+    "0":190,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,37 ]
+    },
+    "properties": {
+    "0":191,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,48 ]
+    },
+    "properties": {
+    "0":192,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,55 ]
+    },
+    "properties": {
+    "0":193,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,45 ]
+    },
+    "properties": {
+    "0":194,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,56 ]
+    },
+    "properties": {
+    "0":195,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,32 ]
+    },
+    "properties": {
+    "0":196,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,52 ]
+    },
+    "properties": {
+    "0":197,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,28 ]
+    },
+    "properties": {
+    "0":198,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,46 ]
+    },
+    "properties": {
+    "0":199,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,34 ]
+    },
+    "properties": {
+    "0":200,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,42 ]
+    },
+    "properties": {
+    "0":201,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,48 ]
+    },
+    "properties": {
+    "0":202,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,51 ]
+    },
+    "properties": {
+    "0":203,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,28 ]
+    },
+    "properties": {
+    "0":204,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,50 ]
+    },
+    "properties": {
+    "0":205,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,36 ]
+    },
+    "properties": {
+    "0":206,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,38 ]
+    },
+    "properties": {
+    "0":207,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,50 ]
+    },
+    "properties": {
+    "0":208,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,57 ]
+    },
+    "properties": {
+    "0":209,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,22 ]
+    },
+    "properties": {
+    "0":210,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,24 ]
+    },
+    "properties": {
+    "0":211,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,20 ]
+    },
+    "properties": {
+    "0":212,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,39 ]
+    },
+    "properties": {
+    "0":213,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,46 ]
+    },
+    "properties": {
+    "0":214,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,26 ]
+    },
+    "properties": {
+    "0":215,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,28 ]
+    },
+    "properties": {
+    "0":216,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,36 ]
+    },
+    "properties": {
+    "0":217,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,54 ]
+    },
+    "properties": {
+    "0":218,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,20 ]
+    },
+    "properties": {
+    "0":219,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,33 ]
+    },
+    "properties": {
+    "0":220,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,47 ]
+    },
+    "properties": {
+    "0":221,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,58 ]
+    },
+    "properties": {
+    "0":222,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,40 ]
+    },
+    "properties": {
+    "0":223,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,46 ]
+    },
+    "properties": {
+    "0":224,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,58 ]
+    },
+    "properties": {
+    "0":225,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,48 ]
+    },
+    "properties": {
+    "0":226,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,32 ]
+    },
+    "properties": {
+    "0":227,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,55 ]
+    },
+    "properties": {
+    "0":228,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,42 ]
+    },
+    "properties": {
+    "0":229,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,50 ]
+    },
+    "properties": {
+    "0":230,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,32 ]
+    },
+    "properties": {
+    "0":231,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,44 ]
+    },
+    "properties": {
+    "0":232,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,43 ]
+    },
+    "properties": {
+    "0":233,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,48 ]
+    },
+    "properties": {
+    "0":234,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,32 ]
+    },
+    "properties": {
+    "0":235,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,48 ]
+    },
+    "properties": {
+    "0":236,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,27 ]
+    },
+    "properties": {
+    "0":237,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,22 ]
+    },
+    "properties": {
+    "0":238,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,59 ]
+    },
+    "properties": {
+    "0":239,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,53 ]
+    },
+    "properties": {
+    "0":240,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,33 ]
+    },
+    "properties": {
+    "0":241,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,50 ]
+    },
+    "properties": {
+    "0":242,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,37 ]
+    },
+    "properties": {
+    "0":243,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,20 ]
+    },
+    "properties": {
+    "0":244,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,40 ]
+    },
+    "properties": {
+    "0":245,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,45 ]
+    },
+    "properties": {
+    "0":246,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,27 ]
+    },
+    "properties": {
+    "0":247,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,42 ]
+    },
+    "properties": {
+    "0":248,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,24 ]
+    },
+    "properties": {
+    "0":249,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,32 ]
+    },
+    "properties": {
+    "0":250,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,42 ]
+    },
+    "properties": {
+    "0":251,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,55 ]
+    },
+    "properties": {
+    "0":252,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,34 ]
+    },
+    "properties": {
+    "0":253,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,35 ]
+    },
+    "properties": {
+    "0":254,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,46 ]
+    },
+    "properties": {
+    "0":255,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,49 ]
+    },
+    "properties": {
+    "0":256,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,45 ]
+    },
+    "properties": {
+    "0":257,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,52 ]
+    },
+    "properties": {
+    "0":258,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,42 ]
+    },
+    "properties": {
+    "0":259,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,57 ]
+    },
+    "properties": {
+    "0":260,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,37 ]
+    },
+    "properties": {
+    "0":261,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,28 ]
+    },
+    "properties": {
+    "0":262,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,24 ]
+    },
+    "properties": {
+    "0":263,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,34 ]
+    },
+    "properties": {
+    "0":264,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,23 ]
+    },
+    "properties": {
+    "0":265,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,24 ]
+    },
+    "properties": {
+    "0":266,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,28 ]
+    },
+    "properties": {
+    "0":267,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,43 ]
+    },
+    "properties": {
+    "0":268,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,30 ]
+    },
+    "properties": {
+    "0":269,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,31 ]
+    },
+    "properties": {
+    "0":270,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,48 ]
+    },
+    "properties": {
+    "0":271,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,59 ]
+    },
+    "properties": {
+    "0":272,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,28 ]
+    },
+    "properties": {
+    "0":273,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,39 ]
+    },
+    "properties": {
+    "0":274,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,23 ]
+    },
+    "properties": {
+    "0":275,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,24 ]
+    },
+    "properties": {
+    "0":276,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,39 ]
+    },
+    "properties": {
+    "0":277,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,44 ]
+    },
+    "properties": {
+    "0":278,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,33 ]
+    },
+    "properties": {
+    "0":279,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,55 ]
+    },
+    "properties": {
+    "0":280,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,40 ]
+    },
+    "properties": {
+    "0":281,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,49 ]
+    },
+    "properties": {
+    "0":282,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,48 ]
+    },
+    "properties": {
+    "0":283,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,26 ]
+    },
+    "properties": {
+    "0":284,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,25 ]
+    },
+    "properties": {
+    "0":285,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,20 ]
+    },
+    "properties": {
+    "0":286,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,57 ]
+    },
+    "properties": {
+    "0":287,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,50 ]
+    },
+    "properties": {
+    "0":288,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,60 ]
+    },
+    "properties": {
+    "0":289,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,56 ]
+    },
+    "properties": {
+    "0":290,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,32 ]
+    },
+    "properties": {
+    "0":291,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,46 ]
+    },
+    "properties": {
+    "0":292,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,34 ]
+    },
+    "properties": {
+    "0":293,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,37 ]
+    },
+    "properties": {
+    "0":294,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,54 ]
+    },
+    "properties": {
+    "0":295,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,38 ]
+    },
+    "properties": {
+    "0":296,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,49 ]
+    },
+    "properties": {
+    "0":297,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,55 ]
+    },
+    "properties": {
+    "0":298,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,56 ]
+    },
+    "properties": {
+    "0":299,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,51 ]
+    },
+    "properties": {
+    "0":300,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,36 ]
+    },
+    "properties": {
+    "0":301,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,43 ]
+    },
+    "properties": {
+    "0":302,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,32 ]
+    },
+    "properties": {
+    "0":303,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,60 ]
+    },
+    "properties": {
+    "0":304,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,36 ]
+    },
+    "properties": {
+    "0":305,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,26 ]
+    },
+    "properties": {
+    "0":306,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,26 ]
+    },
+    "properties": {
+    "0":307,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,44 ]
+    },
+    "properties": {
+    "0":308,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,27 ]
+    },
+    "properties": {
+    "0":309,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,30 ]
+    },
+    "properties": {
+    "0":310,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,50 ]
+    },
+    "properties": {
+    "0":311,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,44 ]
+    },
+    "properties": {
+    "0":312,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,38 ]
+    },
+    "properties": {
+    "0":313,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,58 ]
+    },
+    "properties": {
+    "0":314,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,21 ]
+    },
+    "properties": {
+    "0":315,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,51 ]
+    },
+    "properties": {
+    "0":316,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,60 ]
+    },
+    "properties": {
+    "0":317,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,53 ]
+    },
+    "properties": {
+    "0":318,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,40 ]
+    },
+    "properties": {
+    "0":319,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,34 ]
+    },
+    "properties": {
+    "0":320,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,49 ]
+    },
+    "properties": {
+    "0":321,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,60 ]
+    },
+    "properties": {
+    "0":322,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,34 ]
+    },
+    "properties": {
+    "0":323,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,39 ]
+    },
+    "properties": {
+    "0":324,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,53 ]
+    },
+    "properties": {
+    "0":325,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,26 ]
+    },
+    "properties": {
+    "0":326,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,51 ]
+    },
+    "properties": {
+    "0":327,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,39 ]
+    },
+    "properties": {
+    "0":328,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,25 ]
+    },
+    "properties": {
+    "0":329,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,56 ]
+    },
+    "properties": {
+    "0":330,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,48 ]
+    },
+    "properties": {
+    "0":331,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,24 ]
+    },
+    "properties": {
+    "0":332,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,54 ]
+    },
+    "properties": {
+    "0":333,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,58 ]
+    },
+    "properties": {
+    "0":334,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,33 ]
+    },
+    "properties": {
+    "0":335,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,33 ]
+    },
+    "properties": {
+    "0":336,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,39 ]
+    },
+    "properties": {
+    "0":337,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,46 ]
+    },
+    "properties": {
+    "0":338,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,45 ]
+    },
+    "properties": {
+    "0":339,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,55 ]
+    },
+    "properties": {
+    "0":340,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,29 ]
+    },
+    "properties": {
+    "0":341,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,22 ]
+    },
+    "properties": {
+    "0":342,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,60 ]
+    },
+    "properties": {
+    "0":343,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,56 ]
+    },
+    "properties": {
+    "0":344,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,29 ]
+    },
+    "properties": {
+    "0":345,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,42 ]
+    },
+    "properties": {
+    "0":346,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,32 ]
+    },
+    "properties": {
+    "0":347,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,47 ]
+    },
+    "properties": {
+    "0":348,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,37 ]
+    },
+    "properties": {
+    "0":349,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,52 ]
+    },
+    "properties": {
+    "0":350,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,22 ]
+    },
+    "properties": {
+    "0":351,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,35 ]
+    },
+    "properties": {
+    "0":352,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,39 ]
+    },
+    "properties": {
+    "0":353,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,32 ]
+    },
+    "properties": {
+    "0":354,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,34 ]
+    },
+    "properties": {
+    "0":355,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,40 ]
+    },
+    "properties": {
+    "0":356,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,25 ]
+    },
+    "properties": {
+    "0":357,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,20 ]
+    },
+    "properties": {
+    "0":358,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,26 ]
+    },
+    "properties": {
+    "0":359,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,27 ]
+    },
+    "properties": {
+    "0":360,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,49 ]
+    },
+    "properties": {
+    "0":361,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,58 ]
+    },
+    "properties": {
+    "0":362,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,34 ]
+    },
+    "properties": {
+    "0":363,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,41 ]
+    },
+    "properties": {
+    "0":364,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,55 ]
+    },
+    "properties": {
+    "0":365,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,60 ]
+    },
+    "properties": {
+    "0":366,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,23 ]
+    },
+    "properties": {
+    "0":367,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,22 ]
+    },
+    "properties": {
+    "0":368,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,51 ]
+    },
+    "properties": {
+    "0":369,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,37 ]
+    },
+    "properties": {
+    "0":370,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,51 ]
+    },
+    "properties": {
+    "0":371,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,54 ]
+    },
+    "properties": {
+    "0":372,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,32 ]
+    },
+    "properties": {
+    "0":373,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,50 ]
+    },
+    "properties": {
+    "0":374,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,34 ]
+    },
+    "properties": {
+    "0":375,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,21 ]
+    },
+    "properties": {
+    "0":376,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,38 ]
+    },
+    "properties": {
+    "0":377,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,57 ]
+    },
+    "properties": {
+    "0":378,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,24 ]
+    },
+    "properties": {
+    "0":379,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,56 ]
+    },
+    "properties": {
+    "0":380,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,24 ]
+    },
+    "properties": {
+    "0":381,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,23 ]
+    },
+    "properties": {
+    "0":382,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,26 ]
+    },
+    "properties": {
+    "0":383,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,55 ]
+    },
+    "properties": {
+    "0":384,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,31 ]
+    },
+    "properties": {
+    "0":385,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,42 ]
+    },
+    "properties": {
+    "0":386,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,51 ]
+    },
+    "properties": {
+    "0":387,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,32 ]
+    },
+    "properties": {
+    "0":388,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,41 ]
+    },
+    "properties": {
+    "0":389,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,55 ]
+    },
+    "properties": {
+    "0":390,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,21 ]
+    },
+    "properties": {
+    "0":391,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,22 ]
+    },
+    "properties": {
+    "0":392,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,48 ]
+    },
+    "properties": {
+    "0":393,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,49 ]
+    },
+    "properties": {
+    "0":394,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,20 ]
+    },
+    "properties": {
+    "0":395,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,37 ]
+    },
+    "properties": {
+    "0":396,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,37 ]
+    },
+    "properties": {
+    "0":397,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,41 ]
+    },
+    "properties": {
+    "0":398,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,51 ]
+    },
+    "properties": {
+    "0":399,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,46 ]
+    },
+    "properties": {
+    "0":400,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,34 ]
+    },
+    "properties": {
+    "0":401,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,32 ]
+    },
+    "properties": {
+    "0":402,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,22 ]
+    },
+    "properties": {
+    "0":403,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,39 ]
+    },
+    "properties": {
+    "0":404,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,51 ]
+    },
+    "properties": {
+    "0":405,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,38 ]
+    },
+    "properties": {
+    "0":406,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,51 ]
+    },
+    "properties": {
+    "0":407,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,43 ]
+    },
+    "properties": {
+    "0":408,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,33 ]
+    },
+    "properties": {
+    "0":409,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,50 ]
+    },
+    "properties": {
+    "0":410,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,43 ]
+    },
+    "properties": {
+    "0":411,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,36 ]
+    },
+    "properties": {
+    "0":412,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,28 ]
+    },
+    "properties": {
+    "0":413,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,32 ]
+    },
+    "properties": {
+    "0":414,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,42 ]
+    },
+    "properties": {
+    "0":415,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,53 ]
+    },
+    "properties": {
+    "0":416,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,42 ]
+    },
+    "properties": {
+    "0":417,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,21 ]
+    },
+    "properties": {
+    "0":418,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,54 ]
+    },
+    "properties": {
+    "0":419,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,34 ]
+    },
+    "properties": {
+    "0":420,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,24 ]
+    },
+    "properties": {
+    "0":421,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,38 ]
+    },
+    "properties": {
+    "0":422,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,51 ]
+    },
+    "properties": {
+    "0":423,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,56 ]
+    },
+    "properties": {
+    "0":424,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,24 ]
+    },
+    "properties": {
+    "0":425,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,31 ]
+    },
+    "properties": {
+    "0":426,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,41 ]
+    },
+    "properties": {
+    "0":427,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,48 ]
+    },
+    "properties": {
+    "0":428,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,21 ]
+    },
+    "properties": {
+    "0":429,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,27 ]
+    },
+    "properties": {
+    "0":430,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,59 ]
+    },
+    "properties": {
+    "0":431,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,56 ]
+    },
+    "properties": {
+    "0":432,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,43 ]
+    },
+    "properties": {
+    "0":433,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,34 ]
+    },
+    "properties": {
+    "0":434,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,39 ]
+    },
+    "properties": {
+    "0":435,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,55 ]
+    },
+    "properties": {
+    "0":436,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,46 ]
+    },
+    "properties": {
+    "0":437,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,57 ]
+    },
+    "properties": {
+    "0":438,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,26 ]
+    },
+    "properties": {
+    "0":439,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,20 ]
+    },
+    "properties": {
+    "0":440,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,30 ]
+    },
+    "properties": {
+    "0":441,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,37 ]
+    },
+    "properties": {
+    "0":442,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,38 ]
+    },
+    "properties": {
+    "0":443,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,53 ]
+    },
+    "properties": {
+    "0":444,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,52 ]
+    },
+    "properties": {
+    "0":445,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,20 ]
+    },
+    "properties": {
+    "0":446,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,25 ]
+    },
+    "properties": {
+    "0":447,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,56 ]
+    },
+    "properties": {
+    "0":448,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,25 ]
+    },
+    "properties": {
+    "0":449,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,60 ]
+    },
+    "properties": {
+    "0":450,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,33 ]
+    },
+    "properties": {
+    "0":451,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,28 ]
+    },
+    "properties": {
+    "0":452,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,43 ]
+    },
+    "properties": {
+    "0":453,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,26 ]
+    },
+    "properties": {
+    "0":454,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,21 ]
+    },
+    "properties": {
+    "0":455,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,41 ]
+    },
+    "properties": {
+    "0":456,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,31 ]
+    },
+    "properties": {
+    "0":457,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,27 ]
+    },
+    "properties": {
+    "0":458,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,30 ]
+    },
+    "properties": {
+    "0":459,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,57 ]
+    },
+    "properties": {
+    "0":460,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,28 ]
+    },
+    "properties": {
+    "0":461,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,40 ]
+    },
+    "properties": {
+    "0":462,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,53 ]
+    },
+    "properties": {
+    "0":463,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,48 ]
+    },
+    "properties": {
+    "0":464,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,33 ]
+    },
+    "properties": {
+    "0":465,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,28 ]
+    },
+    "properties": {
+    "0":466,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,54 ]
+    },
+    "properties": {
+    "0":467,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,49 ]
+    },
+    "properties": {
+    "0":468,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,23 ]
+    },
+    "properties": {
+    "0":469,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,30 ]
+    },
+    "properties": {
+    "0":470,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,44 ]
+    },
+    "properties": {
+    "0":471,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,54 ]
+    },
+    "properties": {
+    "0":472,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,29 ]
+    },
+    "properties": {
+    "0":473,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,53 ]
+    },
+    "properties": {
+    "0":474,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,44 ]
+    },
+    "properties": {
+    "0":475,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,50 ]
+    },
+    "properties": {
+    "0":476,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,42 ]
+    },
+    "properties": {
+    "0":477,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,33 ]
+    },
+    "properties": {
+    "0":478,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,43 ]
+    },
+    "properties": {
+    "0":479,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,31 ]
+    },
+    "properties": {
+    "0":480,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,33 ]
+    },
+    "properties": {
+    "0":481,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,35 ]
+    },
+    "properties": {
+    "0":482,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,38 ]
+    },
+    "properties": {
+    "0":483,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,36 ]
+    },
+    "properties": {
+    "0":484,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,36 ]
+    },
+    "properties": {
+    "0":485,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,30 ]
+    },
+    "properties": {
+    "0":486,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,40 ]
+    },
+    "properties": {
+    "0":487,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,30 ]
+    },
+    "properties": {
+    "0":488,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,48 ]
+    },
+    "properties": {
+    "0":489,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,28 ]
+    },
+    "properties": {
+    "0":490,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,52 ]
+    },
+    "properties": {
+    "0":491,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,44 ]
+    },
+    "properties": {
+    "0":492,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,44 ]
+    },
+    "properties": {
+    "0":493,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,30 ]
+    },
+    "properties": {
+    "0":494,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,52 ]
+    },
+    "properties": {
+    "0":495,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,42 ]
+    },
+    "properties": {
+    "0":496,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,26 ]
+    },
+    "properties": {
+    "0":497,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,23 ]
+    },
+    "properties": {
+    "0":498,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,56 ]
+    },
+    "properties": {
+    "0":499,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,40 ]
+    },
+    "properties": {
+    "0":500,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,40 ]
+    },
+    "properties": {
+    "0":501,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,33 ]
+    },
+    "properties": {
+    "0":502,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,32 ]
+    },
+    "properties": {
+    "0":503,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,27 ]
+    },
+    "properties": {
+    "0":504,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,22 ]
+    },
+    "properties": {
+    "0":505,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,43 ]
+    },
+    "properties": {
+    "0":506,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,53 ]
+    },
+    "properties": {
+    "0":507,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,30 ]
+    },
+    "properties": {
+    "0":508,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,42 ]
+    },
+    "properties": {
+    "0":509,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,43 ]
+    },
+    "properties": {
+    "0":510,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,58 ]
+    },
+    "properties": {
+    "0":511,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,37 ]
+    },
+    "properties": {
+    "0":512,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,20 ]
+    },
+    "properties": {
+    "0":513,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,48 ]
+    },
+    "properties": {
+    "0":514,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,49 ]
+    },
+    "properties": {
+    "0":515,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,20 ]
+    },
+    "properties": {
+    "0":516,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,28 ]
+    },
+    "properties": {
+    "0":517,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,28 ]
+    },
+    "properties": {
+    "0":518,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,32 ]
+    },
+    "properties": {
+    "0":519,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,31 ]
+    },
+    "properties": {
+    "0":520,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,33 ]
+    },
+    "properties": {
+    "0":521,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,57 ]
+    },
+    "properties": {
+    "0":522,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,54 ]
+    },
+    "properties": {
+    "0":523,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,45 ]
+    },
+    "properties": {
+    "0":524,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,58 ]
+    },
+    "properties": {
+    "0":525,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,40 ]
+    },
+    "properties": {
+    "0":526,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,32 ]
+    },
+    "properties": {
+    "0":527,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,52 ]
+    },
+    "properties": {
+    "0":528,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,44 ]
+    },
+    "properties": {
+    "0":529,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,26 ]
+    },
+    "properties": {
+    "0":530,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,33 ]
+    },
+    "properties": {
+    "0":531,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,55 ]
+    },
+    "properties": {
+    "0":532,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,53 ]
+    },
+    "properties": {
+    "0":533,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,34 ]
+    },
+    "properties": {
+    "0":534,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,24 ]
+    },
+    "properties": {
+    "0":535,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,47 ]
+    },
+    "properties": {
+    "0":536,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,55 ]
+    },
+    "properties": {
+    "0":537,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,33 ]
+    },
+    "properties": {
+    "0":538,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,24 ]
+    },
+    "properties": {
+    "0":539,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,59 ]
+    },
+    "properties": {
+    "0":540,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,31 ]
+    },
+    "properties": {
+    "0":541,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,52 ]
+    },
+    "properties": {
+    "0":542,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,33 ]
+    },
+    "properties": {
+    "0":543,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,53 ]
+    },
+    "properties": {
+    "0":544,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,44 ]
+    },
+    "properties": {
+    "0":545,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,24 ]
+    },
+    "properties": {
+    "0":546,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,55 ]
+    },
+    "properties": {
+    "0":547,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,43 ]
+    },
+    "properties": {
+    "0":548,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,50 ]
+    },
+    "properties": {
+    "0":549,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,28 ]
+    },
+    "properties": {
+    "0":550,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,30 ]
+    },
+    "properties": {
+    "0":551,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,59 ]
+    },
+    "properties": {
+    "0":552,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,36 ]
+    },
+    "properties": {
+    "0":553,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,57 ]
+    },
+    "properties": {
+    "0":554,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,23 ]
+    },
+    "properties": {
+    "0":555,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,26 ]
+    },
+    "properties": {
+    "0":556,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,57 ]
+    },
+    "properties": {
+    "0":557,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,44 ]
+    },
+    "properties": {
+    "0":558,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,37 ]
+    },
+    "properties": {
+    "0":559,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,40 ]
+    },
+    "properties": {
+    "0":560,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,51 ]
+    },
+    "properties": {
+    "0":561,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,57 ]
+    },
+    "properties": {
+    "0":562,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,32 ]
+    },
+    "properties": {
+    "0":563,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,28 ]
+    },
+    "properties": {
+    "0":564,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,31 ]
+    },
+    "properties": {
+    "0":565,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,22 ]
+    },
+    "properties": {
+    "0":566,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,36 ]
+    },
+    "properties": {
+    "0":567,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,44 ]
+    },
+    "properties": {
+    "0":568,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,21 ]
+    },
+    "properties": {
+    "0":569,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,23 ]
+    },
+    "properties": {
+    "0":570,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,40 ]
+    },
+    "properties": {
+    "0":571,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,60 ]
+    },
+    "properties": {
+    "0":572,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,37 ]
+    },
+    "properties": {
+    "0":573,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,44 ]
+    },
+    "properties": {
+    "0":574,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,42 ]
+    },
+    "properties": {
+    "0":575,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,33 ]
+    },
+    "properties": {
+    "0":576,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,33 ]
+    },
+    "properties": {
+    "0":577,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,47 ]
+    },
+    "properties": {
+    "0":578,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,52 ]
+    },
+    "properties": {
+    "0":579,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,52 ]
+    },
+    "properties": {
+    "0":580,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,25 ]
+    },
+    "properties": {
+    "0":581,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,60 ]
+    },
+    "properties": {
+    "0":582,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,30 ]
+    },
+    "properties": {
+    "0":583,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,56 ]
+    },
+    "properties": {
+    "0":584,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,25 ]
+    },
+    "properties": {
+    "0":585,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,44 ]
+    },
+    "properties": {
+    "0":586,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,36 ]
+    },
+    "properties": {
+    "0":587,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,56 ]
+    },
+    "properties": {
+    "0":588,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,23 ]
+    },
+    "properties": {
+    "0":589,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,49 ]
+    },
+    "properties": {
+    "0":590,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,22 ]
+    },
+    "properties": {
+    "0":591,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,36 ]
+    },
+    "properties": {
+    "0":592,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,43 ]
+    },
+    "properties": {
+    "0":593,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,22 ]
+    },
+    "properties": {
+    "0":594,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,23 ]
+    },
+    "properties": {
+    "0":595,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,31 ]
+    },
+    "properties": {
+    "0":596,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,57 ]
+    },
+    "properties": {
+    "0":597,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,22 ]
+    },
+    "properties": {
+    "0":598,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,56 ]
+    },
+    "properties": {
+    "0":599,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,40 ]
+    },
+    "properties": {
+    "0":600,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,59 ]
+    },
+    "properties": {
+    "0":601,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,40 ]
+    },
+    "properties": {
+    "0":602,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,42 ]
+    },
+    "properties": {
+    "0":603,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,45 ]
+    },
+    "properties": {
+    "0":604,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,59 ]
+    },
+    "properties": {
+    "0":605,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,21 ]
+    },
+    "properties": {
+    "0":606,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,28 ]
+    },
+    "properties": {
+    "0":607,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,39 ]
+    },
+    "properties": {
+    "0":608,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,39 ]
+    },
+    "properties": {
+    "0":609,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,20 ]
+    },
+    "properties": {
+    "0":610,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,26 ]
+    },
+    "properties": {
+    "0":611,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,24 ]
+    },
+    "properties": {
+    "0":612,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,36 ]
+    },
+    "properties": {
+    "0":613,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,47 ]
+    },
+    "properties": {
+    "0":614,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,29 ]
+    },
+    "properties": {
+    "0":615,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,26 ]
+    },
+    "properties": {
+    "0":616,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,54 ]
+    },
+    "properties": {
+    "0":617,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,45 ]
+    },
+    "properties": {
+    "0":618,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,58 ]
+    },
+    "properties": {
+    "0":619,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,28 ]
+    },
+    "properties": {
+    "0":620,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,27 ]
+    },
+    "properties": {
+    "0":621,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,52 ]
+    },
+    "properties": {
+    "0":622,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,50 ]
+    },
+    "properties": {
+    "0":623,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,22 ]
+    },
+    "properties": {
+    "0":624,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,23 ]
+    },
+    "properties": {
+    "0":625,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,56 ]
+    },
+    "properties": {
+    "0":626,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,46 ]
+    },
+    "properties": {
+    "0":627,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,57 ]
+    },
+    "properties": {
+    "0":628,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,29 ]
+    },
+    "properties": {
+    "0":629,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,26 ]
+    },
+    "properties": {
+    "0":630,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,44 ]
+    },
+    "properties": {
+    "0":631,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,47 ]
+    },
+    "properties": {
+    "0":632,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,32 ]
+    },
+    "properties": {
+    "0":633,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,24 ]
+    },
+    "properties": {
+    "0":634,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,55 ]
+    },
+    "properties": {
+    "0":635,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,57 ]
+    },
+    "properties": {
+    "0":636,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,29 ]
+    },
+    "properties": {
+    "0":637,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,44 ]
+    },
+    "properties": {
+    "0":638,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,58 ]
+    },
+    "properties": {
+    "0":639,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,26 ]
+    },
+    "properties": {
+    "0":640,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,40 ]
+    },
+    "properties": {
+    "0":641,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,54 ]
+    },
+    "properties": {
+    "0":642,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,24 ]
+    },
+    "properties": {
+    "0":643,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,32 ]
+    },
+    "properties": {
+    "0":644,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,22 ]
+    },
+    "properties": {
+    "0":645,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,54 ]
+    },
+    "properties": {
+    "0":646,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,31 ]
+    },
+    "properties": {
+    "0":647,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,22 ]
+    },
+    "properties": {
+    "0":648,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,38 ]
+    },
+    "properties": {
+    "0":649,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,23 ]
+    },
+    "properties": {
+    "0":650,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,33 ]
+    },
+    "properties": {
+    "0":651,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,46 ]
+    },
+    "properties": {
+    "0":652,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,22 ]
+    },
+    "properties": {
+    "0":653,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,52 ]
+    },
+    "properties": {
+    "0":654,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,26 ]
+    },
+    "properties": {
+    "0":655,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,59 ]
+    },
+    "properties": {
+    "0":656,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,36 ]
+    },
+    "properties": {
+    "0":657,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,33 ]
+    },
+    "properties": {
+    "0":658,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,29 ]
+    },
+    "properties": {
+    "0":659,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,41 ]
+    },
+    "properties": {
+    "0":660,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,52 ]
+    },
+    "properties": {
+    "0":661,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,54 ]
+    },
+    "properties": {
+    "0":662,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,31 ]
+    },
+    "properties": {
+    "0":663,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,30 ]
+    },
+    "properties": {
+    "0":664,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,49 ]
+    },
+    "properties": {
+    "0":665,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,22 ]
+    },
+    "properties": {
+    "0":666,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,21 ]
+    },
+    "properties": {
+    "0":667,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,36 ]
+    },
+    "properties": {
+    "0":668,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,50 ]
+    },
+    "properties": {
+    "0":669,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,38 ]
+    },
+    "properties": {
+    "0":670,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,51 ]
+    },
+    "properties": {
+    "0":671,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,47 ]
+    },
+    "properties": {
+    "0":672,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,27 ]
+    },
+    "properties": {
+    "0":673,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,52 ]
+    },
+    "properties": {
+    "0":674,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,27 ]
+    },
+    "properties": {
+    "0":675,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,50 ]
+    },
+    "properties": {
+    "0":676,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,55 ]
+    },
+    "properties": {
+    "0":677,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,55 ]
+    },
+    "properties": {
+    "0":678,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,39 ]
+    },
+    "properties": {
+    "0":679,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,32 ]
+    },
+    "properties": {
+    "0":680,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,41 ]
+    },
+    "properties": {
+    "0":681,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,34 ]
+    },
+    "properties": {
+    "0":682,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,28 ]
+    },
+    "properties": {
+    "0":683,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,29 ]
+    },
+    "properties": {
+    "0":684,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,50 ]
+    },
+    "properties": {
+    "0":685,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,27 ]
+    },
+    "properties": {
+    "0":686,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,23 ]
+    },
+    "properties": {
+    "0":687,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,37 ]
+    },
+    "properties": {
+    "0":688,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,44 ]
+    },
+    "properties": {
+    "0":689,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,37 ]
+    },
+    "properties": {
+    "0":690,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,26 ]
+    },
+    "properties": {
+    "0":691,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,20 ]
+    },
+    "properties": {
+    "0":692,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,58 ]
+    },
+    "properties": {
+    "0":693,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,48 ]
+    },
+    "properties": {
+    "0":694,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,33 ]
+    },
+    "properties": {
+    "0":695,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,45 ]
+    },
+    "properties": {
+    "0":696,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,26 ]
+    },
+    "properties": {
+    "0":697,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,33 ]
+    },
+    "properties": {
+    "0":698,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,21 ]
+    },
+    "properties": {
+    "0":699,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,50 ]
+    },
+    "properties": {
+    "0":700,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,22 ]
+    },
+    "properties": {
+    "0":701,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,20 ]
+    },
+    "properties": {
+    "0":702,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,26 ]
+    },
+    "properties": {
+    "0":703,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,32 ]
+    },
+    "properties": {
+    "0":704,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,59 ]
+    },
+    "properties": {
+    "0":705,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,35 ]
+    },
+    "properties": {
+    "0":706,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,44 ]
+    },
+    "properties": {
+    "0":707,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,22 ]
+    },
+    "properties": {
+    "0":708,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,42 ]
+    },
+    "properties": {
+    "0":709,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,45 ]
+    },
+    "properties": {
+    "0":710,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,32 ]
+    },
+    "properties": {
+    "0":711,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,59 ]
+    },
+    "properties": {
+    "0":712,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,39 ]
+    },
+    "properties": {
+    "0":713,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,49 ]
+    },
+    "properties": {
+    "0":714,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,26 ]
+    },
+    "properties": {
+    "0":715,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,28 ]
+    },
+    "properties": {
+    "0":716,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,42 ]
+    },
+    "properties": {
+    "0":717,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,30 ]
+    },
+    "properties": {
+    "0":718,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,56 ]
+    },
+    "properties": {
+    "0":719,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,58 ]
+    },
+    "properties": {
+    "0":720,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,49 ]
+    },
+    "properties": {
+    "0":721,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,41 ]
+    },
+    "properties": {
+    "0":722,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,20 ]
+    },
+    "properties": {
+    "0":723,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,30 ]
+    },
+    "properties": {
+    "0":724,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,35 ]
+    },
+    "properties": {
+    "0":725,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,44 ]
+    },
+    "properties": {
+    "0":726,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,48 ]
+    },
+    "properties": {
+    "0":727,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,36 ]
+    },
+    "properties": {
+    "0":728,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,41 ]
+    },
+    "properties": {
+    "0":729,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,23 ]
+    },
+    "properties": {
+    "0":730,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,30 ]
+    },
+    "properties": {
+    "0":731,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,33 ]
+    },
+    "properties": {
+    "0":732,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,38 ]
+    },
+    "properties": {
+    "0":733,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,26 ]
+    },
+    "properties": {
+    "0":734,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,34 ]
+    },
+    "properties": {
+    "0":735,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,48 ]
+    },
+    "properties": {
+    "0":736,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,51 ]
+    },
+    "properties": {
+    "0":737,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,20 ]
+    },
+    "properties": {
+    "0":738,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,60 ]
+    },
+    "properties": {
+    "0":739,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,38 ]
+    },
+    "properties": {
+    "0":740,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,59 ]
+    },
+    "properties": {
+    "0":741,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,35 ]
+    },
+    "properties": {
+    "0":742,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,44 ]
+    },
+    "properties": {
+    "0":743,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,25 ]
+    },
+    "properties": {
+    "0":744,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,30 ]
+    },
+    "properties": {
+    "0":745,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,35 ]
+    },
+    "properties": {
+    "0":746,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,47 ]
+    },
+    "properties": {
+    "0":747,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,45 ]
+    },
+    "properties": {
+    "0":748,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,60 ]
+    },
+    "properties": {
+    "0":749,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,33 ]
+    },
+    "properties": {
+    "0":750,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,50 ]
+    },
+    "properties": {
+    "0":751,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,34 ]
+    },
+    "properties": {
+    "0":752,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,52 ]
+    },
+    "properties": {
+    "0":753,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,36 ]
+    },
+    "properties": {
+    "0":754,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,55 ]
+    },
+    "properties": {
+    "0":755,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,26 ]
+    },
+    "properties": {
+    "0":756,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,58 ]
+    },
+    "properties": {
+    "0":757,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,36 ]
+    },
+    "properties": {
+    "0":758,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,31 ]
+    },
+    "properties": {
+    "0":759,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,50 ]
+    },
+    "properties": {
+    "0":760,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,32 ]
+    },
+    "properties": {
+    "0":761,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,41 ]
+    },
+    "properties": {
+    "0":762,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,31 ]
+    },
+    "properties": {
+    "0":763,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,44 ]
+    },
+    "properties": {
+    "0":764,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,26 ]
+    },
+    "properties": {
+    "0":765,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,25 ]
+    },
+    "properties": {
+    "0":766,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,26 ]
+    },
+    "properties": {
+    "0":767,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,30 ]
+    },
+    "properties": {
+    "0":768,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,39 ]
+    },
+    "properties": {
+    "0":769,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,32 ]
+    },
+    "properties": {
+    "0":770,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,45 ]
+    },
+    "properties": {
+    "0":771,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,29 ]
+    },
+    "properties": {
+    "0":772,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,29 ]
+    },
+    "properties": {
+    "0":773,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,43 ]
+    },
+    "properties": {
+    "0":774,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,59 ]
+    },
+    "properties": {
+    "0":775,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,45 ]
+    },
+    "properties": {
+    "0":776,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,59 ]
+    },
+    "properties": {
+    "0":777,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,30 ]
+    },
+    "properties": {
+    "0":778,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,23 ]
+    },
+    "properties": {
+    "0":779,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,21 ]
+    },
+    "properties": {
+    "0":780,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,58 ]
+    },
+    "properties": {
+    "0":781,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,27 ]
+    },
+    "properties": {
+    "0":782,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,35 ]
+    },
+    "properties": {
+    "0":783,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,27 ]
+    },
+    "properties": {
+    "0":784,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,54 ]
+    },
+    "properties": {
+    "0":785,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,47 ]
+    },
+    "properties": {
+    "0":786,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,38 ]
+    },
+    "properties": {
+    "0":787,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,39 ]
+    },
+    "properties": {
+    "0":788,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,49 ]
+    },
+    "properties": {
+    "0":789,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,42 ]
+    },
+    "properties": {
+    "0":790,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,24 ]
+    },
+    "properties": {
+    "0":791,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,30 ]
+    },
+    "properties": {
+    "0":792,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,33 ]
+    },
+    "properties": {
+    "0":793,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,55 ]
+    },
+    "properties": {
+    "0":794,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,40 ]
+    },
+    "properties": {
+    "0":795,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,28 ]
+    },
+    "properties": {
+    "0":796,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,36 ]
+    },
+    "properties": {
+    "0":797,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133,43 ]
+    },
+    "properties": {
+    "0":798,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,35 ]
+    },
+    "properties": {
+    "0":799,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,21 ]
+    },
+    "properties": {
+    "0":800,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,34 ]
+    },
+    "properties": {
+    "0":801,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,31 ]
+    },
+    "properties": {
+    "0":802,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,37 ]
+    },
+    "properties": {
+    "0":803,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,21 ]
+    },
+    "properties": {
+    "0":804,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,42 ]
+    },
+    "properties": {
+    "0":805,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,46 ]
+    },
+    "properties": {
+    "0":806,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,40 ]
+    },
+    "properties": {
+    "0":807,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,31 ]
+    },
+    "properties": {
+    "0":808,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,32 ]
+    },
+    "properties": {
+    "0":809,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,46 ]
+    },
+    "properties": {
+    "0":810,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,25 ]
+    },
+    "properties": {
+    "0":811,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,55 ]
+    },
+    "properties": {
+    "0":812,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,40 ]
+    },
+    "properties": {
+    "0":813,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,54 ]
+    },
+    "properties": {
+    "0":814,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,59 ]
+    },
+    "properties": {
+    "0":815,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,57 ]
+    },
+    "properties": {
+    "0":816,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,24 ]
+    },
+    "properties": {
+    "0":817,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,37 ]
+    },
+    "properties": {
+    "0":818,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,31 ]
+    },
+    "properties": {
+    "0":819,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,58 ]
+    },
+    "properties": {
+    "0":820,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,20 ]
+    },
+    "properties": {
+    "0":821,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,49 ]
+    },
+    "properties": {
+    "0":822,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,36 ]
+    },
+    "properties": {
+    "0":823,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,48 ]
+    },
+    "properties": {
+    "0":824,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,30 ]
+    },
+    "properties": {
+    "0":825,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,23 ]
+    },
+    "properties": {
+    "0":826,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,38 ]
+    },
+    "properties": {
+    "0":827,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,60 ]
+    },
+    "properties": {
+    "0":828,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,25 ]
+    },
+    "properties": {
+    "0":829,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,33 ]
+    },
+    "properties": {
+    "0":830,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,47 ]
+    },
+    "properties": {
+    "0":831,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,48 ]
+    },
+    "properties": {
+    "0":832,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,46 ]
+    },
+    "properties": {
+    "0":833,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,43 ]
+    },
+    "properties": {
+    "0":834,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,28 ]
+    },
+    "properties": {
+    "0":835,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,57 ]
+    },
+    "properties": {
+    "0":836,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,40 ]
+    },
+    "properties": {
+    "0":837,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,42 ]
+    },
+    "properties": {
+    "0":838,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,51 ]
+    },
+    "properties": {
+    "0":839,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,20 ]
+    },
+    "properties": {
+    "0":840,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,36 ]
+    },
+    "properties": {
+    "0":841,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,31 ]
+    },
+    "properties": {
+    "0":842,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,22 ]
+    },
+    "properties": {
+    "0":843,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,23 ]
+    },
+    "properties": {
+    "0":844,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,25 ]
+    },
+    "properties": {
+    "0":845,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,26 ]
+    },
+    "properties": {
+    "0":846,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,30 ]
+    },
+    "properties": {
+    "0":847,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,21 ]
+    },
+    "properties": {
+    "0":848,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,25 ]
+    },
+    "properties": {
+    "0":849,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,51 ]
+    },
+    "properties": {
+    "0":850,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,26 ]
+    },
+    "properties": {
+    "0":851,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,55 ]
+    },
+    "properties": {
+    "0":852,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,56 ]
+    },
+    "properties": {
+    "0":853,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,56 ]
+    },
+    "properties": {
+    "0":854,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,32 ]
+    },
+    "properties": {
+    "0":855,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,45 ]
+    },
+    "properties": {
+    "0":856,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,47 ]
+    },
+    "properties": {
+    "0":857,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,44 ]
+    },
+    "properties": {
+    "0":858,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,37 ]
+    },
+    "properties": {
+    "0":859,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,54 ]
+    },
+    "properties": {
+    "0":860,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,23 ]
+    },
+    "properties": {
+    "0":861,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,41 ]
+    },
+    "properties": {
+    "0":862,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,48 ]
+    },
+    "properties": {
+    "0":863,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,49 ]
+    },
+    "properties": {
+    "0":864,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,55 ]
+    },
+    "properties": {
+    "0":865,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,31 ]
+    },
+    "properties": {
+    "0":866,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,43 ]
+    },
+    "properties": {
+    "0":867,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,32 ]
+    },
+    "properties": {
+    "0":868,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,45 ]
+    },
+    "properties": {
+    "0":869,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,32 ]
+    },
+    "properties": {
+    "0":870,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,59 ]
+    },
+    "properties": {
+    "0":871,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,31 ]
+    },
+    "properties": {
+    "0":872,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125,59 ]
+    },
+    "properties": {
+    "0":873,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,27 ]
+    },
+    "properties": {
+    "0":874,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,56 ]
+    },
+    "properties": {
+    "0":875,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,29 ]
+    },
+    "properties": {
+    "0":876,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,31 ]
+    },
+    "properties": {
+    "0":877,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,25 ]
+    },
+    "properties": {
+    "0":878,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,59 ]
+    },
+    "properties": {
+    "0":879,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,26 ]
+    },
+    "properties": {
+    "0":880,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,48 ]
+    },
+    "properties": {
+    "0":881,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,33 ]
+    },
+    "properties": {
+    "0":882,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,54 ]
+    },
+    "properties": {
+    "0":883,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,54 ]
+    },
+    "properties": {
+    "0":884,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,51 ]
+    },
+    "properties": {
+    "0":885,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,59 ]
+    },
+    "properties": {
+    "0":886,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,48 ]
+    },
+    "properties": {
+    "0":887,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,60 ]
+    },
+    "properties": {
+    "0":888,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,22 ]
+    },
+    "properties": {
+    "0":889,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,30 ]
+    },
+    "properties": {
+    "0":890,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,27 ]
+    },
+    "properties": {
+    "0":891,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,30 ]
+    },
+    "properties": {
+    "0":892,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,47 ]
+    },
+    "properties": {
+    "0":893,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,57 ]
+    },
+    "properties": {
+    "0":894,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,45 ]
+    },
+    "properties": {
+    "0":895,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,25 ]
+    },
+    "properties": {
+    "0":896,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,49 ]
+    },
+    "properties": {
+    "0":897,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,24 ]
+    },
+    "properties": {
+    "0":898,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,30 ]
+    },
+    "properties": {
+    "0":899,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,52 ]
+    },
+    "properties": {
+    "0":900,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,34 ]
+    },
+    "properties": {
+    "0":901,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,49 ]
+    },
+    "properties": {
+    "0":902,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,25 ]
+    },
+    "properties": {
+    "0":903,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,49 ]
+    },
+    "properties": {
+    "0":904,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,25 ]
+    },
+    "properties": {
+    "0":905,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,29 ]
+    },
+    "properties": {
+    "0":906,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,60 ]
+    },
+    "properties": {
+    "0":907,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,26 ]
+    },
+    "properties": {
+    "0":908,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136,27 ]
+    },
+    "properties": {
+    "0":909,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140,31 ]
+    },
+    "properties": {
+    "0":910,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,59 ]
+    },
+    "properties": {
+    "0":911,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,60 ]
+    },
+    "properties": {
+    "0":912,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,51 ]
+    },
+    "properties": {
+    "0":913,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,45 ]
+    },
+    "properties": {
+    "0":914,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,35 ]
+    },
+    "properties": {
+    "0":915,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,39 ]
+    },
+    "properties": {
+    "0":916,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,49 ]
+    },
+    "properties": {
+    "0":917,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,21 ]
+    },
+    "properties": {
+    "0":918,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,37 ]
+    },
+    "properties": {
+    "0":919,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,31 ]
+    },
+    "properties": {
+    "0":920,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,30 ]
+    },
+    "properties": {
+    "0":921,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,52 ]
+    },
+    "properties": {
+    "0":922,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,36 ]
+    },
+    "properties": {
+    "0":923,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,21 ]
+    },
+    "properties": {
+    "0":924,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,54 ]
+    },
+    "properties": {
+    "0":925,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,56 ]
+    },
+    "properties": {
+    "0":926,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119,25 ]
+    },
+    "properties": {
+    "0":927,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115,59 ]
+    },
+    "properties": {
+    "0":928,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,26 ]
+    },
+    "properties": {
+    "0":929,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,59 ]
+    },
+    "properties": {
+    "0":930,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,39 ]
+    },
+    "properties": {
+    "0":931,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,59 ]
+    },
+    "properties": {
+    "0":932,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,33 ]
+    },
+    "properties": {
+    "0":933,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,54 ]
+    },
+    "properties": {
+    "0":934,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,33 ]
+    },
+    "properties": {
+    "0":935,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,25 ]
+    },
+    "properties": {
+    "0":936,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,28 ]
+    },
+    "properties": {
+    "0":937,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,25 ]
+    },
+    "properties": {
+    "0":938,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,27 ]
+    },
+    "properties": {
+    "0":939,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,58 ]
+    },
+    "properties": {
+    "0":940,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134,48 ]
+    },
+    "properties": {
+    "0":941,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,47 ]
+    },
+    "properties": {
+    "0":942,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131,37 ]
+    },
+    "properties": {
+    "0":943,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,28 ]
+    },
+    "properties": {
+    "0":944,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,47 ]
+    },
+    "properties": {
+    "0":945,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,40 ]
+    },
+    "properties": {
+    "0":946,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,46 ]
+    },
+    "properties": {
+    "0":947,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,24 ]
+    },
+    "properties": {
+    "0":948,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,26 ]
+    },
+    "properties": {
+    "0":949,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,59 ]
+    },
+    "properties": {
+    "0":950,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,23 ]
+    },
+    "properties": {
+    "0":951,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,35 ]
+    },
+    "properties": {
+    "0":952,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,37 ]
+    },
+    "properties": {
+    "0":953,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137,56 ]
+    },
+    "properties": {
+    "0":954,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,20 ]
+    },
+    "properties": {
+    "0":955,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,57 ]
+    },
+    "properties": {
+    "0":956,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,56 ]
+    },
+    "properties": {
+    "0":957,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135,40 ]
+    },
+    "properties": {
+    "0":958,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,25 ]
+    },
+    "properties": {
+    "0":959,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,36 ]
+    },
+    "properties": {
+    "0":960,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,40 ]
+    },
+    "properties": {
+    "0":961,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,21 ]
+    },
+    "properties": {
+    "0":962,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,43 ]
+    },
+    "properties": {
+    "0":963,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,56 ]
+    },
+    "properties": {
+    "0":964,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124,52 ]
+    },
+    "properties": {
+    "0":965,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,40 ]
+    },
+    "properties": {
+    "0":966,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109,26 ]
+    },
+    "properties": {
+    "0":967,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117,34 ]
+    },
+    "properties": {
+    "0":968,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,55 ]
+    },
+    "properties": {
+    "0":969,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126,24 ]
+    },
+    "properties": {
+    "0":970,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,48 ]
+    },
+    "properties": {
+    "0":971,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,24 ]
+    },
+    "properties": {
+    "0":972,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104,46 ]
+    },
+    "properties": {
+    "0":973,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,28 ]
+    },
+    "properties": {
+    "0":974,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,59 ]
+    },
+    "properties": {
+    "0":975,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112,49 ]
+    },
+    "properties": {
+    "0":976,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,51 ]
+    },
+    "properties": {
+    "0":977,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102,20 ]
+    },
+    "properties": {
+    "0":978,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,29 ]
+    },
+    "properties": {
+    "0":979,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,29 ]
+    },
+    "properties": {
+    "0":980,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,55 ]
+    },
+    "properties": {
+    "0":981,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,27 ]
+    },
+    "properties": {
+    "0":982,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107,22 ]
+    },
+    "properties": {
+    "0":983,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,52 ]
+    },
+    "properties": {
+    "0":984,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,36 ]
+    },
+    "properties": {
+    "0":985,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116,20 ]
+    },
+    "properties": {
+    "0":986,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,39 ]
+    },
+    "properties": {
+    "0":987,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113,28 ]
+    },
+    "properties": {
+    "0":988,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,39 ]
+    },
+    "properties": {
+    "0":989,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114,39 ]
+    },
+    "properties": {
+    "0":990,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127,51 ]
+    },
+    "properties": {
+    "0":991,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103,46 ]
+    },
+    "properties": {
+    "0":992,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105,37 ]
+    },
+    "properties": {
+    "0":993,
+    "Lasioglossum":"Osmia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120,21 ]
+    },
+    "properties": {
+    "0":994,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110,36 ]
+    },
+    "properties": {
+    "0":995,
+    "Lasioglossum":"Seladonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106,35 ]
+    },
+    "properties": {
+    "0":996,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129,45 ]
+    },
+    "properties": {
+    "0":997,
+    "Lasioglossum":"Lasioglossum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123,24 ]
+    },
+    "properties": {
+    "0":998,
+    "Lasioglossum":"Apis mellifera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100,45 ]
+    },
+    "properties": {
+    "0":999,
+    "Lasioglossum":"Osmia"
+    }
+  }
+]
+}

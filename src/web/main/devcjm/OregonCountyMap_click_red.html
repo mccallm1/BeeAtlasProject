@@ -44,38 +44,4 @@
 
   });
 
-  /*
-  svg.append("g")
-        .attr("fill", "#000")
-      .selectAll("path")
-      .data(topojson.feature(us, us.objects.states).features)
-      .enter().append("path")
-        .attr("d", path)
-      .append("title")
-        .text(function(d) { return d.id; });
-
-    svg.append("path")
-        .attr("stroke", "#fff")
-        .attr("stroke-width", 0.5)
-        .attr("d", path(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; })));
-
-  */
-
-
-  /*
-    d3.json("data/us_counties.json", function(error, us) {
-      if (error) throw error;
-
-      svg.append("g")
-          .attr("class", "counties")
-        .selectAll("path")
-        .data(topojson.feature(us, us.objects.counties).features)
-        .enter().append("path")
-          .attr("d", path);
-
-      svg.append("path")
-          .attr("class", "county-borders")
-          .attr("d", path(topojson.mesh(us, us.objects.counties, function(a, b) { return a !== b; })));
-    });
-  */
 </script>
