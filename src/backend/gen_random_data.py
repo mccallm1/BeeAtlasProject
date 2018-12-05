@@ -6,7 +6,6 @@ Author: Miles McCall
 # Library Imports
 import os
 import sys
-import argparse
 import random
 
 #Functions
@@ -25,7 +24,9 @@ def write_csv(num_rows):
     print("\t--> Done.")
 
 def main():
-    write_csv(1000)
+    print 'Argument List:', str(sys.argv)
+    num_rows = int(sys.argv[1])
+    write_csv(num_rows)
 
 if __name__ == '__main__':
     main()
