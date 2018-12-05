@@ -15,7 +15,6 @@
 </style>
 
 <svg width="900" height="600" stroke="black" fill="white"></svg>
->>>>>>> e9f05e37a72c1be2cde74df66ee601344f7d09c8
 
 <script src="https://d3js.org/d3.v4.js"></script>
 <script src="https://d3js.org/topojson.v2.min.js"></script>
@@ -28,7 +27,7 @@
   var path = d3.geoPath().projection(projection);
   //var path = d3.geoPath();
 
-  d3.json("data/or_counties_editted.json", function(error, or) {
+  d3.json("data/or_counties_formatted.json", function(error, or) {
     if (error) throw error;
 
     svg.append("g")
