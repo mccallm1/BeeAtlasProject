@@ -2,8 +2,8 @@
   "type": "Topology",
   "transform": {
     "scale": [
-      0.00176713034487442781,
-      0.00124600781784493
+      0.008835652437214,
+      0.006230039089225
     ],
     "translate": [
       -124.55271296313062,
@@ -3071,7 +3071,7 @@
     ]
   ],
   "objects": {
-    "counties": {
+    "cb_2015_oregon_county_20m": {
       "type": "GeometryCollection",
       "geometries": [
         {
