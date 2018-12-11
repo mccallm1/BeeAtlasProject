@@ -24,9 +24,12 @@
 <script>
   var svg = d3.select("svg");
   var projection = d3.geoMercator();
-  //var projection = d3.geoAlbers();
   var path = d3.geoPath().projection(projection);
-  //var path = d3.geoPath();
+
+  // points
+  aa = [122.490402, -47.786453];
+  bb = [122.389809, -45.72728];
+  console.log(projection(aa),projection(bb));
 
   d3.json("data/or_counties_editted.json", function(error, or) {
     if (error) throw error;
