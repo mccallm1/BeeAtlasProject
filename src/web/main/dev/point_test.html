@@ -42,7 +42,7 @@ var path = d3.geo.path()
     .projection(projection);
 
 
-d3.json("us.json", function(error, topo) { console.log(topo);
+d3.json("../data/US_Counties.json", function(error, topo) { console.log(topo);
 
   	states = topojson.feature(topo, topo.objects.states).features
 
