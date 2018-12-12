@@ -8,8 +8,8 @@
        "coordinates":  [ 127,32 ]
     },
     "properties": {
-    "0":1,
-    "Lasioglossum":"Osmia"
+    "id":1,
+    "Species":"Osmia"
     }
   },
   {
@@ -19,8 +19,8 @@
        "coordinates":  [ 127,39 ]
     },
     "properties": {
-    "0":2,
-    "Lasioglossum":"Osmia"
+    "id":2,
+    "Species":"Osmia"
     }
   },
   {
@@ -30,8 +30,8 @@
        "coordinates":  [ 134,21 ]
     },
     "properties": {
-    "0":3,
-    "Lasioglossum":"Osmia"
+    "id":3,
+    "Species":"Osmia"
     }
   },
   {
@@ -41,8 +41,8 @@
        "coordinates":  [ 103,33 ]
     },
     "properties": {
-    "0":4,
-    "Lasioglossum":"Lasioglossum"
+    "id":4,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -52,8 +52,8 @@
        "coordinates":  [ 126,25 ]
     },
     "properties": {
-    "0":5,
-    "Lasioglossum":"Seladonia"
+    "id":5,
+    "Species":"Seladonia"
     }
   },
   {
@@ -63,8 +63,8 @@
        "coordinates":  [ 112,60 ]
     },
     "properties": {
-    "0":6,
-    "Lasioglossum":"Seladonia"
+    "id":6,
+    "Species":"Seladonia"
     }
   },
   {
@@ -74,8 +74,8 @@
        "coordinates":  [ 137,47 ]
     },
     "properties": {
-    "0":7,
-    "Lasioglossum":"Seladonia"
+    "id":7,
+    "Species":"Seladonia"
     }
   },
   {
@@ -85,8 +85,8 @@
        "coordinates":  [ 120,45 ]
     },
     "properties": {
-    "0":8,
-    "Lasioglossum":"Seladonia"
+    "id":8,
+    "Species":"Seladonia"
     }
   },
   {
@@ -96,8 +96,8 @@
        "coordinates":  [ 119,35 ]
     },
     "properties": {
-    "0":9,
-    "Lasioglossum":"Apis mellifera"
+    "id":9,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -107,8 +107,8 @@
        "coordinates":  [ 108,24 ]
     },
     "properties": {
-    "0":10,
-    "Lasioglossum":"Apis mellifera"
+    "id":10,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -118,8 +118,8 @@
        "coordinates":  [ 114,30 ]
     },
     "properties": {
-    "0":11,
-    "Lasioglossum":"Apis mellifera"
+    "id":11,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -129,8 +129,8 @@
        "coordinates":  [ 110,27 ]
     },
     "properties": {
-    "0":12,
-    "Lasioglossum":"Lasioglossum"
+    "id":12,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -140,8 +140,8 @@
        "coordinates":  [ 127,31 ]
     },
     "properties": {
-    "0":13,
-    "Lasioglossum":"Apis mellifera"
+    "id":13,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -151,8 +151,8 @@
        "coordinates":  [ 107,59 ]
     },
     "properties": {
-    "0":14,
-    "Lasioglossum":"Seladonia"
+    "id":14,
+    "Species":"Seladonia"
     }
   },
   {
@@ -162,8 +162,8 @@
        "coordinates":  [ 129,28 ]
     },
     "properties": {
-    "0":15,
-    "Lasioglossum":"Osmia"
+    "id":15,
+    "Species":"Osmia"
     }
   },
   {
@@ -173,8 +173,8 @@
        "coordinates":  [ 136,50 ]
     },
     "properties": {
-    "0":16,
-    "Lasioglossum":"Seladonia"
+    "id":16,
+    "Species":"Seladonia"
     }
   },
   {
@@ -184,8 +184,8 @@
        "coordinates":  [ 128,28 ]
     },
     "properties": {
-    "0":17,
-    "Lasioglossum":"Osmia"
+    "id":17,
+    "Species":"Osmia"
     }
   },
   {
@@ -195,8 +195,8 @@
        "coordinates":  [ 121,57 ]
     },
     "properties": {
-    "0":18,
-    "Lasioglossum":"Lasioglossum"
+    "id":18,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -206,8 +206,8 @@
        "coordinates":  [ 103,49 ]
     },
     "properties": {
-    "0":19,
-    "Lasioglossum":"Seladonia"
+    "id":19,
+    "Species":"Seladonia"
     }
   },
   {
@@ -217,8 +217,8 @@
        "coordinates":  [ 131,41 ]
     },
     "properties": {
-    "0":20,
-    "Lasioglossum":"Apis mellifera"
+    "id":20,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -228,8 +228,8 @@
        "coordinates":  [ 114,51 ]
     },
     "properties": {
-    "0":21,
-    "Lasioglossum":"Osmia"
+    "id":21,
+    "Species":"Osmia"
     }
   },
   {
@@ -239,8 +239,8 @@
        "coordinates":  [ 140,53 ]
     },
     "properties": {
-    "0":22,
-    "Lasioglossum":"Seladonia"
+    "id":22,
+    "Species":"Seladonia"
     }
   },
   {
@@ -250,8 +250,8 @@
        "coordinates":  [ 130,51 ]
     },
     "properties": {
-    "0":23,
-    "Lasioglossum":"Osmia"
+    "id":23,
+    "Species":"Osmia"
     }
   },
   {
@@ -261,8 +261,8 @@
        "coordinates":  [ 115,42 ]
     },
     "properties": {
-    "0":24,
-    "Lasioglossum":"Osmia"
+    "id":24,
+    "Species":"Osmia"
     }
   },
   {
@@ -272,8 +272,8 @@
        "coordinates":  [ 102,30 ]
     },
     "properties": {
-    "0":25,
-    "Lasioglossum":"Apis mellifera"
+    "id":25,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -283,8 +283,8 @@
        "coordinates":  [ 107,35 ]
     },
     "properties": {
-    "0":26,
-    "Lasioglossum":"Apis mellifera"
+    "id":26,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -294,8 +294,8 @@
        "coordinates":  [ 133,43 ]
     },
     "properties": {
-    "0":27,
-    "Lasioglossum":"Seladonia"
+    "id":27,
+    "Species":"Seladonia"
     }
   },
   {
@@ -305,8 +305,8 @@
        "coordinates":  [ 134,47 ]
     },
     "properties": {
-    "0":28,
-    "Lasioglossum":"Osmia"
+    "id":28,
+    "Species":"Osmia"
     }
   },
   {
@@ -316,8 +316,8 @@
        "coordinates":  [ 131,27 ]
     },
     "properties": {
-    "0":29,
-    "Lasioglossum":"Seladonia"
+    "id":29,
+    "Species":"Seladonia"
     }
   },
   {
@@ -327,8 +327,8 @@
        "coordinates":  [ 122,54 ]
     },
     "properties": {
-    "0":30,
-    "Lasioglossum":"Apis mellifera"
+    "id":30,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -338,8 +338,8 @@
        "coordinates":  [ 107,56 ]
     },
     "properties": {
-    "0":31,
-    "Lasioglossum":"Lasioglossum"
+    "id":31,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -349,8 +349,8 @@
        "coordinates":  [ 140,37 ]
     },
     "properties": {
-    "0":32,
-    "Lasioglossum":"Apis mellifera"
+    "id":32,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -360,8 +360,8 @@
        "coordinates":  [ 102,20 ]
     },
     "properties": {
-    "0":33,
-    "Lasioglossum":"Osmia"
+    "id":33,
+    "Species":"Osmia"
     }
   },
   {
@@ -371,8 +371,8 @@
        "coordinates":  [ 119,48 ]
     },
     "properties": {
-    "0":34,
-    "Lasioglossum":"Seladonia"
+    "id":34,
+    "Species":"Seladonia"
     }
   },
   {
@@ -382,8 +382,8 @@
        "coordinates":  [ 140,28 ]
     },
     "properties": {
-    "0":35,
-    "Lasioglossum":"Osmia"
+    "id":35,
+    "Species":"Osmia"
     }
   },
   {
@@ -393,8 +393,8 @@
        "coordinates":  [ 106,50 ]
     },
     "properties": {
-    "0":36,
-    "Lasioglossum":"Lasioglossum"
+    "id":36,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -404,8 +404,8 @@
        "coordinates":  [ 129,60 ]
     },
     "properties": {
-    "0":37,
-    "Lasioglossum":"Seladonia"
+    "id":37,
+    "Species":"Seladonia"
     }
   },
   {
@@ -415,8 +415,8 @@
        "coordinates":  [ 109,44 ]
     },
     "properties": {
-    "0":38,
-    "Lasioglossum":"Lasioglossum"
+    "id":38,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -426,8 +426,8 @@
        "coordinates":  [ 114,35 ]
     },
     "properties": {
-    "0":39,
-    "Lasioglossum":"Osmia"
+    "id":39,
+    "Species":"Osmia"
     }
   },
   {
@@ -437,8 +437,8 @@
        "coordinates":  [ 112,20 ]
     },
     "properties": {
-    "0":40,
-    "Lasioglossum":"Lasioglossum"
+    "id":40,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -448,8 +448,8 @@
        "coordinates":  [ 135,32 ]
     },
     "properties": {
-    "0":41,
-    "Lasioglossum":"Lasioglossum"
+    "id":41,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -459,8 +459,8 @@
        "coordinates":  [ 102,28 ]
     },
     "properties": {
-    "0":42,
-    "Lasioglossum":"Lasioglossum"
+    "id":42,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -470,8 +470,8 @@
        "coordinates":  [ 137,23 ]
     },
     "properties": {
-    "0":43,
-    "Lasioglossum":"Osmia"
+    "id":43,
+    "Species":"Osmia"
     }
   },
   {
@@ -481,8 +481,8 @@
        "coordinates":  [ 133,20 ]
     },
     "properties": {
-    "0":44,
-    "Lasioglossum":"Apis mellifera"
+    "id":44,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -492,8 +492,8 @@
        "coordinates":  [ 110,50 ]
     },
     "properties": {
-    "0":45,
-    "Lasioglossum":"Seladonia"
+    "id":45,
+    "Species":"Seladonia"
     }
   },
   {
@@ -503,8 +503,8 @@
        "coordinates":  [ 122,58 ]
     },
     "properties": {
-    "0":46,
-    "Lasioglossum":"Osmia"
+    "id":46,
+    "Species":"Osmia"
     }
   },
   {
@@ -514,8 +514,8 @@
        "coordinates":  [ 116,41 ]
     },
     "properties": {
-    "0":47,
-    "Lasioglossum":"Osmia"
+    "id":47,
+    "Species":"Osmia"
     }
   },
   {
@@ -525,8 +525,8 @@
        "coordinates":  [ 117,32 ]
     },
     "properties": {
-    "0":48,
-    "Lasioglossum":"Seladonia"
+    "id":48,
+    "Species":"Seladonia"
     }
   },
   {
@@ -536,8 +536,8 @@
        "coordinates":  [ 122,50 ]
     },
     "properties": {
-    "0":49,
-    "Lasioglossum":"Osmia"
+    "id":49,
+    "Species":"Osmia"
     }
   },
   {
@@ -547,8 +547,8 @@
        "coordinates":  [ 103,47 ]
     },
     "properties": {
-    "0":50,
-    "Lasioglossum":"Osmia"
+    "id":50,
+    "Species":"Osmia"
     }
   },
   {
@@ -558,8 +558,8 @@
        "coordinates":  [ 133,28 ]
     },
     "properties": {
-    "0":51,
-    "Lasioglossum":"Seladonia"
+    "id":51,
+    "Species":"Seladonia"
     }
   },
   {
@@ -569,8 +569,8 @@
        "coordinates":  [ 139,33 ]
     },
     "properties": {
-    "0":52,
-    "Lasioglossum":"Apis mellifera"
+    "id":52,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -580,8 +580,8 @@
        "coordinates":  [ 124,57 ]
     },
     "properties": {
-    "0":53,
-    "Lasioglossum":"Apis mellifera"
+    "id":53,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -591,8 +591,8 @@
        "coordinates":  [ 116,58 ]
     },
     "properties": {
-    "0":54,
-    "Lasioglossum":"Apis mellifera"
+    "id":54,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -602,8 +602,8 @@
        "coordinates":  [ 126,23 ]
     },
     "properties": {
-    "0":55,
-    "Lasioglossum":"Lasioglossum"
+    "id":55,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -613,8 +613,8 @@
        "coordinates":  [ 131,40 ]
     },
     "properties": {
-    "0":56,
-    "Lasioglossum":"Osmia"
+    "id":56,
+    "Species":"Osmia"
     }
   },
   {
@@ -624,8 +624,8 @@
        "coordinates":  [ 100,28 ]
     },
     "properties": {
-    "0":57,
-    "Lasioglossum":"Apis mellifera"
+    "id":57,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -635,8 +635,8 @@
        "coordinates":  [ 121,26 ]
     },
     "properties": {
-    "0":58,
-    "Lasioglossum":"Apis mellifera"
+    "id":58,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -646,8 +646,8 @@
        "coordinates":  [ 130,44 ]
     },
     "properties": {
-    "0":59,
-    "Lasioglossum":"Lasioglossum"
+    "id":59,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -657,8 +657,8 @@
        "coordinates":  [ 120,35 ]
     },
     "properties": {
-    "0":60,
-    "Lasioglossum":"Seladonia"
+    "id":60,
+    "Species":"Seladonia"
     }
   },
   {
@@ -668,8 +668,8 @@
        "coordinates":  [ 111,43 ]
     },
     "properties": {
-    "0":61,
-    "Lasioglossum":"Lasioglossum"
+    "id":61,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -679,8 +679,8 @@
        "coordinates":  [ 116,50 ]
     },
     "properties": {
-    "0":62,
-    "Lasioglossum":"Seladonia"
+    "id":62,
+    "Species":"Seladonia"
     }
   },
   {
@@ -690,8 +690,8 @@
        "coordinates":  [ 120,41 ]
     },
     "properties": {
-    "0":63,
-    "Lasioglossum":"Seladonia"
+    "id":63,
+    "Species":"Seladonia"
     }
   },
   {
@@ -701,8 +701,8 @@
        "coordinates":  [ 115,38 ]
     },
     "properties": {
-    "0":64,
-    "Lasioglossum":"Osmia"
+    "id":64,
+    "Species":"Osmia"
     }
   },
   {
@@ -712,8 +712,8 @@
        "coordinates":  [ 118,28 ]
     },
     "properties": {
-    "0":65,
-    "Lasioglossum":"Lasioglossum"
+    "id":65,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -723,8 +723,8 @@
        "coordinates":  [ 124,54 ]
     },
     "properties": {
-    "0":66,
-    "Lasioglossum":"Apis mellifera"
+    "id":66,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -734,8 +734,8 @@
        "coordinates":  [ 125,22 ]
     },
     "properties": {
-    "0":67,
-    "Lasioglossum":"Osmia"
+    "id":67,
+    "Species":"Osmia"
     }
   },
   {
@@ -745,8 +745,8 @@
        "coordinates":  [ 131,22 ]
     },
     "properties": {
-    "0":68,
-    "Lasioglossum":"Lasioglossum"
+    "id":68,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -756,8 +756,8 @@
        "coordinates":  [ 111,51 ]
     },
     "properties": {
-    "0":69,
-    "Lasioglossum":"Apis mellifera"
+    "id":69,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -767,8 +767,8 @@
        "coordinates":  [ 133,22 ]
     },
     "properties": {
-    "0":70,
-    "Lasioglossum":"Lasioglossum"
+    "id":70,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -778,8 +778,8 @@
        "coordinates":  [ 133,38 ]
     },
     "properties": {
-    "0":71,
-    "Lasioglossum":"Lasioglossum"
+    "id":71,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -789,8 +789,8 @@
        "coordinates":  [ 128,20 ]
     },
     "properties": {
-    "0":72,
-    "Lasioglossum":"Apis mellifera"
+    "id":72,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -800,8 +800,8 @@
        "coordinates":  [ 116,25 ]
     },
     "properties": {
-    "0":73,
-    "Lasioglossum":"Apis mellifera"
+    "id":73,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -811,8 +811,8 @@
        "coordinates":  [ 135,51 ]
     },
     "properties": {
-    "0":74,
-    "Lasioglossum":"Osmia"
+    "id":74,
+    "Species":"Osmia"
     }
   },
   {
@@ -822,8 +822,8 @@
        "coordinates":  [ 140,35 ]
     },
     "properties": {
-    "0":75,
-    "Lasioglossum":"Lasioglossum"
+    "id":75,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -833,8 +833,8 @@
        "coordinates":  [ 134,47 ]
     },
     "properties": {
-    "0":76,
-    "Lasioglossum":"Seladonia"
+    "id":76,
+    "Species":"Seladonia"
     }
   },
   {
@@ -844,8 +844,8 @@
        "coordinates":  [ 116,53 ]
     },
     "properties": {
-    "0":77,
-    "Lasioglossum":"Apis mellifera"
+    "id":77,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -855,8 +855,8 @@
        "coordinates":  [ 127,42 ]
     },
     "properties": {
-    "0":78,
-    "Lasioglossum":"Apis mellifera"
+    "id":78,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -866,8 +866,8 @@
        "coordinates":  [ 117,20 ]
     },
     "properties": {
-    "0":79,
-    "Lasioglossum":"Lasioglossum"
+    "id":79,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -877,8 +877,8 @@
        "coordinates":  [ 134,44 ]
     },
     "properties": {
-    "0":80,
-    "Lasioglossum":"Apis mellifera"
+    "id":80,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -888,8 +888,8 @@
        "coordinates":  [ 102,28 ]
     },
     "properties": {
-    "0":81,
-    "Lasioglossum":"Lasioglossum"
+    "id":81,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -899,8 +899,8 @@
        "coordinates":  [ 129,31 ]
     },
     "properties": {
-    "0":82,
-    "Lasioglossum":"Lasioglossum"
+    "id":82,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -910,8 +910,8 @@
        "coordinates":  [ 104,47 ]
     },
     "properties": {
-    "0":83,
-    "Lasioglossum":"Osmia"
+    "id":83,
+    "Species":"Osmia"
     }
   },
   {
@@ -921,8 +921,8 @@
        "coordinates":  [ 133,32 ]
     },
     "properties": {
-    "0":84,
-    "Lasioglossum":"Apis mellifera"
+    "id":84,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -932,8 +932,8 @@
        "coordinates":  [ 124,37 ]
     },
     "properties": {
-    "0":85,
-    "Lasioglossum":"Osmia"
+    "id":85,
+    "Species":"Osmia"
     }
   },
   {
@@ -943,8 +943,8 @@
        "coordinates":  [ 127,56 ]
     },
     "properties": {
-    "0":86,
-    "Lasioglossum":"Lasioglossum"
+    "id":86,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -954,8 +954,8 @@
        "coordinates":  [ 115,36 ]
     },
     "properties": {
-    "0":87,
-    "Lasioglossum":"Seladonia"
+    "id":87,
+    "Species":"Seladonia"
     }
   },
   {
@@ -965,8 +965,8 @@
        "coordinates":  [ 127,26 ]
     },
     "properties": {
-    "0":88,
-    "Lasioglossum":"Osmia"
+    "id":88,
+    "Species":"Osmia"
     }
   },
   {
@@ -976,8 +976,8 @@
        "coordinates":  [ 139,38 ]
     },
     "properties": {
-    "0":89,
-    "Lasioglossum":"Lasioglossum"
+    "id":89,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -987,8 +987,8 @@
        "coordinates":  [ 133,36 ]
     },
     "properties": {
-    "0":90,
-    "Lasioglossum":"Osmia"
+    "id":90,
+    "Species":"Osmia"
     }
   },
   {
@@ -998,8 +998,8 @@
        "coordinates":  [ 113,25 ]
     },
     "properties": {
-    "0":91,
-    "Lasioglossum":"Lasioglossum"
+    "id":91,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1009,8 +1009,8 @@
        "coordinates":  [ 126,44 ]
     },
     "properties": {
-    "0":92,
-    "Lasioglossum":"Seladonia"
+    "id":92,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1020,8 +1020,8 @@
        "coordinates":  [ 135,27 ]
     },
     "properties": {
-    "0":93,
-    "Lasioglossum":"Seladonia"
+    "id":93,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1031,8 +1031,8 @@
        "coordinates":  [ 124,29 ]
     },
     "properties": {
-    "0":94,
-    "Lasioglossum":"Apis mellifera"
+    "id":94,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1042,8 +1042,8 @@
        "coordinates":  [ 131,54 ]
     },
     "properties": {
-    "0":95,
-    "Lasioglossum":"Apis mellifera"
+    "id":95,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1053,8 +1053,8 @@
        "coordinates":  [ 128,52 ]
     },
     "properties": {
-    "0":96,
-    "Lasioglossum":"Apis mellifera"
+    "id":96,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1064,8 +1064,8 @@
        "coordinates":  [ 130,42 ]
     },
     "properties": {
-    "0":97,
-    "Lasioglossum":"Lasioglossum"
+    "id":97,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1075,8 +1075,8 @@
        "coordinates":  [ 117,28 ]
     },
     "properties": {
-    "0":98,
-    "Lasioglossum":"Lasioglossum"
+    "id":98,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1086,8 +1086,8 @@
        "coordinates":  [ 137,25 ]
     },
     "properties": {
-    "0":99,
-    "Lasioglossum":"Osmia"
+    "id":99,
+    "Species":"Osmia"
     }
   },
   {
@@ -1097,8 +1097,8 @@
        "coordinates":  [ 129,56 ]
     },
     "properties": {
-    "0":100,
-    "Lasioglossum":"Lasioglossum"
+    "id":100,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1108,8 +1108,8 @@
        "coordinates":  [ 117,20 ]
     },
     "properties": {
-    "0":101,
-    "Lasioglossum":"Lasioglossum"
+    "id":101,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1119,8 +1119,8 @@
        "coordinates":  [ 109,46 ]
     },
     "properties": {
-    "0":102,
-    "Lasioglossum":"Lasioglossum"
+    "id":102,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1130,8 +1130,8 @@
        "coordinates":  [ 126,38 ]
     },
     "properties": {
-    "0":103,
-    "Lasioglossum":"Seladonia"
+    "id":103,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1141,8 +1141,8 @@
        "coordinates":  [ 116,49 ]
     },
     "properties": {
-    "0":104,
-    "Lasioglossum":"Lasioglossum"
+    "id":104,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1152,8 +1152,8 @@
        "coordinates":  [ 129,56 ]
     },
     "properties": {
-    "0":105,
-    "Lasioglossum":"Seladonia"
+    "id":105,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1163,8 +1163,8 @@
        "coordinates":  [ 103,50 ]
     },
     "properties": {
-    "0":106,
-    "Lasioglossum":"Apis mellifera"
+    "id":106,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1174,8 +1174,8 @@
        "coordinates":  [ 110,34 ]
     },
     "properties": {
-    "0":107,
-    "Lasioglossum":"Lasioglossum"
+    "id":107,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1185,8 +1185,8 @@
        "coordinates":  [ 125,56 ]
     },
     "properties": {
-    "0":108,
-    "Lasioglossum":"Lasioglossum"
+    "id":108,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1196,8 +1196,8 @@
        "coordinates":  [ 103,29 ]
     },
     "properties": {
-    "0":109,
-    "Lasioglossum":"Seladonia"
+    "id":109,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1207,8 +1207,8 @@
        "coordinates":  [ 117,42 ]
     },
     "properties": {
-    "0":110,
-    "Lasioglossum":"Lasioglossum"
+    "id":110,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1218,8 +1218,8 @@
        "coordinates":  [ 102,57 ]
     },
     "properties": {
-    "0":111,
-    "Lasioglossum":"Osmia"
+    "id":111,
+    "Species":"Osmia"
     }
   },
   {
@@ -1229,8 +1229,8 @@
        "coordinates":  [ 123,60 ]
     },
     "properties": {
-    "0":112,
-    "Lasioglossum":"Lasioglossum"
+    "id":112,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1240,8 +1240,8 @@
        "coordinates":  [ 124,25 ]
     },
     "properties": {
-    "0":113,
-    "Lasioglossum":"Lasioglossum"
+    "id":113,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1251,8 +1251,8 @@
        "coordinates":  [ 120,43 ]
     },
     "properties": {
-    "0":114,
-    "Lasioglossum":"Seladonia"
+    "id":114,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1262,8 +1262,8 @@
        "coordinates":  [ 121,47 ]
     },
     "properties": {
-    "0":115,
-    "Lasioglossum":"Lasioglossum"
+    "id":115,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1273,8 +1273,8 @@
        "coordinates":  [ 137,58 ]
     },
     "properties": {
-    "0":116,
-    "Lasioglossum":"Osmia"
+    "id":116,
+    "Species":"Osmia"
     }
   },
   {
@@ -1284,8 +1284,8 @@
        "coordinates":  [ 118,41 ]
     },
     "properties": {
-    "0":117,
-    "Lasioglossum":"Osmia"
+    "id":117,
+    "Species":"Osmia"
     }
   },
   {
@@ -1295,8 +1295,8 @@
        "coordinates":  [ 102,36 ]
     },
     "properties": {
-    "0":118,
-    "Lasioglossum":"Lasioglossum"
+    "id":118,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1306,8 +1306,8 @@
        "coordinates":  [ 122,38 ]
     },
     "properties": {
-    "0":119,
-    "Lasioglossum":"Lasioglossum"
+    "id":119,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1317,8 +1317,8 @@
        "coordinates":  [ 131,33 ]
     },
     "properties": {
-    "0":120,
-    "Lasioglossum":"Apis mellifera"
+    "id":120,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1328,8 +1328,8 @@
        "coordinates":  [ 114,21 ]
     },
     "properties": {
-    "0":121,
-    "Lasioglossum":"Osmia"
+    "id":121,
+    "Species":"Osmia"
     }
   },
   {
@@ -1339,8 +1339,8 @@
        "coordinates":  [ 136,29 ]
     },
     "properties": {
-    "0":122,
-    "Lasioglossum":"Osmia"
+    "id":122,
+    "Species":"Osmia"
     }
   },
   {
@@ -1350,8 +1350,8 @@
        "coordinates":  [ 120,58 ]
     },
     "properties": {
-    "0":123,
-    "Lasioglossum":"Seladonia"
+    "id":123,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1361,8 +1361,8 @@
        "coordinates":  [ 122,23 ]
     },
     "properties": {
-    "0":124,
-    "Lasioglossum":"Osmia"
+    "id":124,
+    "Species":"Osmia"
     }
   },
   {
@@ -1372,8 +1372,8 @@
        "coordinates":  [ 130,25 ]
     },
     "properties": {
-    "0":125,
-    "Lasioglossum":"Apis mellifera"
+    "id":125,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1383,8 +1383,8 @@
        "coordinates":  [ 136,52 ]
     },
     "properties": {
-    "0":126,
-    "Lasioglossum":"Apis mellifera"
+    "id":126,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1394,8 +1394,8 @@
        "coordinates":  [ 132,22 ]
     },
     "properties": {
-    "0":127,
-    "Lasioglossum":"Osmia"
+    "id":127,
+    "Species":"Osmia"
     }
   },
   {
@@ -1405,8 +1405,8 @@
        "coordinates":  [ 102,57 ]
     },
     "properties": {
-    "0":128,
-    "Lasioglossum":"Apis mellifera"
+    "id":128,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1416,8 +1416,8 @@
        "coordinates":  [ 116,39 ]
     },
     "properties": {
-    "0":129,
-    "Lasioglossum":"Apis mellifera"
+    "id":129,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1427,8 +1427,8 @@
        "coordinates":  [ 135,27 ]
     },
     "properties": {
-    "0":130,
-    "Lasioglossum":"Osmia"
+    "id":130,
+    "Species":"Osmia"
     }
   },
   {
@@ -1438,8 +1438,8 @@
        "coordinates":  [ 128,46 ]
     },
     "properties": {
-    "0":131,
-    "Lasioglossum":"Apis mellifera"
+    "id":131,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1449,8 +1449,8 @@
        "coordinates":  [ 137,28 ]
     },
     "properties": {
-    "0":132,
-    "Lasioglossum":"Seladonia"
+    "id":132,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1460,8 +1460,8 @@
        "coordinates":  [ 121,29 ]
     },
     "properties": {
-    "0":133,
-    "Lasioglossum":"Seladonia"
+    "id":133,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1471,8 +1471,8 @@
        "coordinates":  [ 109,46 ]
     },
     "properties": {
-    "0":134,
-    "Lasioglossum":"Lasioglossum"
+    "id":134,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1482,8 +1482,8 @@
        "coordinates":  [ 129,25 ]
     },
     "properties": {
-    "0":135,
-    "Lasioglossum":"Osmia"
+    "id":135,
+    "Species":"Osmia"
     }
   },
   {
@@ -1493,8 +1493,8 @@
        "coordinates":  [ 123,59 ]
     },
     "properties": {
-    "0":136,
-    "Lasioglossum":"Osmia"
+    "id":136,
+    "Species":"Osmia"
     }
   },
   {
@@ -1504,8 +1504,8 @@
        "coordinates":  [ 117,46 ]
     },
     "properties": {
-    "0":137,
-    "Lasioglossum":"Apis mellifera"
+    "id":137,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1515,8 +1515,8 @@
        "coordinates":  [ 139,51 ]
     },
     "properties": {
-    "0":138,
-    "Lasioglossum":"Seladonia"
+    "id":138,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1526,8 +1526,8 @@
        "coordinates":  [ 140,48 ]
     },
     "properties": {
-    "0":139,
-    "Lasioglossum":"Apis mellifera"
+    "id":139,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1537,8 +1537,8 @@
        "coordinates":  [ 127,54 ]
     },
     "properties": {
-    "0":140,
-    "Lasioglossum":"Seladonia"
+    "id":140,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1548,8 +1548,8 @@
        "coordinates":  [ 113,40 ]
     },
     "properties": {
-    "0":141,
-    "Lasioglossum":"Lasioglossum"
+    "id":141,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1559,8 +1559,8 @@
        "coordinates":  [ 131,31 ]
     },
     "properties": {
-    "0":142,
-    "Lasioglossum":"Apis mellifera"
+    "id":142,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1570,8 +1570,8 @@
        "coordinates":  [ 106,45 ]
     },
     "properties": {
-    "0":143,
-    "Lasioglossum":"Lasioglossum"
+    "id":143,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1581,8 +1581,8 @@
        "coordinates":  [ 127,44 ]
     },
     "properties": {
-    "0":144,
-    "Lasioglossum":"Osmia"
+    "id":144,
+    "Species":"Osmia"
     }
   },
   {
@@ -1592,8 +1592,8 @@
        "coordinates":  [ 121,40 ]
     },
     "properties": {
-    "0":145,
-    "Lasioglossum":"Apis mellifera"
+    "id":145,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1603,8 +1603,8 @@
        "coordinates":  [ 105,58 ]
     },
     "properties": {
-    "0":146,
-    "Lasioglossum":"Osmia"
+    "id":146,
+    "Species":"Osmia"
     }
   },
   {
@@ -1614,8 +1614,8 @@
        "coordinates":  [ 132,59 ]
     },
     "properties": {
-    "0":147,
-    "Lasioglossum":"Apis mellifera"
+    "id":147,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1625,8 +1625,8 @@
        "coordinates":  [ 101,23 ]
     },
     "properties": {
-    "0":148,
-    "Lasioglossum":"Seladonia"
+    "id":148,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1636,8 +1636,8 @@
        "coordinates":  [ 109,37 ]
     },
     "properties": {
-    "0":149,
-    "Lasioglossum":"Osmia"
+    "id":149,
+    "Species":"Osmia"
     }
   },
   {
@@ -1647,8 +1647,8 @@
        "coordinates":  [ 119,32 ]
     },
     "properties": {
-    "0":150,
-    "Lasioglossum":"Lasioglossum"
+    "id":150,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1658,8 +1658,8 @@
        "coordinates":  [ 106,31 ]
     },
     "properties": {
-    "0":151,
-    "Lasioglossum":"Osmia"
+    "id":151,
+    "Species":"Osmia"
     }
   },
   {
@@ -1669,8 +1669,8 @@
        "coordinates":  [ 140,40 ]
     },
     "properties": {
-    "0":152,
-    "Lasioglossum":"Apis mellifera"
+    "id":152,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1680,8 +1680,8 @@
        "coordinates":  [ 105,52 ]
     },
     "properties": {
-    "0":153,
-    "Lasioglossum":"Seladonia"
+    "id":153,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1691,8 +1691,8 @@
        "coordinates":  [ 138,48 ]
     },
     "properties": {
-    "0":154,
-    "Lasioglossum":"Osmia"
+    "id":154,
+    "Species":"Osmia"
     }
   },
   {
@@ -1702,8 +1702,8 @@
        "coordinates":  [ 108,50 ]
     },
     "properties": {
-    "0":155,
-    "Lasioglossum":"Apis mellifera"
+    "id":155,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1713,8 +1713,8 @@
        "coordinates":  [ 111,31 ]
     },
     "properties": {
-    "0":156,
-    "Lasioglossum":"Apis mellifera"
+    "id":156,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1724,8 +1724,8 @@
        "coordinates":  [ 139,43 ]
     },
     "properties": {
-    "0":157,
-    "Lasioglossum":"Apis mellifera"
+    "id":157,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1735,8 +1735,8 @@
        "coordinates":  [ 137,25 ]
     },
     "properties": {
-    "0":158,
-    "Lasioglossum":"Osmia"
+    "id":158,
+    "Species":"Osmia"
     }
   },
   {
@@ -1746,8 +1746,8 @@
        "coordinates":  [ 134,53 ]
     },
     "properties": {
-    "0":159,
-    "Lasioglossum":"Osmia"
+    "id":159,
+    "Species":"Osmia"
     }
   },
   {
@@ -1757,8 +1757,8 @@
        "coordinates":  [ 134,31 ]
     },
     "properties": {
-    "0":160,
-    "Lasioglossum":"Lasioglossum"
+    "id":160,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1768,8 +1768,8 @@
        "coordinates":  [ 136,59 ]
     },
     "properties": {
-    "0":161,
-    "Lasioglossum":"Apis mellifera"
+    "id":161,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1779,8 +1779,8 @@
        "coordinates":  [ 111,46 ]
     },
     "properties": {
-    "0":162,
-    "Lasioglossum":"Lasioglossum"
+    "id":162,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1790,8 +1790,8 @@
        "coordinates":  [ 106,54 ]
     },
     "properties": {
-    "0":163,
-    "Lasioglossum":"Osmia"
+    "id":163,
+    "Species":"Osmia"
     }
   },
   {
@@ -1801,8 +1801,8 @@
        "coordinates":  [ 104,32 ]
     },
     "properties": {
-    "0":164,
-    "Lasioglossum":"Seladonia"
+    "id":164,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1812,8 +1812,8 @@
        "coordinates":  [ 140,47 ]
     },
     "properties": {
-    "0":165,
-    "Lasioglossum":"Seladonia"
+    "id":165,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1823,8 +1823,8 @@
        "coordinates":  [ 106,33 ]
     },
     "properties": {
-    "0":166,
-    "Lasioglossum":"Lasioglossum"
+    "id":166,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1834,8 +1834,8 @@
        "coordinates":  [ 107,32 ]
     },
     "properties": {
-    "0":167,
-    "Lasioglossum":"Osmia"
+    "id":167,
+    "Species":"Osmia"
     }
   },
   {
@@ -1845,8 +1845,8 @@
        "coordinates":  [ 135,44 ]
     },
     "properties": {
-    "0":168,
-    "Lasioglossum":"Osmia"
+    "id":168,
+    "Species":"Osmia"
     }
   },
   {
@@ -1856,8 +1856,8 @@
        "coordinates":  [ 124,42 ]
     },
     "properties": {
-    "0":169,
-    "Lasioglossum":"Seladonia"
+    "id":169,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1867,8 +1867,8 @@
        "coordinates":  [ 111,33 ]
     },
     "properties": {
-    "0":170,
-    "Lasioglossum":"Seladonia"
+    "id":170,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1878,8 +1878,8 @@
        "coordinates":  [ 107,57 ]
     },
     "properties": {
-    "0":171,
-    "Lasioglossum":"Apis mellifera"
+    "id":171,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1889,8 +1889,8 @@
        "coordinates":  [ 129,39 ]
     },
     "properties": {
-    "0":172,
-    "Lasioglossum":"Osmia"
+    "id":172,
+    "Species":"Osmia"
     }
   },
   {
@@ -1900,8 +1900,8 @@
        "coordinates":  [ 136,32 ]
     },
     "properties": {
-    "0":173,
-    "Lasioglossum":"Apis mellifera"
+    "id":173,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1911,8 +1911,8 @@
        "coordinates":  [ 104,40 ]
     },
     "properties": {
-    "0":174,
-    "Lasioglossum":"Seladonia"
+    "id":174,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1922,8 +1922,8 @@
        "coordinates":  [ 137,44 ]
     },
     "properties": {
-    "0":175,
-    "Lasioglossum":"Seladonia"
+    "id":175,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1933,8 +1933,8 @@
        "coordinates":  [ 121,49 ]
     },
     "properties": {
-    "0":176,
-    "Lasioglossum":"Apis mellifera"
+    "id":176,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1944,8 +1944,8 @@
        "coordinates":  [ 110,32 ]
     },
     "properties": {
-    "0":177,
-    "Lasioglossum":"Seladonia"
+    "id":177,
+    "Species":"Seladonia"
     }
   },
   {
@@ -1955,8 +1955,8 @@
        "coordinates":  [ 120,44 ]
     },
     "properties": {
-    "0":178,
-    "Lasioglossum":"Lasioglossum"
+    "id":178,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1966,8 +1966,8 @@
        "coordinates":  [ 118,58 ]
     },
     "properties": {
-    "0":179,
-    "Lasioglossum":"Osmia"
+    "id":179,
+    "Species":"Osmia"
     }
   },
   {
@@ -1977,8 +1977,8 @@
        "coordinates":  [ 113,43 ]
     },
     "properties": {
-    "0":180,
-    "Lasioglossum":"Lasioglossum"
+    "id":180,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -1988,8 +1988,8 @@
        "coordinates":  [ 107,51 ]
     },
     "properties": {
-    "0":181,
-    "Lasioglossum":"Apis mellifera"
+    "id":181,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -1999,8 +1999,8 @@
        "coordinates":  [ 135,43 ]
     },
     "properties": {
-    "0":182,
-    "Lasioglossum":"Lasioglossum"
+    "id":182,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2010,8 +2010,8 @@
        "coordinates":  [ 135,60 ]
     },
     "properties": {
-    "0":183,
-    "Lasioglossum":"Osmia"
+    "id":183,
+    "Species":"Osmia"
     }
   },
   {
@@ -2021,8 +2021,8 @@
        "coordinates":  [ 124,42 ]
     },
     "properties": {
-    "0":184,
-    "Lasioglossum":"Lasioglossum"
+    "id":184,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2032,8 +2032,8 @@
        "coordinates":  [ 101,53 ]
     },
     "properties": {
-    "0":185,
-    "Lasioglossum":"Apis mellifera"
+    "id":185,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2043,8 +2043,8 @@
        "coordinates":  [ 120,28 ]
     },
     "properties": {
-    "0":186,
-    "Lasioglossum":"Lasioglossum"
+    "id":186,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2054,8 +2054,8 @@
        "coordinates":  [ 139,53 ]
     },
     "properties": {
-    "0":187,
-    "Lasioglossum":"Osmia"
+    "id":187,
+    "Species":"Osmia"
     }
   },
   {
@@ -2065,8 +2065,8 @@
        "coordinates":  [ 126,30 ]
     },
     "properties": {
-    "0":188,
-    "Lasioglossum":"Osmia"
+    "id":188,
+    "Species":"Osmia"
     }
   },
   {
@@ -2076,8 +2076,8 @@
        "coordinates":  [ 111,21 ]
     },
     "properties": {
-    "0":189,
-    "Lasioglossum":"Lasioglossum"
+    "id":189,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2087,8 +2087,8 @@
        "coordinates":  [ 114,50 ]
     },
     "properties": {
-    "0":190,
-    "Lasioglossum":"Seladonia"
+    "id":190,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2098,8 +2098,8 @@
        "coordinates":  [ 111,37 ]
     },
     "properties": {
-    "0":191,
-    "Lasioglossum":"Osmia"
+    "id":191,
+    "Species":"Osmia"
     }
   },
   {
@@ -2109,8 +2109,8 @@
        "coordinates":  [ 104,48 ]
     },
     "properties": {
-    "0":192,
-    "Lasioglossum":"Osmia"
+    "id":192,
+    "Species":"Osmia"
     }
   },
   {
@@ -2120,8 +2120,8 @@
        "coordinates":  [ 102,55 ]
     },
     "properties": {
-    "0":193,
-    "Lasioglossum":"Osmia"
+    "id":193,
+    "Species":"Osmia"
     }
   },
   {
@@ -2131,8 +2131,8 @@
        "coordinates":  [ 128,45 ]
     },
     "properties": {
-    "0":194,
-    "Lasioglossum":"Lasioglossum"
+    "id":194,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2142,8 +2142,8 @@
        "coordinates":  [ 110,56 ]
     },
     "properties": {
-    "0":195,
-    "Lasioglossum":"Apis mellifera"
+    "id":195,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2153,8 +2153,8 @@
        "coordinates":  [ 135,32 ]
     },
     "properties": {
-    "0":196,
-    "Lasioglossum":"Apis mellifera"
+    "id":196,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2164,8 +2164,8 @@
        "coordinates":  [ 112,52 ]
     },
     "properties": {
-    "0":197,
-    "Lasioglossum":"Lasioglossum"
+    "id":197,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2175,8 +2175,8 @@
        "coordinates":  [ 140,28 ]
     },
     "properties": {
-    "0":198,
-    "Lasioglossum":"Osmia"
+    "id":198,
+    "Species":"Osmia"
     }
   },
   {
@@ -2186,8 +2186,8 @@
        "coordinates":  [ 113,46 ]
     },
     "properties": {
-    "0":199,
-    "Lasioglossum":"Osmia"
+    "id":199,
+    "Species":"Osmia"
     }
   },
   {
@@ -2197,8 +2197,8 @@
        "coordinates":  [ 137,34 ]
     },
     "properties": {
-    "0":200,
-    "Lasioglossum":"Lasioglossum"
+    "id":200,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2208,8 +2208,8 @@
        "coordinates":  [ 116,42 ]
     },
     "properties": {
-    "0":201,
-    "Lasioglossum":"Lasioglossum"
+    "id":201,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2219,8 +2219,8 @@
        "coordinates":  [ 116,48 ]
     },
     "properties": {
-    "0":202,
-    "Lasioglossum":"Apis mellifera"
+    "id":202,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2230,8 +2230,8 @@
        "coordinates":  [ 125,51 ]
     },
     "properties": {
-    "0":203,
-    "Lasioglossum":"Seladonia"
+    "id":203,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2241,8 +2241,8 @@
        "coordinates":  [ 137,28 ]
     },
     "properties": {
-    "0":204,
-    "Lasioglossum":"Lasioglossum"
+    "id":204,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2252,8 +2252,8 @@
        "coordinates":  [ 108,50 ]
     },
     "properties": {
-    "0":205,
-    "Lasioglossum":"Seladonia"
+    "id":205,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2263,8 +2263,8 @@
        "coordinates":  [ 130,36 ]
     },
     "properties": {
-    "0":206,
-    "Lasioglossum":"Seladonia"
+    "id":206,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2274,8 +2274,8 @@
        "coordinates":  [ 134,38 ]
     },
     "properties": {
-    "0":207,
-    "Lasioglossum":"Seladonia"
+    "id":207,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2285,8 +2285,8 @@
        "coordinates":  [ 128,50 ]
     },
     "properties": {
-    "0":208,
-    "Lasioglossum":"Osmia"
+    "id":208,
+    "Species":"Osmia"
     }
   },
   {
@@ -2296,8 +2296,8 @@
        "coordinates":  [ 118,57 ]
     },
     "properties": {
-    "0":209,
-    "Lasioglossum":"Lasioglossum"
+    "id":209,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2307,8 +2307,8 @@
        "coordinates":  [ 134,22 ]
     },
     "properties": {
-    "0":210,
-    "Lasioglossum":"Apis mellifera"
+    "id":210,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2318,8 +2318,8 @@
        "coordinates":  [ 123,24 ]
     },
     "properties": {
-    "0":211,
-    "Lasioglossum":"Apis mellifera"
+    "id":211,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2329,8 +2329,8 @@
        "coordinates":  [ 132,20 ]
     },
     "properties": {
-    "0":212,
-    "Lasioglossum":"Apis mellifera"
+    "id":212,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2340,8 +2340,8 @@
        "coordinates":  [ 132,39 ]
     },
     "properties": {
-    "0":213,
-    "Lasioglossum":"Apis mellifera"
+    "id":213,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2351,8 +2351,8 @@
        "coordinates":  [ 106,46 ]
     },
     "properties": {
-    "0":214,
-    "Lasioglossum":"Apis mellifera"
+    "id":214,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2362,8 +2362,8 @@
        "coordinates":  [ 134,26 ]
     },
     "properties": {
-    "0":215,
-    "Lasioglossum":"Apis mellifera"
+    "id":215,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2373,8 +2373,8 @@
        "coordinates":  [ 100,28 ]
     },
     "properties": {
-    "0":216,
-    "Lasioglossum":"Apis mellifera"
+    "id":216,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2384,8 +2384,8 @@
        "coordinates":  [ 102,36 ]
     },
     "properties": {
-    "0":217,
-    "Lasioglossum":"Seladonia"
+    "id":217,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2395,8 +2395,8 @@
        "coordinates":  [ 122,54 ]
     },
     "properties": {
-    "0":218,
-    "Lasioglossum":"Lasioglossum"
+    "id":218,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2406,8 +2406,8 @@
        "coordinates":  [ 113,20 ]
     },
     "properties": {
-    "0":219,
-    "Lasioglossum":"Lasioglossum"
+    "id":219,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2417,8 +2417,8 @@
        "coordinates":  [ 103,33 ]
     },
     "properties": {
-    "0":220,
-    "Lasioglossum":"Apis mellifera"
+    "id":220,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2428,8 +2428,8 @@
        "coordinates":  [ 112,47 ]
     },
     "properties": {
-    "0":221,
-    "Lasioglossum":"Lasioglossum"
+    "id":221,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2439,8 +2439,8 @@
        "coordinates":  [ 138,58 ]
     },
     "properties": {
-    "0":222,
-    "Lasioglossum":"Apis mellifera"
+    "id":222,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2450,8 +2450,8 @@
        "coordinates":  [ 114,40 ]
     },
     "properties": {
-    "0":223,
-    "Lasioglossum":"Seladonia"
+    "id":223,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2461,8 +2461,8 @@
        "coordinates":  [ 100,46 ]
     },
     "properties": {
-    "0":224,
-    "Lasioglossum":"Apis mellifera"
+    "id":224,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2472,8 +2472,8 @@
        "coordinates":  [ 137,58 ]
     },
     "properties": {
-    "0":225,
-    "Lasioglossum":"Osmia"
+    "id":225,
+    "Species":"Osmia"
     }
   },
   {
@@ -2483,8 +2483,8 @@
        "coordinates":  [ 125,48 ]
     },
     "properties": {
-    "0":226,
-    "Lasioglossum":"Apis mellifera"
+    "id":226,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2494,8 +2494,8 @@
        "coordinates":  [ 110,32 ]
     },
     "properties": {
-    "0":227,
-    "Lasioglossum":"Apis mellifera"
+    "id":227,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2505,8 +2505,8 @@
        "coordinates":  [ 114,55 ]
     },
     "properties": {
-    "0":228,
-    "Lasioglossum":"Lasioglossum"
+    "id":228,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2516,8 +2516,8 @@
        "coordinates":  [ 120,42 ]
     },
     "properties": {
-    "0":229,
-    "Lasioglossum":"Lasioglossum"
+    "id":229,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2527,8 +2527,8 @@
        "coordinates":  [ 129,50 ]
     },
     "properties": {
-    "0":230,
-    "Lasioglossum":"Osmia"
+    "id":230,
+    "Species":"Osmia"
     }
   },
   {
@@ -2538,8 +2538,8 @@
        "coordinates":  [ 118,32 ]
     },
     "properties": {
-    "0":231,
-    "Lasioglossum":"Lasioglossum"
+    "id":231,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2549,8 +2549,8 @@
        "coordinates":  [ 138,44 ]
     },
     "properties": {
-    "0":232,
-    "Lasioglossum":"Apis mellifera"
+    "id":232,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2560,8 +2560,8 @@
        "coordinates":  [ 104,43 ]
     },
     "properties": {
-    "0":233,
-    "Lasioglossum":"Apis mellifera"
+    "id":233,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2571,8 +2571,8 @@
        "coordinates":  [ 123,48 ]
     },
     "properties": {
-    "0":234,
-    "Lasioglossum":"Osmia"
+    "id":234,
+    "Species":"Osmia"
     }
   },
   {
@@ -2582,8 +2582,8 @@
        "coordinates":  [ 136,32 ]
     },
     "properties": {
-    "0":235,
-    "Lasioglossum":"Seladonia"
+    "id":235,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2593,8 +2593,8 @@
        "coordinates":  [ 110,48 ]
     },
     "properties": {
-    "0":236,
-    "Lasioglossum":"Seladonia"
+    "id":236,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2604,8 +2604,8 @@
        "coordinates":  [ 115,27 ]
     },
     "properties": {
-    "0":237,
-    "Lasioglossum":"Osmia"
+    "id":237,
+    "Species":"Osmia"
     }
   },
   {
@@ -2615,8 +2615,8 @@
        "coordinates":  [ 111,22 ]
     },
     "properties": {
-    "0":238,
-    "Lasioglossum":"Lasioglossum"
+    "id":238,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2626,8 +2626,8 @@
        "coordinates":  [ 129,59 ]
     },
     "properties": {
-    "0":239,
-    "Lasioglossum":"Seladonia"
+    "id":239,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2637,8 +2637,8 @@
        "coordinates":  [ 120,53 ]
     },
     "properties": {
-    "0":240,
-    "Lasioglossum":"Apis mellifera"
+    "id":240,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2648,8 +2648,8 @@
        "coordinates":  [ 123,33 ]
     },
     "properties": {
-    "0":241,
-    "Lasioglossum":"Lasioglossum"
+    "id":241,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2659,8 +2659,8 @@
        "coordinates":  [ 108,50 ]
     },
     "properties": {
-    "0":242,
-    "Lasioglossum":"Seladonia"
+    "id":242,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2670,8 +2670,8 @@
        "coordinates":  [ 122,37 ]
     },
     "properties": {
-    "0":243,
-    "Lasioglossum":"Seladonia"
+    "id":243,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2681,8 +2681,8 @@
        "coordinates":  [ 113,20 ]
     },
     "properties": {
-    "0":244,
-    "Lasioglossum":"Seladonia"
+    "id":244,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2692,8 +2692,8 @@
        "coordinates":  [ 123,40 ]
     },
     "properties": {
-    "0":245,
-    "Lasioglossum":"Osmia"
+    "id":245,
+    "Species":"Osmia"
     }
   },
   {
@@ -2703,8 +2703,8 @@
        "coordinates":  [ 109,45 ]
     },
     "properties": {
-    "0":246,
-    "Lasioglossum":"Lasioglossum"
+    "id":246,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2714,8 +2714,8 @@
        "coordinates":  [ 129,27 ]
     },
     "properties": {
-    "0":247,
-    "Lasioglossum":"Apis mellifera"
+    "id":247,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2725,8 +2725,8 @@
        "coordinates":  [ 112,42 ]
     },
     "properties": {
-    "0":248,
-    "Lasioglossum":"Seladonia"
+    "id":248,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2736,8 +2736,8 @@
        "coordinates":  [ 114,24 ]
     },
     "properties": {
-    "0":249,
-    "Lasioglossum":"Osmia"
+    "id":249,
+    "Species":"Osmia"
     }
   },
   {
@@ -2747,8 +2747,8 @@
        "coordinates":  [ 117,32 ]
     },
     "properties": {
-    "0":250,
-    "Lasioglossum":"Osmia"
+    "id":250,
+    "Species":"Osmia"
     }
   },
   {
@@ -2758,8 +2758,8 @@
        "coordinates":  [ 125,42 ]
     },
     "properties": {
-    "0":251,
-    "Lasioglossum":"Osmia"
+    "id":251,
+    "Species":"Osmia"
     }
   },
   {
@@ -2769,8 +2769,8 @@
        "coordinates":  [ 105,55 ]
     },
     "properties": {
-    "0":252,
-    "Lasioglossum":"Seladonia"
+    "id":252,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2780,8 +2780,8 @@
        "coordinates":  [ 122,34 ]
     },
     "properties": {
-    "0":253,
-    "Lasioglossum":"Lasioglossum"
+    "id":253,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2791,8 +2791,8 @@
        "coordinates":  [ 137,35 ]
     },
     "properties": {
-    "0":254,
-    "Lasioglossum":"Apis mellifera"
+    "id":254,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2802,8 +2802,8 @@
        "coordinates":  [ 115,46 ]
     },
     "properties": {
-    "0":255,
-    "Lasioglossum":"Seladonia"
+    "id":255,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2813,8 +2813,8 @@
        "coordinates":  [ 121,49 ]
     },
     "properties": {
-    "0":256,
-    "Lasioglossum":"Osmia"
+    "id":256,
+    "Species":"Osmia"
     }
   },
   {
@@ -2824,8 +2824,8 @@
        "coordinates":  [ 127,45 ]
     },
     "properties": {
-    "0":257,
-    "Lasioglossum":"Osmia"
+    "id":257,
+    "Species":"Osmia"
     }
   },
   {
@@ -2835,8 +2835,8 @@
        "coordinates":  [ 139,52 ]
     },
     "properties": {
-    "0":258,
-    "Lasioglossum":"Osmia"
+    "id":258,
+    "Species":"Osmia"
     }
   },
   {
@@ -2846,8 +2846,8 @@
        "coordinates":  [ 120,42 ]
     },
     "properties": {
-    "0":259,
-    "Lasioglossum":"Apis mellifera"
+    "id":259,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2857,8 +2857,8 @@
        "coordinates":  [ 112,57 ]
     },
     "properties": {
-    "0":260,
-    "Lasioglossum":"Osmia"
+    "id":260,
+    "Species":"Osmia"
     }
   },
   {
@@ -2868,8 +2868,8 @@
        "coordinates":  [ 138,37 ]
     },
     "properties": {
-    "0":261,
-    "Lasioglossum":"Osmia"
+    "id":261,
+    "Species":"Osmia"
     }
   },
   {
@@ -2879,8 +2879,8 @@
        "coordinates":  [ 117,28 ]
     },
     "properties": {
-    "0":262,
-    "Lasioglossum":"Lasioglossum"
+    "id":262,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2890,8 +2890,8 @@
        "coordinates":  [ 108,24 ]
     },
     "properties": {
-    "0":263,
-    "Lasioglossum":"Lasioglossum"
+    "id":263,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -2901,8 +2901,8 @@
        "coordinates":  [ 107,34 ]
     },
     "properties": {
-    "0":264,
-    "Lasioglossum":"Seladonia"
+    "id":264,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2912,8 +2912,8 @@
        "coordinates":  [ 120,23 ]
     },
     "properties": {
-    "0":265,
-    "Lasioglossum":"Osmia"
+    "id":265,
+    "Species":"Osmia"
     }
   },
   {
@@ -2923,8 +2923,8 @@
        "coordinates":  [ 119,24 ]
     },
     "properties": {
-    "0":266,
-    "Lasioglossum":"Osmia"
+    "id":266,
+    "Species":"Osmia"
     }
   },
   {
@@ -2934,8 +2934,8 @@
        "coordinates":  [ 102,28 ]
     },
     "properties": {
-    "0":267,
-    "Lasioglossum":"Apis mellifera"
+    "id":267,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2945,8 +2945,8 @@
        "coordinates":  [ 112,43 ]
     },
     "properties": {
-    "0":268,
-    "Lasioglossum":"Osmia"
+    "id":268,
+    "Species":"Osmia"
     }
   },
   {
@@ -2956,8 +2956,8 @@
        "coordinates":  [ 131,30 ]
     },
     "properties": {
-    "0":269,
-    "Lasioglossum":"Seladonia"
+    "id":269,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2967,8 +2967,8 @@
        "coordinates":  [ 134,31 ]
     },
     "properties": {
-    "0":270,
-    "Lasioglossum":"Apis mellifera"
+    "id":270,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -2978,8 +2978,8 @@
        "coordinates":  [ 137,48 ]
     },
     "properties": {
-    "0":271,
-    "Lasioglossum":"Seladonia"
+    "id":271,
+    "Species":"Seladonia"
     }
   },
   {
@@ -2989,8 +2989,8 @@
        "coordinates":  [ 113,59 ]
     },
     "properties": {
-    "0":272,
-    "Lasioglossum":"Osmia"
+    "id":272,
+    "Species":"Osmia"
     }
   },
   {
@@ -3000,8 +3000,8 @@
        "coordinates":  [ 125,28 ]
     },
     "properties": {
-    "0":273,
-    "Lasioglossum":"Seladonia"
+    "id":273,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3011,8 +3011,8 @@
        "coordinates":  [ 109,39 ]
     },
     "properties": {
-    "0":274,
-    "Lasioglossum":"Lasioglossum"
+    "id":274,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3022,8 +3022,8 @@
        "coordinates":  [ 117,23 ]
     },
     "properties": {
-    "0":275,
-    "Lasioglossum":"Apis mellifera"
+    "id":275,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3033,8 +3033,8 @@
        "coordinates":  [ 104,24 ]
     },
     "properties": {
-    "0":276,
-    "Lasioglossum":"Lasioglossum"
+    "id":276,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3044,8 +3044,8 @@
        "coordinates":  [ 100,39 ]
     },
     "properties": {
-    "0":277,
-    "Lasioglossum":"Seladonia"
+    "id":277,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3055,8 +3055,8 @@
        "coordinates":  [ 121,44 ]
     },
     "properties": {
-    "0":278,
-    "Lasioglossum":"Lasioglossum"
+    "id":278,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3066,8 +3066,8 @@
        "coordinates":  [ 106,33 ]
     },
     "properties": {
-    "0":279,
-    "Lasioglossum":"Lasioglossum"
+    "id":279,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3077,8 +3077,8 @@
        "coordinates":  [ 118,55 ]
     },
     "properties": {
-    "0":280,
-    "Lasioglossum":"Osmia"
+    "id":280,
+    "Species":"Osmia"
     }
   },
   {
@@ -3088,8 +3088,8 @@
        "coordinates":  [ 125,40 ]
     },
     "properties": {
-    "0":281,
-    "Lasioglossum":"Lasioglossum"
+    "id":281,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3099,8 +3099,8 @@
        "coordinates":  [ 101,49 ]
     },
     "properties": {
-    "0":282,
-    "Lasioglossum":"Seladonia"
+    "id":282,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3110,8 +3110,8 @@
        "coordinates":  [ 138,48 ]
     },
     "properties": {
-    "0":283,
-    "Lasioglossum":"Osmia"
+    "id":283,
+    "Species":"Osmia"
     }
   },
   {
@@ -3121,8 +3121,8 @@
        "coordinates":  [ 130,26 ]
     },
     "properties": {
-    "0":284,
-    "Lasioglossum":"Apis mellifera"
+    "id":284,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3132,8 +3132,8 @@
        "coordinates":  [ 119,25 ]
     },
     "properties": {
-    "0":285,
-    "Lasioglossum":"Lasioglossum"
+    "id":285,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3143,8 +3143,8 @@
        "coordinates":  [ 116,20 ]
     },
     "properties": {
-    "0":286,
-    "Lasioglossum":"Apis mellifera"
+    "id":286,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3154,8 +3154,8 @@
        "coordinates":  [ 122,57 ]
     },
     "properties": {
-    "0":287,
-    "Lasioglossum":"Apis mellifera"
+    "id":287,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3165,8 +3165,8 @@
        "coordinates":  [ 110,50 ]
     },
     "properties": {
-    "0":288,
-    "Lasioglossum":"Lasioglossum"
+    "id":288,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3176,8 +3176,8 @@
        "coordinates":  [ 107,60 ]
     },
     "properties": {
-    "0":289,
-    "Lasioglossum":"Osmia"
+    "id":289,
+    "Species":"Osmia"
     }
   },
   {
@@ -3187,8 +3187,8 @@
        "coordinates":  [ 137,56 ]
     },
     "properties": {
-    "0":290,
-    "Lasioglossum":"Seladonia"
+    "id":290,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3198,8 +3198,8 @@
        "coordinates":  [ 104,32 ]
     },
     "properties": {
-    "0":291,
-    "Lasioglossum":"Apis mellifera"
+    "id":291,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3209,8 +3209,8 @@
        "coordinates":  [ 119,46 ]
     },
     "properties": {
-    "0":292,
-    "Lasioglossum":"Seladonia"
+    "id":292,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3220,8 +3220,8 @@
        "coordinates":  [ 100,34 ]
     },
     "properties": {
-    "0":293,
-    "Lasioglossum":"Seladonia"
+    "id":293,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3231,8 +3231,8 @@
        "coordinates":  [ 136,37 ]
     },
     "properties": {
-    "0":294,
-    "Lasioglossum":"Lasioglossum"
+    "id":294,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3242,8 +3242,8 @@
        "coordinates":  [ 107,54 ]
     },
     "properties": {
-    "0":295,
-    "Lasioglossum":"Lasioglossum"
+    "id":295,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3253,8 +3253,8 @@
        "coordinates":  [ 123,38 ]
     },
     "properties": {
-    "0":296,
-    "Lasioglossum":"Apis mellifera"
+    "id":296,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3264,8 +3264,8 @@
        "coordinates":  [ 134,49 ]
     },
     "properties": {
-    "0":297,
-    "Lasioglossum":"Apis mellifera"
+    "id":297,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3275,8 +3275,8 @@
        "coordinates":  [ 121,55 ]
     },
     "properties": {
-    "0":298,
-    "Lasioglossum":"Apis mellifera"
+    "id":298,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3286,8 +3286,8 @@
        "coordinates":  [ 120,56 ]
     },
     "properties": {
-    "0":299,
-    "Lasioglossum":"Seladonia"
+    "id":299,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3297,8 +3297,8 @@
        "coordinates":  [ 113,51 ]
     },
     "properties": {
-    "0":300,
-    "Lasioglossum":"Lasioglossum"
+    "id":300,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3308,8 +3308,8 @@
        "coordinates":  [ 127,36 ]
     },
     "properties": {
-    "0":301,
-    "Lasioglossum":"Seladonia"
+    "id":301,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3319,8 +3319,8 @@
        "coordinates":  [ 106,43 ]
     },
     "properties": {
-    "0":302,
-    "Lasioglossum":"Apis mellifera"
+    "id":302,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3330,8 +3330,8 @@
        "coordinates":  [ 117,32 ]
     },
     "properties": {
-    "0":303,
-    "Lasioglossum":"Lasioglossum"
+    "id":303,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3341,8 +3341,8 @@
        "coordinates":  [ 122,60 ]
     },
     "properties": {
-    "0":304,
-    "Lasioglossum":"Lasioglossum"
+    "id":304,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3352,8 +3352,8 @@
        "coordinates":  [ 120,36 ]
     },
     "properties": {
-    "0":305,
-    "Lasioglossum":"Seladonia"
+    "id":305,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3363,8 +3363,8 @@
        "coordinates":  [ 137,26 ]
     },
     "properties": {
-    "0":306,
-    "Lasioglossum":"Apis mellifera"
+    "id":306,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3374,8 +3374,8 @@
        "coordinates":  [ 110,26 ]
     },
     "properties": {
-    "0":307,
-    "Lasioglossum":"Apis mellifera"
+    "id":307,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3385,8 +3385,8 @@
        "coordinates":  [ 110,44 ]
     },
     "properties": {
-    "0":308,
-    "Lasioglossum":"Lasioglossum"
+    "id":308,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3396,8 +3396,8 @@
        "coordinates":  [ 111,27 ]
     },
     "properties": {
-    "0":309,
-    "Lasioglossum":"Seladonia"
+    "id":309,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3407,8 +3407,8 @@
        "coordinates":  [ 124,30 ]
     },
     "properties": {
-    "0":310,
-    "Lasioglossum":"Osmia"
+    "id":310,
+    "Species":"Osmia"
     }
   },
   {
@@ -3418,8 +3418,8 @@
        "coordinates":  [ 125,50 ]
     },
     "properties": {
-    "0":311,
-    "Lasioglossum":"Osmia"
+    "id":311,
+    "Species":"Osmia"
     }
   },
   {
@@ -3429,8 +3429,8 @@
        "coordinates":  [ 102,44 ]
     },
     "properties": {
-    "0":312,
-    "Lasioglossum":"Osmia"
+    "id":312,
+    "Species":"Osmia"
     }
   },
   {
@@ -3440,8 +3440,8 @@
        "coordinates":  [ 122,38 ]
     },
     "properties": {
-    "0":313,
-    "Lasioglossum":"Apis mellifera"
+    "id":313,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3451,8 +3451,8 @@
        "coordinates":  [ 101,58 ]
     },
     "properties": {
-    "0":314,
-    "Lasioglossum":"Osmia"
+    "id":314,
+    "Species":"Osmia"
     }
   },
   {
@@ -3462,8 +3462,8 @@
        "coordinates":  [ 100,21 ]
     },
     "properties": {
-    "0":315,
-    "Lasioglossum":"Osmia"
+    "id":315,
+    "Species":"Osmia"
     }
   },
   {
@@ -3473,8 +3473,8 @@
        "coordinates":  [ 122,51 ]
     },
     "properties": {
-    "0":316,
-    "Lasioglossum":"Lasioglossum"
+    "id":316,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3484,8 +3484,8 @@
        "coordinates":  [ 128,60 ]
     },
     "properties": {
-    "0":317,
-    "Lasioglossum":"Seladonia"
+    "id":317,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3495,8 +3495,8 @@
        "coordinates":  [ 138,53 ]
     },
     "properties": {
-    "0":318,
-    "Lasioglossum":"Apis mellifera"
+    "id":318,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3506,8 +3506,8 @@
        "coordinates":  [ 114,40 ]
     },
     "properties": {
-    "0":319,
-    "Lasioglossum":"Apis mellifera"
+    "id":319,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3517,8 +3517,8 @@
        "coordinates":  [ 104,34 ]
     },
     "properties": {
-    "0":320,
-    "Lasioglossum":"Lasioglossum"
+    "id":320,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3528,8 +3528,8 @@
        "coordinates":  [ 119,49 ]
     },
     "properties": {
-    "0":321,
-    "Lasioglossum":"Osmia"
+    "id":321,
+    "Species":"Osmia"
     }
   },
   {
@@ -3539,8 +3539,8 @@
        "coordinates":  [ 109,60 ]
     },
     "properties": {
-    "0":322,
-    "Lasioglossum":"Apis mellifera"
+    "id":322,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3550,8 +3550,8 @@
        "coordinates":  [ 102,34 ]
     },
     "properties": {
-    "0":323,
-    "Lasioglossum":"Osmia"
+    "id":323,
+    "Species":"Osmia"
     }
   },
   {
@@ -3561,8 +3561,8 @@
        "coordinates":  [ 110,39 ]
     },
     "properties": {
-    "0":324,
-    "Lasioglossum":"Apis mellifera"
+    "id":324,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3572,8 +3572,8 @@
        "coordinates":  [ 101,53 ]
     },
     "properties": {
-    "0":325,
-    "Lasioglossum":"Apis mellifera"
+    "id":325,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3583,8 +3583,8 @@
        "coordinates":  [ 138,26 ]
     },
     "properties": {
-    "0":326,
-    "Lasioglossum":"Osmia"
+    "id":326,
+    "Species":"Osmia"
     }
   },
   {
@@ -3594,8 +3594,8 @@
        "coordinates":  [ 107,51 ]
     },
     "properties": {
-    "0":327,
-    "Lasioglossum":"Seladonia"
+    "id":327,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3605,8 +3605,8 @@
        "coordinates":  [ 116,39 ]
     },
     "properties": {
-    "0":328,
-    "Lasioglossum":"Lasioglossum"
+    "id":328,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3616,8 +3616,8 @@
        "coordinates":  [ 109,25 ]
     },
     "properties": {
-    "0":329,
-    "Lasioglossum":"Seladonia"
+    "id":329,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3627,8 +3627,8 @@
        "coordinates":  [ 120,56 ]
     },
     "properties": {
-    "0":330,
-    "Lasioglossum":"Osmia"
+    "id":330,
+    "Species":"Osmia"
     }
   },
   {
@@ -3638,8 +3638,8 @@
        "coordinates":  [ 135,48 ]
     },
     "properties": {
-    "0":331,
-    "Lasioglossum":"Seladonia"
+    "id":331,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3649,8 +3649,8 @@
        "coordinates":  [ 100,24 ]
     },
     "properties": {
-    "0":332,
-    "Lasioglossum":"Osmia"
+    "id":332,
+    "Species":"Osmia"
     }
   },
   {
@@ -3660,8 +3660,8 @@
        "coordinates":  [ 138,54 ]
     },
     "properties": {
-    "0":333,
-    "Lasioglossum":"Seladonia"
+    "id":333,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3671,8 +3671,8 @@
        "coordinates":  [ 137,58 ]
     },
     "properties": {
-    "0":334,
-    "Lasioglossum":"Apis mellifera"
+    "id":334,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3682,8 +3682,8 @@
        "coordinates":  [ 119,33 ]
     },
     "properties": {
-    "0":335,
-    "Lasioglossum":"Seladonia"
+    "id":335,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3693,8 +3693,8 @@
        "coordinates":  [ 125,33 ]
     },
     "properties": {
-    "0":336,
-    "Lasioglossum":"Seladonia"
+    "id":336,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3704,8 +3704,8 @@
        "coordinates":  [ 122,39 ]
     },
     "properties": {
-    "0":337,
-    "Lasioglossum":"Osmia"
+    "id":337,
+    "Species":"Osmia"
     }
   },
   {
@@ -3715,8 +3715,8 @@
        "coordinates":  [ 136,46 ]
     },
     "properties": {
-    "0":338,
-    "Lasioglossum":"Lasioglossum"
+    "id":338,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3726,8 +3726,8 @@
        "coordinates":  [ 117,45 ]
     },
     "properties": {
-    "0":339,
-    "Lasioglossum":"Osmia"
+    "id":339,
+    "Species":"Osmia"
     }
   },
   {
@@ -3737,8 +3737,8 @@
        "coordinates":  [ 134,55 ]
     },
     "properties": {
-    "0":340,
-    "Lasioglossum":"Apis mellifera"
+    "id":340,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3748,8 +3748,8 @@
        "coordinates":  [ 124,29 ]
     },
     "properties": {
-    "0":341,
-    "Lasioglossum":"Lasioglossum"
+    "id":341,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3759,8 +3759,8 @@
        "coordinates":  [ 123,22 ]
     },
     "properties": {
-    "0":342,
-    "Lasioglossum":"Osmia"
+    "id":342,
+    "Species":"Osmia"
     }
   },
   {
@@ -3770,8 +3770,8 @@
        "coordinates":  [ 115,60 ]
     },
     "properties": {
-    "0":343,
-    "Lasioglossum":"Lasioglossum"
+    "id":343,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3781,8 +3781,8 @@
        "coordinates":  [ 106,56 ]
     },
     "properties": {
-    "0":344,
-    "Lasioglossum":"Osmia"
+    "id":344,
+    "Species":"Osmia"
     }
   },
   {
@@ -3792,8 +3792,8 @@
        "coordinates":  [ 114,29 ]
     },
     "properties": {
-    "0":345,
-    "Lasioglossum":"Seladonia"
+    "id":345,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3803,8 +3803,8 @@
        "coordinates":  [ 129,42 ]
     },
     "properties": {
-    "0":346,
-    "Lasioglossum":"Apis mellifera"
+    "id":346,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3814,8 +3814,8 @@
        "coordinates":  [ 104,32 ]
     },
     "properties": {
-    "0":347,
-    "Lasioglossum":"Apis mellifera"
+    "id":347,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3825,8 +3825,8 @@
        "coordinates":  [ 109,47 ]
     },
     "properties": {
-    "0":348,
-    "Lasioglossum":"Osmia"
+    "id":348,
+    "Species":"Osmia"
     }
   },
   {
@@ -3836,8 +3836,8 @@
        "coordinates":  [ 100,37 ]
     },
     "properties": {
-    "0":349,
-    "Lasioglossum":"Seladonia"
+    "id":349,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3847,8 +3847,8 @@
        "coordinates":  [ 119,52 ]
     },
     "properties": {
-    "0":350,
-    "Lasioglossum":"Seladonia"
+    "id":350,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3858,8 +3858,8 @@
        "coordinates":  [ 111,22 ]
     },
     "properties": {
-    "0":351,
-    "Lasioglossum":"Osmia"
+    "id":351,
+    "Species":"Osmia"
     }
   },
   {
@@ -3869,8 +3869,8 @@
        "coordinates":  [ 131,35 ]
     },
     "properties": {
-    "0":352,
-    "Lasioglossum":"Lasioglossum"
+    "id":352,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3880,8 +3880,8 @@
        "coordinates":  [ 100,39 ]
     },
     "properties": {
-    "0":353,
-    "Lasioglossum":"Lasioglossum"
+    "id":353,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3891,8 +3891,8 @@
        "coordinates":  [ 130,32 ]
     },
     "properties": {
-    "0":354,
-    "Lasioglossum":"Apis mellifera"
+    "id":354,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3902,8 +3902,8 @@
        "coordinates":  [ 103,34 ]
     },
     "properties": {
-    "0":355,
-    "Lasioglossum":"Apis mellifera"
+    "id":355,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -3913,8 +3913,8 @@
        "coordinates":  [ 124,40 ]
     },
     "properties": {
-    "0":356,
-    "Lasioglossum":"Seladonia"
+    "id":356,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3924,8 +3924,8 @@
        "coordinates":  [ 137,25 ]
     },
     "properties": {
-    "0":357,
-    "Lasioglossum":"Seladonia"
+    "id":357,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3935,8 +3935,8 @@
        "coordinates":  [ 117,20 ]
     },
     "properties": {
-    "0":358,
-    "Lasioglossum":"Seladonia"
+    "id":358,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3946,8 +3946,8 @@
        "coordinates":  [ 116,26 ]
     },
     "properties": {
-    "0":359,
-    "Lasioglossum":"Lasioglossum"
+    "id":359,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3957,8 +3957,8 @@
        "coordinates":  [ 113,27 ]
     },
     "properties": {
-    "0":360,
-    "Lasioglossum":"Seladonia"
+    "id":360,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3968,8 +3968,8 @@
        "coordinates":  [ 119,49 ]
     },
     "properties": {
-    "0":361,
-    "Lasioglossum":"Lasioglossum"
+    "id":361,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -3979,8 +3979,8 @@
        "coordinates":  [ 110,58 ]
     },
     "properties": {
-    "0":362,
-    "Lasioglossum":"Seladonia"
+    "id":362,
+    "Species":"Seladonia"
     }
   },
   {
@@ -3990,8 +3990,8 @@
        "coordinates":  [ 111,34 ]
     },
     "properties": {
-    "0":363,
-    "Lasioglossum":"Apis mellifera"
+    "id":363,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4001,8 +4001,8 @@
        "coordinates":  [ 117,41 ]
     },
     "properties": {
-    "0":364,
-    "Lasioglossum":"Apis mellifera"
+    "id":364,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4012,8 +4012,8 @@
        "coordinates":  [ 113,55 ]
     },
     "properties": {
-    "0":365,
-    "Lasioglossum":"Seladonia"
+    "id":365,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4023,8 +4023,8 @@
        "coordinates":  [ 122,60 ]
     },
     "properties": {
-    "0":366,
-    "Lasioglossum":"Lasioglossum"
+    "id":366,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4034,8 +4034,8 @@
        "coordinates":  [ 119,23 ]
     },
     "properties": {
-    "0":367,
-    "Lasioglossum":"Seladonia"
+    "id":367,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4045,8 +4045,8 @@
        "coordinates":  [ 128,22 ]
     },
     "properties": {
-    "0":368,
-    "Lasioglossum":"Apis mellifera"
+    "id":368,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4056,8 +4056,8 @@
        "coordinates":  [ 112,51 ]
     },
     "properties": {
-    "0":369,
-    "Lasioglossum":"Lasioglossum"
+    "id":369,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4067,8 +4067,8 @@
        "coordinates":  [ 138,37 ]
     },
     "properties": {
-    "0":370,
-    "Lasioglossum":"Apis mellifera"
+    "id":370,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4078,8 +4078,8 @@
        "coordinates":  [ 121,51 ]
     },
     "properties": {
-    "0":371,
-    "Lasioglossum":"Apis mellifera"
+    "id":371,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4089,8 +4089,8 @@
        "coordinates":  [ 113,54 ]
     },
     "properties": {
-    "0":372,
-    "Lasioglossum":"Seladonia"
+    "id":372,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4100,8 +4100,8 @@
        "coordinates":  [ 124,32 ]
     },
     "properties": {
-    "0":373,
-    "Lasioglossum":"Lasioglossum"
+    "id":373,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4111,8 +4111,8 @@
        "coordinates":  [ 114,50 ]
     },
     "properties": {
-    "0":374,
-    "Lasioglossum":"Osmia"
+    "id":374,
+    "Species":"Osmia"
     }
   },
   {
@@ -4122,8 +4122,8 @@
        "coordinates":  [ 128,34 ]
     },
     "properties": {
-    "0":375,
-    "Lasioglossum":"Osmia"
+    "id":375,
+    "Species":"Osmia"
     }
   },
   {
@@ -4133,8 +4133,8 @@
        "coordinates":  [ 120,21 ]
     },
     "properties": {
-    "0":376,
-    "Lasioglossum":"Apis mellifera"
+    "id":376,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4144,8 +4144,8 @@
        "coordinates":  [ 108,38 ]
     },
     "properties": {
-    "0":377,
-    "Lasioglossum":"Lasioglossum"
+    "id":377,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4155,8 +4155,8 @@
        "coordinates":  [ 130,57 ]
     },
     "properties": {
-    "0":378,
-    "Lasioglossum":"Osmia"
+    "id":378,
+    "Species":"Osmia"
     }
   },
   {
@@ -4166,8 +4166,8 @@
        "coordinates":  [ 119,24 ]
     },
     "properties": {
-    "0":379,
-    "Lasioglossum":"Osmia"
+    "id":379,
+    "Species":"Osmia"
     }
   },
   {
@@ -4177,8 +4177,8 @@
        "coordinates":  [ 132,56 ]
     },
     "properties": {
-    "0":380,
-    "Lasioglossum":"Lasioglossum"
+    "id":380,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4188,8 +4188,8 @@
        "coordinates":  [ 121,24 ]
     },
     "properties": {
-    "0":381,
-    "Lasioglossum":"Lasioglossum"
+    "id":381,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4199,8 +4199,8 @@
        "coordinates":  [ 138,23 ]
     },
     "properties": {
-    "0":382,
-    "Lasioglossum":"Apis mellifera"
+    "id":382,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4210,8 +4210,8 @@
        "coordinates":  [ 136,26 ]
     },
     "properties": {
-    "0":383,
-    "Lasioglossum":"Apis mellifera"
+    "id":383,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4221,8 +4221,8 @@
        "coordinates":  [ 116,55 ]
     },
     "properties": {
-    "0":384,
-    "Lasioglossum":"Apis mellifera"
+    "id":384,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4232,8 +4232,8 @@
        "coordinates":  [ 114,31 ]
     },
     "properties": {
-    "0":385,
-    "Lasioglossum":"Lasioglossum"
+    "id":385,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4243,8 +4243,8 @@
        "coordinates":  [ 107,42 ]
     },
     "properties": {
-    "0":386,
-    "Lasioglossum":"Seladonia"
+    "id":386,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4254,8 +4254,8 @@
        "coordinates":  [ 140,51 ]
     },
     "properties": {
-    "0":387,
-    "Lasioglossum":"Seladonia"
+    "id":387,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4265,8 +4265,8 @@
        "coordinates":  [ 116,32 ]
     },
     "properties": {
-    "0":388,
-    "Lasioglossum":"Seladonia"
+    "id":388,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4276,8 +4276,8 @@
        "coordinates":  [ 101,41 ]
     },
     "properties": {
-    "0":389,
-    "Lasioglossum":"Apis mellifera"
+    "id":389,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4287,8 +4287,8 @@
        "coordinates":  [ 108,55 ]
     },
     "properties": {
-    "0":390,
-    "Lasioglossum":"Osmia"
+    "id":390,
+    "Species":"Osmia"
     }
   },
   {
@@ -4298,8 +4298,8 @@
        "coordinates":  [ 131,21 ]
     },
     "properties": {
-    "0":391,
-    "Lasioglossum":"Lasioglossum"
+    "id":391,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4309,8 +4309,8 @@
        "coordinates":  [ 101,22 ]
     },
     "properties": {
-    "0":392,
-    "Lasioglossum":"Lasioglossum"
+    "id":392,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4320,8 +4320,8 @@
        "coordinates":  [ 107,48 ]
     },
     "properties": {
-    "0":393,
-    "Lasioglossum":"Lasioglossum"
+    "id":393,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4331,8 +4331,8 @@
        "coordinates":  [ 115,49 ]
     },
     "properties": {
-    "0":394,
-    "Lasioglossum":"Apis mellifera"
+    "id":394,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4342,8 +4342,8 @@
        "coordinates":  [ 133,20 ]
     },
     "properties": {
-    "0":395,
-    "Lasioglossum":"Apis mellifera"
+    "id":395,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4353,8 +4353,8 @@
        "coordinates":  [ 101,37 ]
     },
     "properties": {
-    "0":396,
-    "Lasioglossum":"Osmia"
+    "id":396,
+    "Species":"Osmia"
     }
   },
   {
@@ -4364,8 +4364,8 @@
        "coordinates":  [ 136,37 ]
     },
     "properties": {
-    "0":397,
-    "Lasioglossum":"Seladonia"
+    "id":397,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4375,8 +4375,8 @@
        "coordinates":  [ 119,41 ]
     },
     "properties": {
-    "0":398,
-    "Lasioglossum":"Apis mellifera"
+    "id":398,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4386,8 +4386,8 @@
        "coordinates":  [ 100,51 ]
     },
     "properties": {
-    "0":399,
-    "Lasioglossum":"Seladonia"
+    "id":399,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4397,8 +4397,8 @@
        "coordinates":  [ 100,46 ]
     },
     "properties": {
-    "0":400,
-    "Lasioglossum":"Apis mellifera"
+    "id":400,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4408,8 +4408,8 @@
        "coordinates":  [ 135,34 ]
     },
     "properties": {
-    "0":401,
-    "Lasioglossum":"Apis mellifera"
+    "id":401,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4419,8 +4419,8 @@
        "coordinates":  [ 129,32 ]
     },
     "properties": {
-    "0":402,
-    "Lasioglossum":"Seladonia"
+    "id":402,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4430,8 +4430,8 @@
        "coordinates":  [ 121,22 ]
     },
     "properties": {
-    "0":403,
-    "Lasioglossum":"Osmia"
+    "id":403,
+    "Species":"Osmia"
     }
   },
   {
@@ -4441,8 +4441,8 @@
        "coordinates":  [ 108,39 ]
     },
     "properties": {
-    "0":404,
-    "Lasioglossum":"Lasioglossum"
+    "id":404,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4452,8 +4452,8 @@
        "coordinates":  [ 125,51 ]
     },
     "properties": {
-    "0":405,
-    "Lasioglossum":"Lasioglossum"
+    "id":405,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4463,8 +4463,8 @@
        "coordinates":  [ 109,38 ]
     },
     "properties": {
-    "0":406,
-    "Lasioglossum":"Apis mellifera"
+    "id":406,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4474,8 +4474,8 @@
        "coordinates":  [ 128,51 ]
     },
     "properties": {
-    "0":407,
-    "Lasioglossum":"Lasioglossum"
+    "id":407,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4485,8 +4485,8 @@
        "coordinates":  [ 138,43 ]
     },
     "properties": {
-    "0":408,
-    "Lasioglossum":"Seladonia"
+    "id":408,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4496,8 +4496,8 @@
        "coordinates":  [ 116,33 ]
     },
     "properties": {
-    "0":409,
-    "Lasioglossum":"Lasioglossum"
+    "id":409,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4507,8 +4507,8 @@
        "coordinates":  [ 135,50 ]
     },
     "properties": {
-    "0":410,
-    "Lasioglossum":"Osmia"
+    "id":410,
+    "Species":"Osmia"
     }
   },
   {
@@ -4518,8 +4518,8 @@
        "coordinates":  [ 120,43 ]
     },
     "properties": {
-    "0":411,
-    "Lasioglossum":"Seladonia"
+    "id":411,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4529,8 +4529,8 @@
        "coordinates":  [ 133,36 ]
     },
     "properties": {
-    "0":412,
-    "Lasioglossum":"Seladonia"
+    "id":412,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4540,8 +4540,8 @@
        "coordinates":  [ 108,28 ]
     },
     "properties": {
-    "0":413,
-    "Lasioglossum":"Osmia"
+    "id":413,
+    "Species":"Osmia"
     }
   },
   {
@@ -4551,8 +4551,8 @@
        "coordinates":  [ 139,32 ]
     },
     "properties": {
-    "0":414,
-    "Lasioglossum":"Osmia"
+    "id":414,
+    "Species":"Osmia"
     }
   },
   {
@@ -4562,8 +4562,8 @@
        "coordinates":  [ 116,42 ]
     },
     "properties": {
-    "0":415,
-    "Lasioglossum":"Osmia"
+    "id":415,
+    "Species":"Osmia"
     }
   },
   {
@@ -4573,8 +4573,8 @@
        "coordinates":  [ 109,53 ]
     },
     "properties": {
-    "0":416,
-    "Lasioglossum":"Osmia"
+    "id":416,
+    "Species":"Osmia"
     }
   },
   {
@@ -4584,8 +4584,8 @@
        "coordinates":  [ 130,42 ]
     },
     "properties": {
-    "0":417,
-    "Lasioglossum":"Osmia"
+    "id":417,
+    "Species":"Osmia"
     }
   },
   {
@@ -4595,8 +4595,8 @@
        "coordinates":  [ 108,21 ]
     },
     "properties": {
-    "0":418,
-    "Lasioglossum":"Lasioglossum"
+    "id":418,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4606,8 +4606,8 @@
        "coordinates":  [ 116,54 ]
     },
     "properties": {
-    "0":419,
-    "Lasioglossum":"Apis mellifera"
+    "id":419,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4617,8 +4617,8 @@
        "coordinates":  [ 114,34 ]
     },
     "properties": {
-    "0":420,
-    "Lasioglossum":"Lasioglossum"
+    "id":420,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4628,8 +4628,8 @@
        "coordinates":  [ 120,24 ]
     },
     "properties": {
-    "0":421,
-    "Lasioglossum":"Lasioglossum"
+    "id":421,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4639,8 +4639,8 @@
        "coordinates":  [ 102,38 ]
     },
     "properties": {
-    "0":422,
-    "Lasioglossum":"Osmia"
+    "id":422,
+    "Species":"Osmia"
     }
   },
   {
@@ -4650,8 +4650,8 @@
        "coordinates":  [ 111,51 ]
     },
     "properties": {
-    "0":423,
-    "Lasioglossum":"Osmia"
+    "id":423,
+    "Species":"Osmia"
     }
   },
   {
@@ -4661,8 +4661,8 @@
        "coordinates":  [ 116,56 ]
     },
     "properties": {
-    "0":424,
-    "Lasioglossum":"Apis mellifera"
+    "id":424,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4672,8 +4672,8 @@
        "coordinates":  [ 116,24 ]
     },
     "properties": {
-    "0":425,
-    "Lasioglossum":"Apis mellifera"
+    "id":425,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4683,8 +4683,8 @@
        "coordinates":  [ 113,31 ]
     },
     "properties": {
-    "0":426,
-    "Lasioglossum":"Osmia"
+    "id":426,
+    "Species":"Osmia"
     }
   },
   {
@@ -4694,8 +4694,8 @@
        "coordinates":  [ 132,41 ]
     },
     "properties": {
-    "0":427,
-    "Lasioglossum":"Apis mellifera"
+    "id":427,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4705,8 +4705,8 @@
        "coordinates":  [ 118,48 ]
     },
     "properties": {
-    "0":428,
-    "Lasioglossum":"Lasioglossum"
+    "id":428,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4716,8 +4716,8 @@
        "coordinates":  [ 137,21 ]
     },
     "properties": {
-    "0":429,
-    "Lasioglossum":"Osmia"
+    "id":429,
+    "Species":"Osmia"
     }
   },
   {
@@ -4727,8 +4727,8 @@
        "coordinates":  [ 118,27 ]
     },
     "properties": {
-    "0":430,
-    "Lasioglossum":"Osmia"
+    "id":430,
+    "Species":"Osmia"
     }
   },
   {
@@ -4738,8 +4738,8 @@
        "coordinates":  [ 138,59 ]
     },
     "properties": {
-    "0":431,
-    "Lasioglossum":"Apis mellifera"
+    "id":431,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4749,8 +4749,8 @@
        "coordinates":  [ 118,56 ]
     },
     "properties": {
-    "0":432,
-    "Lasioglossum":"Osmia"
+    "id":432,
+    "Species":"Osmia"
     }
   },
   {
@@ -4760,8 +4760,8 @@
        "coordinates":  [ 120,43 ]
     },
     "properties": {
-    "0":433,
-    "Lasioglossum":"Apis mellifera"
+    "id":433,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4771,8 +4771,8 @@
        "coordinates":  [ 134,34 ]
     },
     "properties": {
-    "0":434,
-    "Lasioglossum":"Apis mellifera"
+    "id":434,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4782,8 +4782,8 @@
        "coordinates":  [ 136,39 ]
     },
     "properties": {
-    "0":435,
-    "Lasioglossum":"Apis mellifera"
+    "id":435,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4793,8 +4793,8 @@
        "coordinates":  [ 121,55 ]
     },
     "properties": {
-    "0":436,
-    "Lasioglossum":"Apis mellifera"
+    "id":436,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4804,8 +4804,8 @@
        "coordinates":  [ 139,46 ]
     },
     "properties": {
-    "0":437,
-    "Lasioglossum":"Osmia"
+    "id":437,
+    "Species":"Osmia"
     }
   },
   {
@@ -4815,8 +4815,8 @@
        "coordinates":  [ 132,57 ]
     },
     "properties": {
-    "0":438,
-    "Lasioglossum":"Osmia"
+    "id":438,
+    "Species":"Osmia"
     }
   },
   {
@@ -4826,8 +4826,8 @@
        "coordinates":  [ 100,26 ]
     },
     "properties": {
-    "0":439,
-    "Lasioglossum":"Apis mellifera"
+    "id":439,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4837,8 +4837,8 @@
        "coordinates":  [ 102,20 ]
     },
     "properties": {
-    "0":440,
-    "Lasioglossum":"Lasioglossum"
+    "id":440,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4848,8 +4848,8 @@
        "coordinates":  [ 128,30 ]
     },
     "properties": {
-    "0":441,
-    "Lasioglossum":"Apis mellifera"
+    "id":441,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4859,8 +4859,8 @@
        "coordinates":  [ 112,37 ]
     },
     "properties": {
-    "0":442,
-    "Lasioglossum":"Seladonia"
+    "id":442,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4870,8 +4870,8 @@
        "coordinates":  [ 103,38 ]
     },
     "properties": {
-    "0":443,
-    "Lasioglossum":"Apis mellifera"
+    "id":443,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4881,8 +4881,8 @@
        "coordinates":  [ 107,53 ]
     },
     "properties": {
-    "0":444,
-    "Lasioglossum":"Apis mellifera"
+    "id":444,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4892,8 +4892,8 @@
        "coordinates":  [ 126,52 ]
     },
     "properties": {
-    "0":445,
-    "Lasioglossum":"Lasioglossum"
+    "id":445,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4903,8 +4903,8 @@
        "coordinates":  [ 133,20 ]
     },
     "properties": {
-    "0":446,
-    "Lasioglossum":"Osmia"
+    "id":446,
+    "Species":"Osmia"
     }
   },
   {
@@ -4914,8 +4914,8 @@
        "coordinates":  [ 127,25 ]
     },
     "properties": {
-    "0":447,
-    "Lasioglossum":"Seladonia"
+    "id":447,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4925,8 +4925,8 @@
        "coordinates":  [ 136,56 ]
     },
     "properties": {
-    "0":448,
-    "Lasioglossum":"Lasioglossum"
+    "id":448,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4936,8 +4936,8 @@
        "coordinates":  [ 101,25 ]
     },
     "properties": {
-    "0":449,
-    "Lasioglossum":"Apis mellifera"
+    "id":449,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4947,8 +4947,8 @@
        "coordinates":  [ 110,60 ]
     },
     "properties": {
-    "0":450,
-    "Lasioglossum":"Osmia"
+    "id":450,
+    "Species":"Osmia"
     }
   },
   {
@@ -4958,8 +4958,8 @@
        "coordinates":  [ 115,33 ]
     },
     "properties": {
-    "0":451,
-    "Lasioglossum":"Seladonia"
+    "id":451,
+    "Species":"Seladonia"
     }
   },
   {
@@ -4969,8 +4969,8 @@
        "coordinates":  [ 136,28 ]
     },
     "properties": {
-    "0":452,
-    "Lasioglossum":"Apis mellifera"
+    "id":452,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -4980,8 +4980,8 @@
        "coordinates":  [ 126,43 ]
     },
     "properties": {
-    "0":453,
-    "Lasioglossum":"Lasioglossum"
+    "id":453,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -4991,8 +4991,8 @@
        "coordinates":  [ 134,26 ]
     },
     "properties": {
-    "0":454,
-    "Lasioglossum":"Osmia"
+    "id":454,
+    "Species":"Osmia"
     }
   },
   {
@@ -5002,8 +5002,8 @@
        "coordinates":  [ 101,21 ]
     },
     "properties": {
-    "0":455,
-    "Lasioglossum":"Apis mellifera"
+    "id":455,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5013,8 +5013,8 @@
        "coordinates":  [ 101,41 ]
     },
     "properties": {
-    "0":456,
-    "Lasioglossum":"Seladonia"
+    "id":456,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5024,8 +5024,8 @@
        "coordinates":  [ 113,31 ]
     },
     "properties": {
-    "0":457,
-    "Lasioglossum":"Seladonia"
+    "id":457,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5035,8 +5035,8 @@
        "coordinates":  [ 131,27 ]
     },
     "properties": {
-    "0":458,
-    "Lasioglossum":"Osmia"
+    "id":458,
+    "Species":"Osmia"
     }
   },
   {
@@ -5046,8 +5046,8 @@
        "coordinates":  [ 111,30 ]
     },
     "properties": {
-    "0":459,
-    "Lasioglossum":"Osmia"
+    "id":459,
+    "Species":"Osmia"
     }
   },
   {
@@ -5057,8 +5057,8 @@
        "coordinates":  [ 128,57 ]
     },
     "properties": {
-    "0":460,
-    "Lasioglossum":"Osmia"
+    "id":460,
+    "Species":"Osmia"
     }
   },
   {
@@ -5068,8 +5068,8 @@
        "coordinates":  [ 101,28 ]
     },
     "properties": {
-    "0":461,
-    "Lasioglossum":"Apis mellifera"
+    "id":461,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5079,8 +5079,8 @@
        "coordinates":  [ 128,40 ]
     },
     "properties": {
-    "0":462,
-    "Lasioglossum":"Apis mellifera"
+    "id":462,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5090,8 +5090,8 @@
        "coordinates":  [ 117,53 ]
     },
     "properties": {
-    "0":463,
-    "Lasioglossum":"Osmia"
+    "id":463,
+    "Species":"Osmia"
     }
   },
   {
@@ -5101,8 +5101,8 @@
        "coordinates":  [ 134,48 ]
     },
     "properties": {
-    "0":464,
-    "Lasioglossum":"Lasioglossum"
+    "id":464,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5112,8 +5112,8 @@
        "coordinates":  [ 100,33 ]
     },
     "properties": {
-    "0":465,
-    "Lasioglossum":"Apis mellifera"
+    "id":465,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5123,8 +5123,8 @@
        "coordinates":  [ 119,28 ]
     },
     "properties": {
-    "0":466,
-    "Lasioglossum":"Lasioglossum"
+    "id":466,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5134,8 +5134,8 @@
        "coordinates":  [ 130,54 ]
     },
     "properties": {
-    "0":467,
-    "Lasioglossum":"Osmia"
+    "id":467,
+    "Species":"Osmia"
     }
   },
   {
@@ -5145,8 +5145,8 @@
        "coordinates":  [ 113,49 ]
     },
     "properties": {
-    "0":468,
-    "Lasioglossum":"Seladonia"
+    "id":468,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5156,8 +5156,8 @@
        "coordinates":  [ 100,23 ]
     },
     "properties": {
-    "0":469,
-    "Lasioglossum":"Lasioglossum"
+    "id":469,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5167,8 +5167,8 @@
        "coordinates":  [ 139,30 ]
     },
     "properties": {
-    "0":470,
-    "Lasioglossum":"Apis mellifera"
+    "id":470,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5178,8 +5178,8 @@
        "coordinates":  [ 104,44 ]
     },
     "properties": {
-    "0":471,
-    "Lasioglossum":"Lasioglossum"
+    "id":471,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5189,8 +5189,8 @@
        "coordinates":  [ 132,54 ]
     },
     "properties": {
-    "0":472,
-    "Lasioglossum":"Seladonia"
+    "id":472,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5200,8 +5200,8 @@
        "coordinates":  [ 130,29 ]
     },
     "properties": {
-    "0":473,
-    "Lasioglossum":"Osmia"
+    "id":473,
+    "Species":"Osmia"
     }
   },
   {
@@ -5211,8 +5211,8 @@
        "coordinates":  [ 101,53 ]
     },
     "properties": {
-    "0":474,
-    "Lasioglossum":"Osmia"
+    "id":474,
+    "Species":"Osmia"
     }
   },
   {
@@ -5222,8 +5222,8 @@
        "coordinates":  [ 131,44 ]
     },
     "properties": {
-    "0":475,
-    "Lasioglossum":"Seladonia"
+    "id":475,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5233,8 +5233,8 @@
        "coordinates":  [ 138,50 ]
     },
     "properties": {
-    "0":476,
-    "Lasioglossum":"Seladonia"
+    "id":476,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5244,8 +5244,8 @@
        "coordinates":  [ 107,42 ]
     },
     "properties": {
-    "0":477,
-    "Lasioglossum":"Lasioglossum"
+    "id":477,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5255,8 +5255,8 @@
        "coordinates":  [ 111,33 ]
     },
     "properties": {
-    "0":478,
-    "Lasioglossum":"Seladonia"
+    "id":478,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5266,8 +5266,8 @@
        "coordinates":  [ 127,43 ]
     },
     "properties": {
-    "0":479,
-    "Lasioglossum":"Seladonia"
+    "id":479,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5277,8 +5277,8 @@
        "coordinates":  [ 107,31 ]
     },
     "properties": {
-    "0":480,
-    "Lasioglossum":"Apis mellifera"
+    "id":480,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5288,8 +5288,8 @@
        "coordinates":  [ 101,33 ]
     },
     "properties": {
-    "0":481,
-    "Lasioglossum":"Apis mellifera"
+    "id":481,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5299,8 +5299,8 @@
        "coordinates":  [ 113,35 ]
     },
     "properties": {
-    "0":482,
-    "Lasioglossum":"Seladonia"
+    "id":482,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5310,8 +5310,8 @@
        "coordinates":  [ 135,38 ]
     },
     "properties": {
-    "0":483,
-    "Lasioglossum":"Osmia"
+    "id":483,
+    "Species":"Osmia"
     }
   },
   {
@@ -5321,8 +5321,8 @@
        "coordinates":  [ 136,36 ]
     },
     "properties": {
-    "0":484,
-    "Lasioglossum":"Osmia"
+    "id":484,
+    "Species":"Osmia"
     }
   },
   {
@@ -5332,8 +5332,8 @@
        "coordinates":  [ 123,36 ]
     },
     "properties": {
-    "0":485,
-    "Lasioglossum":"Lasioglossum"
+    "id":485,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5343,8 +5343,8 @@
        "coordinates":  [ 110,30 ]
     },
     "properties": {
-    "0":486,
-    "Lasioglossum":"Apis mellifera"
+    "id":486,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5354,8 +5354,8 @@
        "coordinates":  [ 139,40 ]
     },
     "properties": {
-    "0":487,
-    "Lasioglossum":"Osmia"
+    "id":487,
+    "Species":"Osmia"
     }
   },
   {
@@ -5365,8 +5365,8 @@
        "coordinates":  [ 133,30 ]
     },
     "properties": {
-    "0":488,
-    "Lasioglossum":"Apis mellifera"
+    "id":488,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5376,8 +5376,8 @@
        "coordinates":  [ 124,48 ]
     },
     "properties": {
-    "0":489,
-    "Lasioglossum":"Osmia"
+    "id":489,
+    "Species":"Osmia"
     }
   },
   {
@@ -5387,8 +5387,8 @@
        "coordinates":  [ 129,28 ]
     },
     "properties": {
-    "0":490,
-    "Lasioglossum":"Osmia"
+    "id":490,
+    "Species":"Osmia"
     }
   },
   {
@@ -5398,8 +5398,8 @@
        "coordinates":  [ 103,52 ]
     },
     "properties": {
-    "0":491,
-    "Lasioglossum":"Apis mellifera"
+    "id":491,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5409,8 +5409,8 @@
        "coordinates":  [ 117,44 ]
     },
     "properties": {
-    "0":492,
-    "Lasioglossum":"Apis mellifera"
+    "id":492,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5420,8 +5420,8 @@
        "coordinates":  [ 102,44 ]
     },
     "properties": {
-    "0":493,
-    "Lasioglossum":"Seladonia"
+    "id":493,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5431,8 +5431,8 @@
        "coordinates":  [ 129,30 ]
     },
     "properties": {
-    "0":494,
-    "Lasioglossum":"Apis mellifera"
+    "id":494,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5442,8 +5442,8 @@
        "coordinates":  [ 120,52 ]
     },
     "properties": {
-    "0":495,
-    "Lasioglossum":"Lasioglossum"
+    "id":495,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5453,8 +5453,8 @@
        "coordinates":  [ 134,42 ]
     },
     "properties": {
-    "0":496,
-    "Lasioglossum":"Apis mellifera"
+    "id":496,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5464,8 +5464,8 @@
        "coordinates":  [ 135,26 ]
     },
     "properties": {
-    "0":497,
-    "Lasioglossum":"Osmia"
+    "id":497,
+    "Species":"Osmia"
     }
   },
   {
@@ -5475,8 +5475,8 @@
        "coordinates":  [ 139,23 ]
     },
     "properties": {
-    "0":498,
-    "Lasioglossum":"Seladonia"
+    "id":498,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5486,8 +5486,8 @@
        "coordinates":  [ 106,56 ]
     },
     "properties": {
-    "0":499,
-    "Lasioglossum":"Apis mellifera"
+    "id":499,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5497,8 +5497,8 @@
        "coordinates":  [ 135,40 ]
     },
     "properties": {
-    "0":500,
-    "Lasioglossum":"Seladonia"
+    "id":500,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5508,8 +5508,8 @@
        "coordinates":  [ 113,40 ]
     },
     "properties": {
-    "0":501,
-    "Lasioglossum":"Osmia"
+    "id":501,
+    "Species":"Osmia"
     }
   },
   {
@@ -5519,8 +5519,8 @@
        "coordinates":  [ 100,33 ]
     },
     "properties": {
-    "0":502,
-    "Lasioglossum":"Seladonia"
+    "id":502,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5530,8 +5530,8 @@
        "coordinates":  [ 138,32 ]
     },
     "properties": {
-    "0":503,
-    "Lasioglossum":"Seladonia"
+    "id":503,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5541,8 +5541,8 @@
        "coordinates":  [ 126,27 ]
     },
     "properties": {
-    "0":504,
-    "Lasioglossum":"Apis mellifera"
+    "id":504,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5552,8 +5552,8 @@
        "coordinates":  [ 124,22 ]
     },
     "properties": {
-    "0":505,
-    "Lasioglossum":"Seladonia"
+    "id":505,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5563,8 +5563,8 @@
        "coordinates":  [ 133,43 ]
     },
     "properties": {
-    "0":506,
-    "Lasioglossum":"Lasioglossum"
+    "id":506,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5574,8 +5574,8 @@
        "coordinates":  [ 138,53 ]
     },
     "properties": {
-    "0":507,
-    "Lasioglossum":"Apis mellifera"
+    "id":507,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5585,8 +5585,8 @@
        "coordinates":  [ 139,30 ]
     },
     "properties": {
-    "0":508,
-    "Lasioglossum":"Lasioglossum"
+    "id":508,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5596,8 +5596,8 @@
        "coordinates":  [ 140,42 ]
     },
     "properties": {
-    "0":509,
-    "Lasioglossum":"Seladonia"
+    "id":509,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5607,8 +5607,8 @@
        "coordinates":  [ 125,43 ]
     },
     "properties": {
-    "0":510,
-    "Lasioglossum":"Apis mellifera"
+    "id":510,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5618,8 +5618,8 @@
        "coordinates":  [ 139,58 ]
     },
     "properties": {
-    "0":511,
-    "Lasioglossum":"Lasioglossum"
+    "id":511,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5629,8 +5629,8 @@
        "coordinates":  [ 106,37 ]
     },
     "properties": {
-    "0":512,
-    "Lasioglossum":"Lasioglossum"
+    "id":512,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5640,8 +5640,8 @@
        "coordinates":  [ 138,20 ]
     },
     "properties": {
-    "0":513,
-    "Lasioglossum":"Osmia"
+    "id":513,
+    "Species":"Osmia"
     }
   },
   {
@@ -5651,8 +5651,8 @@
        "coordinates":  [ 108,48 ]
     },
     "properties": {
-    "0":514,
-    "Lasioglossum":"Lasioglossum"
+    "id":514,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5662,8 +5662,8 @@
        "coordinates":  [ 128,49 ]
     },
     "properties": {
-    "0":515,
-    "Lasioglossum":"Osmia"
+    "id":515,
+    "Species":"Osmia"
     }
   },
   {
@@ -5673,8 +5673,8 @@
        "coordinates":  [ 140,20 ]
     },
     "properties": {
-    "0":516,
-    "Lasioglossum":"Seladonia"
+    "id":516,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5684,8 +5684,8 @@
        "coordinates":  [ 124,28 ]
     },
     "properties": {
-    "0":517,
-    "Lasioglossum":"Apis mellifera"
+    "id":517,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5695,8 +5695,8 @@
        "coordinates":  [ 127,28 ]
     },
     "properties": {
-    "0":518,
-    "Lasioglossum":"Apis mellifera"
+    "id":518,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5706,8 +5706,8 @@
        "coordinates":  [ 121,32 ]
     },
     "properties": {
-    "0":519,
-    "Lasioglossum":"Seladonia"
+    "id":519,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5717,8 +5717,8 @@
        "coordinates":  [ 135,31 ]
     },
     "properties": {
-    "0":520,
-    "Lasioglossum":"Lasioglossum"
+    "id":520,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5728,8 +5728,8 @@
        "coordinates":  [ 126,33 ]
     },
     "properties": {
-    "0":521,
-    "Lasioglossum":"Seladonia"
+    "id":521,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5739,8 +5739,8 @@
        "coordinates":  [ 121,57 ]
     },
     "properties": {
-    "0":522,
-    "Lasioglossum":"Osmia"
+    "id":522,
+    "Species":"Osmia"
     }
   },
   {
@@ -5750,8 +5750,8 @@
        "coordinates":  [ 109,54 ]
     },
     "properties": {
-    "0":523,
-    "Lasioglossum":"Osmia"
+    "id":523,
+    "Species":"Osmia"
     }
   },
   {
@@ -5761,8 +5761,8 @@
        "coordinates":  [ 119,45 ]
     },
     "properties": {
-    "0":524,
-    "Lasioglossum":"Osmia"
+    "id":524,
+    "Species":"Osmia"
     }
   },
   {
@@ -5772,8 +5772,8 @@
        "coordinates":  [ 123,58 ]
     },
     "properties": {
-    "0":525,
-    "Lasioglossum":"Lasioglossum"
+    "id":525,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5783,8 +5783,8 @@
        "coordinates":  [ 135,40 ]
     },
     "properties": {
-    "0":526,
-    "Lasioglossum":"Apis mellifera"
+    "id":526,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5794,8 +5794,8 @@
        "coordinates":  [ 134,32 ]
     },
     "properties": {
-    "0":527,
-    "Lasioglossum":"Lasioglossum"
+    "id":527,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5805,8 +5805,8 @@
        "coordinates":  [ 134,52 ]
     },
     "properties": {
-    "0":528,
-    "Lasioglossum":"Osmia"
+    "id":528,
+    "Species":"Osmia"
     }
   },
   {
@@ -5816,8 +5816,8 @@
        "coordinates":  [ 134,44 ]
     },
     "properties": {
-    "0":529,
-    "Lasioglossum":"Apis mellifera"
+    "id":529,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5827,8 +5827,8 @@
        "coordinates":  [ 103,26 ]
     },
     "properties": {
-    "0":530,
-    "Lasioglossum":"Osmia"
+    "id":530,
+    "Species":"Osmia"
     }
   },
   {
@@ -5838,8 +5838,8 @@
        "coordinates":  [ 100,33 ]
     },
     "properties": {
-    "0":531,
-    "Lasioglossum":"Osmia"
+    "id":531,
+    "Species":"Osmia"
     }
   },
   {
@@ -5849,8 +5849,8 @@
        "coordinates":  [ 125,55 ]
     },
     "properties": {
-    "0":532,
-    "Lasioglossum":"Lasioglossum"
+    "id":532,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5860,8 +5860,8 @@
        "coordinates":  [ 108,53 ]
     },
     "properties": {
-    "0":533,
-    "Lasioglossum":"Osmia"
+    "id":533,
+    "Species":"Osmia"
     }
   },
   {
@@ -5871,8 +5871,8 @@
        "coordinates":  [ 110,34 ]
     },
     "properties": {
-    "0":534,
-    "Lasioglossum":"Apis mellifera"
+    "id":534,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5882,8 +5882,8 @@
        "coordinates":  [ 104,24 ]
     },
     "properties": {
-    "0":535,
-    "Lasioglossum":"Apis mellifera"
+    "id":535,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5893,8 +5893,8 @@
        "coordinates":  [ 116,47 ]
     },
     "properties": {
-    "0":536,
-    "Lasioglossum":"Seladonia"
+    "id":536,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5904,8 +5904,8 @@
        "coordinates":  [ 123,55 ]
     },
     "properties": {
-    "0":537,
-    "Lasioglossum":"Seladonia"
+    "id":537,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5915,8 +5915,8 @@
        "coordinates":  [ 105,33 ]
     },
     "properties": {
-    "0":538,
-    "Lasioglossum":"Osmia"
+    "id":538,
+    "Species":"Osmia"
     }
   },
   {
@@ -5926,8 +5926,8 @@
        "coordinates":  [ 106,24 ]
     },
     "properties": {
-    "0":539,
-    "Lasioglossum":"Osmia"
+    "id":539,
+    "Species":"Osmia"
     }
   },
   {
@@ -5937,8 +5937,8 @@
        "coordinates":  [ 105,59 ]
     },
     "properties": {
-    "0":540,
-    "Lasioglossum":"Apis mellifera"
+    "id":540,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5948,8 +5948,8 @@
        "coordinates":  [ 126,31 ]
     },
     "properties": {
-    "0":541,
-    "Lasioglossum":"Seladonia"
+    "id":541,
+    "Species":"Seladonia"
     }
   },
   {
@@ -5959,8 +5959,8 @@
        "coordinates":  [ 108,52 ]
     },
     "properties": {
-    "0":542,
-    "Lasioglossum":"Apis mellifera"
+    "id":542,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5970,8 +5970,8 @@
        "coordinates":  [ 129,33 ]
     },
     "properties": {
-    "0":543,
-    "Lasioglossum":"Lasioglossum"
+    "id":543,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -5981,8 +5981,8 @@
        "coordinates":  [ 115,53 ]
     },
     "properties": {
-    "0":544,
-    "Lasioglossum":"Apis mellifera"
+    "id":544,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -5992,8 +5992,8 @@
        "coordinates":  [ 140,44 ]
     },
     "properties": {
-    "0":545,
-    "Lasioglossum":"Seladonia"
+    "id":545,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6003,8 +6003,8 @@
        "coordinates":  [ 131,24 ]
     },
     "properties": {
-    "0":546,
-    "Lasioglossum":"Apis mellifera"
+    "id":546,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6014,8 +6014,8 @@
        "coordinates":  [ 131,55 ]
     },
     "properties": {
-    "0":547,
-    "Lasioglossum":"Apis mellifera"
+    "id":547,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6025,8 +6025,8 @@
        "coordinates":  [ 104,43 ]
     },
     "properties": {
-    "0":548,
-    "Lasioglossum":"Osmia"
+    "id":548,
+    "Species":"Osmia"
     }
   },
   {
@@ -6036,8 +6036,8 @@
        "coordinates":  [ 128,50 ]
     },
     "properties": {
-    "0":549,
-    "Lasioglossum":"Seladonia"
+    "id":549,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6047,8 +6047,8 @@
        "coordinates":  [ 140,28 ]
     },
     "properties": {
-    "0":550,
-    "Lasioglossum":"Apis mellifera"
+    "id":550,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6058,8 +6058,8 @@
        "coordinates":  [ 126,30 ]
     },
     "properties": {
-    "0":551,
-    "Lasioglossum":"Lasioglossum"
+    "id":551,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6069,8 +6069,8 @@
        "coordinates":  [ 122,59 ]
     },
     "properties": {
-    "0":552,
-    "Lasioglossum":"Apis mellifera"
+    "id":552,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6080,8 +6080,8 @@
        "coordinates":  [ 128,36 ]
     },
     "properties": {
-    "0":553,
-    "Lasioglossum":"Seladonia"
+    "id":553,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6091,8 +6091,8 @@
        "coordinates":  [ 134,57 ]
     },
     "properties": {
-    "0":554,
-    "Lasioglossum":"Apis mellifera"
+    "id":554,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6102,8 +6102,8 @@
        "coordinates":  [ 129,23 ]
     },
     "properties": {
-    "0":555,
-    "Lasioglossum":"Apis mellifera"
+    "id":555,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6113,8 +6113,8 @@
        "coordinates":  [ 117,26 ]
     },
     "properties": {
-    "0":556,
-    "Lasioglossum":"Seladonia"
+    "id":556,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6124,8 +6124,8 @@
        "coordinates":  [ 113,57 ]
     },
     "properties": {
-    "0":557,
-    "Lasioglossum":"Osmia"
+    "id":557,
+    "Species":"Osmia"
     }
   },
   {
@@ -6135,8 +6135,8 @@
        "coordinates":  [ 136,44 ]
     },
     "properties": {
-    "0":558,
-    "Lasioglossum":"Osmia"
+    "id":558,
+    "Species":"Osmia"
     }
   },
   {
@@ -6146,8 +6146,8 @@
        "coordinates":  [ 105,37 ]
     },
     "properties": {
-    "0":559,
-    "Lasioglossum":"Seladonia"
+    "id":559,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6157,8 +6157,8 @@
        "coordinates":  [ 118,40 ]
     },
     "properties": {
-    "0":560,
-    "Lasioglossum":"Apis mellifera"
+    "id":560,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6168,8 +6168,8 @@
        "coordinates":  [ 113,51 ]
     },
     "properties": {
-    "0":561,
-    "Lasioglossum":"Seladonia"
+    "id":561,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6179,8 +6179,8 @@
        "coordinates":  [ 107,57 ]
     },
     "properties": {
-    "0":562,
-    "Lasioglossum":"Seladonia"
+    "id":562,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6190,8 +6190,8 @@
        "coordinates":  [ 133,32 ]
     },
     "properties": {
-    "0":563,
-    "Lasioglossum":"Osmia"
+    "id":563,
+    "Species":"Osmia"
     }
   },
   {
@@ -6201,8 +6201,8 @@
        "coordinates":  [ 139,28 ]
     },
     "properties": {
-    "0":564,
-    "Lasioglossum":"Osmia"
+    "id":564,
+    "Species":"Osmia"
     }
   },
   {
@@ -6212,8 +6212,8 @@
        "coordinates":  [ 105,31 ]
     },
     "properties": {
-    "0":565,
-    "Lasioglossum":"Apis mellifera"
+    "id":565,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6223,8 +6223,8 @@
        "coordinates":  [ 103,22 ]
     },
     "properties": {
-    "0":566,
-    "Lasioglossum":"Seladonia"
+    "id":566,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6234,8 +6234,8 @@
        "coordinates":  [ 103,36 ]
     },
     "properties": {
-    "0":567,
-    "Lasioglossum":"Seladonia"
+    "id":567,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6245,8 +6245,8 @@
        "coordinates":  [ 138,44 ]
     },
     "properties": {
-    "0":568,
-    "Lasioglossum":"Seladonia"
+    "id":568,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6256,8 +6256,8 @@
        "coordinates":  [ 136,21 ]
     },
     "properties": {
-    "0":569,
-    "Lasioglossum":"Osmia"
+    "id":569,
+    "Species":"Osmia"
     }
   },
   {
@@ -6267,8 +6267,8 @@
        "coordinates":  [ 132,23 ]
     },
     "properties": {
-    "0":570,
-    "Lasioglossum":"Lasioglossum"
+    "id":570,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6278,8 +6278,8 @@
        "coordinates":  [ 131,40 ]
     },
     "properties": {
-    "0":571,
-    "Lasioglossum":"Lasioglossum"
+    "id":571,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6289,8 +6289,8 @@
        "coordinates":  [ 139,60 ]
     },
     "properties": {
-    "0":572,
-    "Lasioglossum":"Seladonia"
+    "id":572,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6300,8 +6300,8 @@
        "coordinates":  [ 100,37 ]
     },
     "properties": {
-    "0":573,
-    "Lasioglossum":"Apis mellifera"
+    "id":573,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6311,8 +6311,8 @@
        "coordinates":  [ 111,44 ]
     },
     "properties": {
-    "0":574,
-    "Lasioglossum":"Lasioglossum"
+    "id":574,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6322,8 +6322,8 @@
        "coordinates":  [ 103,42 ]
     },
     "properties": {
-    "0":575,
-    "Lasioglossum":"Apis mellifera"
+    "id":575,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6333,8 +6333,8 @@
        "coordinates":  [ 116,33 ]
     },
     "properties": {
-    "0":576,
-    "Lasioglossum":"Seladonia"
+    "id":576,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6344,8 +6344,8 @@
        "coordinates":  [ 115,33 ]
     },
     "properties": {
-    "0":577,
-    "Lasioglossum":"Lasioglossum"
+    "id":577,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6355,8 +6355,8 @@
        "coordinates":  [ 106,47 ]
     },
     "properties": {
-    "0":578,
-    "Lasioglossum":"Lasioglossum"
+    "id":578,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6366,8 +6366,8 @@
        "coordinates":  [ 120,52 ]
     },
     "properties": {
-    "0":579,
-    "Lasioglossum":"Apis mellifera"
+    "id":579,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6377,8 +6377,8 @@
        "coordinates":  [ 130,52 ]
     },
     "properties": {
-    "0":580,
-    "Lasioglossum":"Seladonia"
+    "id":580,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6388,8 +6388,8 @@
        "coordinates":  [ 111,25 ]
     },
     "properties": {
-    "0":581,
-    "Lasioglossum":"Osmia"
+    "id":581,
+    "Species":"Osmia"
     }
   },
   {
@@ -6399,8 +6399,8 @@
        "coordinates":  [ 100,60 ]
     },
     "properties": {
-    "0":582,
-    "Lasioglossum":"Osmia"
+    "id":582,
+    "Species":"Osmia"
     }
   },
   {
@@ -6410,8 +6410,8 @@
        "coordinates":  [ 135,30 ]
     },
     "properties": {
-    "0":583,
-    "Lasioglossum":"Apis mellifera"
+    "id":583,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6421,8 +6421,8 @@
        "coordinates":  [ 108,56 ]
     },
     "properties": {
-    "0":584,
-    "Lasioglossum":"Osmia"
+    "id":584,
+    "Species":"Osmia"
     }
   },
   {
@@ -6432,8 +6432,8 @@
        "coordinates":  [ 122,25 ]
     },
     "properties": {
-    "0":585,
-    "Lasioglossum":"Osmia"
+    "id":585,
+    "Species":"Osmia"
     }
   },
   {
@@ -6443,8 +6443,8 @@
        "coordinates":  [ 119,44 ]
     },
     "properties": {
-    "0":586,
-    "Lasioglossum":"Seladonia"
+    "id":586,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6454,8 +6454,8 @@
        "coordinates":  [ 115,36 ]
     },
     "properties": {
-    "0":587,
-    "Lasioglossum":"Osmia"
+    "id":587,
+    "Species":"Osmia"
     }
   },
   {
@@ -6465,8 +6465,8 @@
        "coordinates":  [ 139,56 ]
     },
     "properties": {
-    "0":588,
-    "Lasioglossum":"Seladonia"
+    "id":588,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6476,8 +6476,8 @@
        "coordinates":  [ 136,23 ]
     },
     "properties": {
-    "0":589,
-    "Lasioglossum":"Osmia"
+    "id":589,
+    "Species":"Osmia"
     }
   },
   {
@@ -6487,8 +6487,8 @@
        "coordinates":  [ 114,49 ]
     },
     "properties": {
-    "0":590,
-    "Lasioglossum":"Lasioglossum"
+    "id":590,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6498,8 +6498,8 @@
        "coordinates":  [ 102,22 ]
     },
     "properties": {
-    "0":591,
-    "Lasioglossum":"Osmia"
+    "id":591,
+    "Species":"Osmia"
     }
   },
   {
@@ -6509,8 +6509,8 @@
        "coordinates":  [ 135,36 ]
     },
     "properties": {
-    "0":592,
-    "Lasioglossum":"Osmia"
+    "id":592,
+    "Species":"Osmia"
     }
   },
   {
@@ -6520,8 +6520,8 @@
        "coordinates":  [ 110,43 ]
     },
     "properties": {
-    "0":593,
-    "Lasioglossum":"Seladonia"
+    "id":593,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6531,8 +6531,8 @@
        "coordinates":  [ 107,22 ]
     },
     "properties": {
-    "0":594,
-    "Lasioglossum":"Seladonia"
+    "id":594,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6542,8 +6542,8 @@
        "coordinates":  [ 123,23 ]
     },
     "properties": {
-    "0":595,
-    "Lasioglossum":"Seladonia"
+    "id":595,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6553,8 +6553,8 @@
        "coordinates":  [ 138,31 ]
     },
     "properties": {
-    "0":596,
-    "Lasioglossum":"Lasioglossum"
+    "id":596,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6564,8 +6564,8 @@
        "coordinates":  [ 120,57 ]
     },
     "properties": {
-    "0":597,
-    "Lasioglossum":"Osmia"
+    "id":597,
+    "Species":"Osmia"
     }
   },
   {
@@ -6575,8 +6575,8 @@
        "coordinates":  [ 132,22 ]
     },
     "properties": {
-    "0":598,
-    "Lasioglossum":"Osmia"
+    "id":598,
+    "Species":"Osmia"
     }
   },
   {
@@ -6586,8 +6586,8 @@
        "coordinates":  [ 104,56 ]
     },
     "properties": {
-    "0":599,
-    "Lasioglossum":"Lasioglossum"
+    "id":599,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6597,8 +6597,8 @@
        "coordinates":  [ 135,40 ]
     },
     "properties": {
-    "0":600,
-    "Lasioglossum":"Apis mellifera"
+    "id":600,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6608,8 +6608,8 @@
        "coordinates":  [ 114,59 ]
     },
     "properties": {
-    "0":601,
-    "Lasioglossum":"Seladonia"
+    "id":601,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6619,8 +6619,8 @@
        "coordinates":  [ 124,40 ]
     },
     "properties": {
-    "0":602,
-    "Lasioglossum":"Osmia"
+    "id":602,
+    "Species":"Osmia"
     }
   },
   {
@@ -6630,8 +6630,8 @@
        "coordinates":  [ 107,42 ]
     },
     "properties": {
-    "0":603,
-    "Lasioglossum":"Seladonia"
+    "id":603,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6641,8 +6641,8 @@
        "coordinates":  [ 112,45 ]
     },
     "properties": {
-    "0":604,
-    "Lasioglossum":"Seladonia"
+    "id":604,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6652,8 +6652,8 @@
        "coordinates":  [ 136,59 ]
     },
     "properties": {
-    "0":605,
-    "Lasioglossum":"Apis mellifera"
+    "id":605,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6663,8 +6663,8 @@
        "coordinates":  [ 132,21 ]
     },
     "properties": {
-    "0":606,
-    "Lasioglossum":"Osmia"
+    "id":606,
+    "Species":"Osmia"
     }
   },
   {
@@ -6674,8 +6674,8 @@
        "coordinates":  [ 108,28 ]
     },
     "properties": {
-    "0":607,
-    "Lasioglossum":"Seladonia"
+    "id":607,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6685,8 +6685,8 @@
        "coordinates":  [ 124,39 ]
     },
     "properties": {
-    "0":608,
-    "Lasioglossum":"Lasioglossum"
+    "id":608,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6696,8 +6696,8 @@
        "coordinates":  [ 101,39 ]
     },
     "properties": {
-    "0":609,
-    "Lasioglossum":"Apis mellifera"
+    "id":609,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6707,8 +6707,8 @@
        "coordinates":  [ 100,20 ]
     },
     "properties": {
-    "0":610,
-    "Lasioglossum":"Seladonia"
+    "id":610,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6718,8 +6718,8 @@
        "coordinates":  [ 116,26 ]
     },
     "properties": {
-    "0":611,
-    "Lasioglossum":"Lasioglossum"
+    "id":611,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6729,8 +6729,8 @@
        "coordinates":  [ 117,24 ]
     },
     "properties": {
-    "0":612,
-    "Lasioglossum":"Osmia"
+    "id":612,
+    "Species":"Osmia"
     }
   },
   {
@@ -6740,8 +6740,8 @@
        "coordinates":  [ 110,36 ]
     },
     "properties": {
-    "0":613,
-    "Lasioglossum":"Seladonia"
+    "id":613,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6751,8 +6751,8 @@
        "coordinates":  [ 136,47 ]
     },
     "properties": {
-    "0":614,
-    "Lasioglossum":"Seladonia"
+    "id":614,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6762,8 +6762,8 @@
        "coordinates":  [ 120,29 ]
     },
     "properties": {
-    "0":615,
-    "Lasioglossum":"Seladonia"
+    "id":615,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6773,8 +6773,8 @@
        "coordinates":  [ 132,26 ]
     },
     "properties": {
-    "0":616,
-    "Lasioglossum":"Osmia"
+    "id":616,
+    "Species":"Osmia"
     }
   },
   {
@@ -6784,8 +6784,8 @@
        "coordinates":  [ 130,54 ]
     },
     "properties": {
-    "0":617,
-    "Lasioglossum":"Lasioglossum"
+    "id":617,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6795,8 +6795,8 @@
        "coordinates":  [ 103,45 ]
     },
     "properties": {
-    "0":618,
-    "Lasioglossum":"Seladonia"
+    "id":618,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6806,8 +6806,8 @@
        "coordinates":  [ 117,58 ]
     },
     "properties": {
-    "0":619,
-    "Lasioglossum":"Apis mellifera"
+    "id":619,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6817,8 +6817,8 @@
        "coordinates":  [ 110,28 ]
     },
     "properties": {
-    "0":620,
-    "Lasioglossum":"Apis mellifera"
+    "id":620,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6828,8 +6828,8 @@
        "coordinates":  [ 119,27 ]
     },
     "properties": {
-    "0":621,
-    "Lasioglossum":"Lasioglossum"
+    "id":621,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6839,8 +6839,8 @@
        "coordinates":  [ 101,52 ]
     },
     "properties": {
-    "0":622,
-    "Lasioglossum":"Osmia"
+    "id":622,
+    "Species":"Osmia"
     }
   },
   {
@@ -6850,8 +6850,8 @@
        "coordinates":  [ 107,50 ]
     },
     "properties": {
-    "0":623,
-    "Lasioglossum":"Apis mellifera"
+    "id":623,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6861,8 +6861,8 @@
        "coordinates":  [ 102,22 ]
     },
     "properties": {
-    "0":624,
-    "Lasioglossum":"Osmia"
+    "id":624,
+    "Species":"Osmia"
     }
   },
   {
@@ -6872,8 +6872,8 @@
        "coordinates":  [ 140,23 ]
     },
     "properties": {
-    "0":625,
-    "Lasioglossum":"Lasioglossum"
+    "id":625,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6883,8 +6883,8 @@
        "coordinates":  [ 107,56 ]
     },
     "properties": {
-    "0":626,
-    "Lasioglossum":"Lasioglossum"
+    "id":626,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6894,8 +6894,8 @@
        "coordinates":  [ 117,46 ]
     },
     "properties": {
-    "0":627,
-    "Lasioglossum":"Osmia"
+    "id":627,
+    "Species":"Osmia"
     }
   },
   {
@@ -6905,8 +6905,8 @@
        "coordinates":  [ 135,57 ]
     },
     "properties": {
-    "0":628,
-    "Lasioglossum":"Apis mellifera"
+    "id":628,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6916,8 +6916,8 @@
        "coordinates":  [ 110,29 ]
     },
     "properties": {
-    "0":629,
-    "Lasioglossum":"Osmia"
+    "id":629,
+    "Species":"Osmia"
     }
   },
   {
@@ -6927,8 +6927,8 @@
        "coordinates":  [ 125,26 ]
     },
     "properties": {
-    "0":630,
-    "Lasioglossum":"Lasioglossum"
+    "id":630,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -6938,8 +6938,8 @@
        "coordinates":  [ 131,44 ]
     },
     "properties": {
-    "0":631,
-    "Lasioglossum":"Seladonia"
+    "id":631,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6949,8 +6949,8 @@
        "coordinates":  [ 107,47 ]
     },
     "properties": {
-    "0":632,
-    "Lasioglossum":"Apis mellifera"
+    "id":632,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6960,8 +6960,8 @@
        "coordinates":  [ 124,32 ]
     },
     "properties": {
-    "0":633,
-    "Lasioglossum":"Apis mellifera"
+    "id":633,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -6971,8 +6971,8 @@
        "coordinates":  [ 113,24 ]
     },
     "properties": {
-    "0":634,
-    "Lasioglossum":"Osmia"
+    "id":634,
+    "Species":"Osmia"
     }
   },
   {
@@ -6982,8 +6982,8 @@
        "coordinates":  [ 110,55 ]
     },
     "properties": {
-    "0":635,
-    "Lasioglossum":"Seladonia"
+    "id":635,
+    "Species":"Seladonia"
     }
   },
   {
@@ -6993,8 +6993,8 @@
        "coordinates":  [ 125,57 ]
     },
     "properties": {
-    "0":636,
-    "Lasioglossum":"Osmia"
+    "id":636,
+    "Species":"Osmia"
     }
   },
   {
@@ -7004,8 +7004,8 @@
        "coordinates":  [ 100,29 ]
     },
     "properties": {
-    "0":637,
-    "Lasioglossum":"Apis mellifera"
+    "id":637,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7015,8 +7015,8 @@
        "coordinates":  [ 106,44 ]
     },
     "properties": {
-    "0":638,
-    "Lasioglossum":"Apis mellifera"
+    "id":638,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7026,8 +7026,8 @@
        "coordinates":  [ 137,58 ]
     },
     "properties": {
-    "0":639,
-    "Lasioglossum":"Lasioglossum"
+    "id":639,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7037,8 +7037,8 @@
        "coordinates":  [ 103,26 ]
     },
     "properties": {
-    "0":640,
-    "Lasioglossum":"Lasioglossum"
+    "id":640,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7048,8 +7048,8 @@
        "coordinates":  [ 111,40 ]
     },
     "properties": {
-    "0":641,
-    "Lasioglossum":"Apis mellifera"
+    "id":641,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7059,8 +7059,8 @@
        "coordinates":  [ 132,54 ]
     },
     "properties": {
-    "0":642,
-    "Lasioglossum":"Apis mellifera"
+    "id":642,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7070,8 +7070,8 @@
        "coordinates":  [ 102,24 ]
     },
     "properties": {
-    "0":643,
-    "Lasioglossum":"Seladonia"
+    "id":643,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7081,8 +7081,8 @@
        "coordinates":  [ 119,32 ]
     },
     "properties": {
-    "0":644,
-    "Lasioglossum":"Osmia"
+    "id":644,
+    "Species":"Osmia"
     }
   },
   {
@@ -7092,8 +7092,8 @@
        "coordinates":  [ 130,22 ]
     },
     "properties": {
-    "0":645,
-    "Lasioglossum":"Seladonia"
+    "id":645,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7103,8 +7103,8 @@
        "coordinates":  [ 140,54 ]
     },
     "properties": {
-    "0":646,
-    "Lasioglossum":"Osmia"
+    "id":646,
+    "Species":"Osmia"
     }
   },
   {
@@ -7114,8 +7114,8 @@
        "coordinates":  [ 124,31 ]
     },
     "properties": {
-    "0":647,
-    "Lasioglossum":"Apis mellifera"
+    "id":647,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7125,8 +7125,8 @@
        "coordinates":  [ 101,22 ]
     },
     "properties": {
-    "0":648,
-    "Lasioglossum":"Lasioglossum"
+    "id":648,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7136,8 +7136,8 @@
        "coordinates":  [ 136,38 ]
     },
     "properties": {
-    "0":649,
-    "Lasioglossum":"Seladonia"
+    "id":649,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7147,8 +7147,8 @@
        "coordinates":  [ 129,23 ]
     },
     "properties": {
-    "0":650,
-    "Lasioglossum":"Seladonia"
+    "id":650,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7158,8 +7158,8 @@
        "coordinates":  [ 138,33 ]
     },
     "properties": {
-    "0":651,
-    "Lasioglossum":"Lasioglossum"
+    "id":651,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7169,8 +7169,8 @@
        "coordinates":  [ 123,46 ]
     },
     "properties": {
-    "0":652,
-    "Lasioglossum":"Apis mellifera"
+    "id":652,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7180,8 +7180,8 @@
        "coordinates":  [ 100,22 ]
     },
     "properties": {
-    "0":653,
-    "Lasioglossum":"Lasioglossum"
+    "id":653,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7191,8 +7191,8 @@
        "coordinates":  [ 122,52 ]
     },
     "properties": {
-    "0":654,
-    "Lasioglossum":"Lasioglossum"
+    "id":654,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7202,8 +7202,8 @@
        "coordinates":  [ 101,26 ]
     },
     "properties": {
-    "0":655,
-    "Lasioglossum":"Lasioglossum"
+    "id":655,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7213,8 +7213,8 @@
        "coordinates":  [ 130,59 ]
     },
     "properties": {
-    "0":656,
-    "Lasioglossum":"Lasioglossum"
+    "id":656,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7224,8 +7224,8 @@
        "coordinates":  [ 128,36 ]
     },
     "properties": {
-    "0":657,
-    "Lasioglossum":"Seladonia"
+    "id":657,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7235,8 +7235,8 @@
        "coordinates":  [ 110,33 ]
     },
     "properties": {
-    "0":658,
-    "Lasioglossum":"Lasioglossum"
+    "id":658,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7246,8 +7246,8 @@
        "coordinates":  [ 129,29 ]
     },
     "properties": {
-    "0":659,
-    "Lasioglossum":"Lasioglossum"
+    "id":659,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7257,8 +7257,8 @@
        "coordinates":  [ 121,41 ]
     },
     "properties": {
-    "0":660,
-    "Lasioglossum":"Osmia"
+    "id":660,
+    "Species":"Osmia"
     }
   },
   {
@@ -7268,8 +7268,8 @@
        "coordinates":  [ 140,52 ]
     },
     "properties": {
-    "0":661,
-    "Lasioglossum":"Seladonia"
+    "id":661,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7279,8 +7279,8 @@
        "coordinates":  [ 126,54 ]
     },
     "properties": {
-    "0":662,
-    "Lasioglossum":"Apis mellifera"
+    "id":662,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7290,8 +7290,8 @@
        "coordinates":  [ 140,31 ]
     },
     "properties": {
-    "0":663,
-    "Lasioglossum":"Lasioglossum"
+    "id":663,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7301,8 +7301,8 @@
        "coordinates":  [ 119,30 ]
     },
     "properties": {
-    "0":664,
-    "Lasioglossum":"Osmia"
+    "id":664,
+    "Species":"Osmia"
     }
   },
   {
@@ -7312,8 +7312,8 @@
        "coordinates":  [ 130,49 ]
     },
     "properties": {
-    "0":665,
-    "Lasioglossum":"Osmia"
+    "id":665,
+    "Species":"Osmia"
     }
   },
   {
@@ -7323,8 +7323,8 @@
        "coordinates":  [ 106,22 ]
     },
     "properties": {
-    "0":666,
-    "Lasioglossum":"Osmia"
+    "id":666,
+    "Species":"Osmia"
     }
   },
   {
@@ -7334,8 +7334,8 @@
        "coordinates":  [ 100,21 ]
     },
     "properties": {
-    "0":667,
-    "Lasioglossum":"Osmia"
+    "id":667,
+    "Species":"Osmia"
     }
   },
   {
@@ -7345,8 +7345,8 @@
        "coordinates":  [ 116,36 ]
     },
     "properties": {
-    "0":668,
-    "Lasioglossum":"Lasioglossum"
+    "id":668,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7356,8 +7356,8 @@
        "coordinates":  [ 136,50 ]
     },
     "properties": {
-    "0":669,
-    "Lasioglossum":"Apis mellifera"
+    "id":669,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7367,8 +7367,8 @@
        "coordinates":  [ 122,38 ]
     },
     "properties": {
-    "0":670,
-    "Lasioglossum":"Seladonia"
+    "id":670,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7378,8 +7378,8 @@
        "coordinates":  [ 125,51 ]
     },
     "properties": {
-    "0":671,
-    "Lasioglossum":"Osmia"
+    "id":671,
+    "Species":"Osmia"
     }
   },
   {
@@ -7389,8 +7389,8 @@
        "coordinates":  [ 101,47 ]
     },
     "properties": {
-    "0":672,
-    "Lasioglossum":"Apis mellifera"
+    "id":672,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7400,8 +7400,8 @@
        "coordinates":  [ 108,27 ]
     },
     "properties": {
-    "0":673,
-    "Lasioglossum":"Apis mellifera"
+    "id":673,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7411,8 +7411,8 @@
        "coordinates":  [ 108,52 ]
     },
     "properties": {
-    "0":674,
-    "Lasioglossum":"Seladonia"
+    "id":674,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7422,8 +7422,8 @@
        "coordinates":  [ 106,27 ]
     },
     "properties": {
-    "0":675,
-    "Lasioglossum":"Osmia"
+    "id":675,
+    "Species":"Osmia"
     }
   },
   {
@@ -7433,8 +7433,8 @@
        "coordinates":  [ 106,50 ]
     },
     "properties": {
-    "0":676,
-    "Lasioglossum":"Apis mellifera"
+    "id":676,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7444,8 +7444,8 @@
        "coordinates":  [ 121,55 ]
     },
     "properties": {
-    "0":677,
-    "Lasioglossum":"Seladonia"
+    "id":677,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7455,8 +7455,8 @@
        "coordinates":  [ 108,55 ]
     },
     "properties": {
-    "0":678,
-    "Lasioglossum":"Lasioglossum"
+    "id":678,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7466,8 +7466,8 @@
        "coordinates":  [ 106,39 ]
     },
     "properties": {
-    "0":679,
-    "Lasioglossum":"Seladonia"
+    "id":679,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7477,8 +7477,8 @@
        "coordinates":  [ 111,32 ]
     },
     "properties": {
-    "0":680,
-    "Lasioglossum":"Seladonia"
+    "id":680,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7488,8 +7488,8 @@
        "coordinates":  [ 116,41 ]
     },
     "properties": {
-    "0":681,
-    "Lasioglossum":"Osmia"
+    "id":681,
+    "Species":"Osmia"
     }
   },
   {
@@ -7499,8 +7499,8 @@
        "coordinates":  [ 121,34 ]
     },
     "properties": {
-    "0":682,
-    "Lasioglossum":"Lasioglossum"
+    "id":682,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7510,8 +7510,8 @@
        "coordinates":  [ 137,28 ]
     },
     "properties": {
-    "0":683,
-    "Lasioglossum":"Osmia"
+    "id":683,
+    "Species":"Osmia"
     }
   },
   {
@@ -7521,8 +7521,8 @@
        "coordinates":  [ 103,29 ]
     },
     "properties": {
-    "0":684,
-    "Lasioglossum":"Seladonia"
+    "id":684,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7532,8 +7532,8 @@
        "coordinates":  [ 116,50 ]
     },
     "properties": {
-    "0":685,
-    "Lasioglossum":"Apis mellifera"
+    "id":685,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7543,8 +7543,8 @@
        "coordinates":  [ 137,27 ]
     },
     "properties": {
-    "0":686,
-    "Lasioglossum":"Osmia"
+    "id":686,
+    "Species":"Osmia"
     }
   },
   {
@@ -7554,8 +7554,8 @@
        "coordinates":  [ 115,23 ]
     },
     "properties": {
-    "0":687,
-    "Lasioglossum":"Osmia"
+    "id":687,
+    "Species":"Osmia"
     }
   },
   {
@@ -7565,8 +7565,8 @@
        "coordinates":  [ 133,37 ]
     },
     "properties": {
-    "0":688,
-    "Lasioglossum":"Seladonia"
+    "id":688,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7576,8 +7576,8 @@
        "coordinates":  [ 127,44 ]
     },
     "properties": {
-    "0":689,
-    "Lasioglossum":"Osmia"
+    "id":689,
+    "Species":"Osmia"
     }
   },
   {
@@ -7587,8 +7587,8 @@
        "coordinates":  [ 115,37 ]
     },
     "properties": {
-    "0":690,
-    "Lasioglossum":"Lasioglossum"
+    "id":690,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7598,8 +7598,8 @@
        "coordinates":  [ 106,26 ]
     },
     "properties": {
-    "0":691,
-    "Lasioglossum":"Osmia"
+    "id":691,
+    "Species":"Osmia"
     }
   },
   {
@@ -7609,8 +7609,8 @@
        "coordinates":  [ 111,20 ]
     },
     "properties": {
-    "0":692,
-    "Lasioglossum":"Seladonia"
+    "id":692,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7620,8 +7620,8 @@
        "coordinates":  [ 140,58 ]
     },
     "properties": {
-    "0":693,
-    "Lasioglossum":"Osmia"
+    "id":693,
+    "Species":"Osmia"
     }
   },
   {
@@ -7631,8 +7631,8 @@
        "coordinates":  [ 105,48 ]
     },
     "properties": {
-    "0":694,
-    "Lasioglossum":"Osmia"
+    "id":694,
+    "Species":"Osmia"
     }
   },
   {
@@ -7642,8 +7642,8 @@
        "coordinates":  [ 134,33 ]
     },
     "properties": {
-    "0":695,
-    "Lasioglossum":"Seladonia"
+    "id":695,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7653,8 +7653,8 @@
        "coordinates":  [ 127,45 ]
     },
     "properties": {
-    "0":696,
-    "Lasioglossum":"Osmia"
+    "id":696,
+    "Species":"Osmia"
     }
   },
   {
@@ -7664,8 +7664,8 @@
        "coordinates":  [ 119,26 ]
     },
     "properties": {
-    "0":697,
-    "Lasioglossum":"Osmia"
+    "id":697,
+    "Species":"Osmia"
     }
   },
   {
@@ -7675,8 +7675,8 @@
        "coordinates":  [ 123,33 ]
     },
     "properties": {
-    "0":698,
-    "Lasioglossum":"Apis mellifera"
+    "id":698,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7686,8 +7686,8 @@
        "coordinates":  [ 139,21 ]
     },
     "properties": {
-    "0":699,
-    "Lasioglossum":"Lasioglossum"
+    "id":699,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7697,8 +7697,8 @@
        "coordinates":  [ 140,50 ]
     },
     "properties": {
-    "0":700,
-    "Lasioglossum":"Osmia"
+    "id":700,
+    "Species":"Osmia"
     }
   },
   {
@@ -7708,8 +7708,8 @@
        "coordinates":  [ 121,22 ]
     },
     "properties": {
-    "0":701,
-    "Lasioglossum":"Seladonia"
+    "id":701,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7719,8 +7719,8 @@
        "coordinates":  [ 111,20 ]
     },
     "properties": {
-    "0":702,
-    "Lasioglossum":"Lasioglossum"
+    "id":702,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7730,8 +7730,8 @@
        "coordinates":  [ 132,26 ]
     },
     "properties": {
-    "0":703,
-    "Lasioglossum":"Osmia"
+    "id":703,
+    "Species":"Osmia"
     }
   },
   {
@@ -7741,8 +7741,8 @@
        "coordinates":  [ 123,32 ]
     },
     "properties": {
-    "0":704,
-    "Lasioglossum":"Osmia"
+    "id":704,
+    "Species":"Osmia"
     }
   },
   {
@@ -7752,8 +7752,8 @@
        "coordinates":  [ 117,59 ]
     },
     "properties": {
-    "0":705,
-    "Lasioglossum":"Lasioglossum"
+    "id":705,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7763,8 +7763,8 @@
        "coordinates":  [ 115,35 ]
     },
     "properties": {
-    "0":706,
-    "Lasioglossum":"Osmia"
+    "id":706,
+    "Species":"Osmia"
     }
   },
   {
@@ -7774,8 +7774,8 @@
        "coordinates":  [ 136,44 ]
     },
     "properties": {
-    "0":707,
-    "Lasioglossum":"Osmia"
+    "id":707,
+    "Species":"Osmia"
     }
   },
   {
@@ -7785,8 +7785,8 @@
        "coordinates":  [ 116,22 ]
     },
     "properties": {
-    "0":708,
-    "Lasioglossum":"Apis mellifera"
+    "id":708,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7796,8 +7796,8 @@
        "coordinates":  [ 116,42 ]
     },
     "properties": {
-    "0":709,
-    "Lasioglossum":"Lasioglossum"
+    "id":709,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -7807,8 +7807,8 @@
        "coordinates":  [ 110,45 ]
     },
     "properties": {
-    "0":710,
-    "Lasioglossum":"Seladonia"
+    "id":710,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7818,8 +7818,8 @@
        "coordinates":  [ 113,32 ]
     },
     "properties": {
-    "0":711,
-    "Lasioglossum":"Apis mellifera"
+    "id":711,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7829,8 +7829,8 @@
        "coordinates":  [ 125,59 ]
     },
     "properties": {
-    "0":712,
-    "Lasioglossum":"Osmia"
+    "id":712,
+    "Species":"Osmia"
     }
   },
   {
@@ -7840,8 +7840,8 @@
        "coordinates":  [ 119,39 ]
     },
     "properties": {
-    "0":713,
-    "Lasioglossum":"Apis mellifera"
+    "id":713,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7851,8 +7851,8 @@
        "coordinates":  [ 121,49 ]
     },
     "properties": {
-    "0":714,
-    "Lasioglossum":"Seladonia"
+    "id":714,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7862,8 +7862,8 @@
        "coordinates":  [ 134,26 ]
     },
     "properties": {
-    "0":715,
-    "Lasioglossum":"Osmia"
+    "id":715,
+    "Species":"Osmia"
     }
   },
   {
@@ -7873,8 +7873,8 @@
        "coordinates":  [ 123,28 ]
     },
     "properties": {
-    "0":716,
-    "Lasioglossum":"Osmia"
+    "id":716,
+    "Species":"Osmia"
     }
   },
   {
@@ -7884,8 +7884,8 @@
        "coordinates":  [ 133,42 ]
     },
     "properties": {
-    "0":717,
-    "Lasioglossum":"Apis mellifera"
+    "id":717,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7895,8 +7895,8 @@
        "coordinates":  [ 131,30 ]
     },
     "properties": {
-    "0":718,
-    "Lasioglossum":"Osmia"
+    "id":718,
+    "Species":"Osmia"
     }
   },
   {
@@ -7906,8 +7906,8 @@
        "coordinates":  [ 115,56 ]
     },
     "properties": {
-    "0":719,
-    "Lasioglossum":"Seladonia"
+    "id":719,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7917,8 +7917,8 @@
        "coordinates":  [ 122,58 ]
     },
     "properties": {
-    "0":720,
-    "Lasioglossum":"Seladonia"
+    "id":720,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7928,8 +7928,8 @@
        "coordinates":  [ 139,49 ]
     },
     "properties": {
-    "0":721,
-    "Lasioglossum":"Apis mellifera"
+    "id":721,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7939,8 +7939,8 @@
        "coordinates":  [ 105,41 ]
     },
     "properties": {
-    "0":722,
-    "Lasioglossum":"Apis mellifera"
+    "id":722,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7950,8 +7950,8 @@
        "coordinates":  [ 106,20 ]
     },
     "properties": {
-    "0":723,
-    "Lasioglossum":"Seladonia"
+    "id":723,
+    "Species":"Seladonia"
     }
   },
   {
@@ -7961,8 +7961,8 @@
        "coordinates":  [ 126,30 ]
     },
     "properties": {
-    "0":724,
-    "Lasioglossum":"Osmia"
+    "id":724,
+    "Species":"Osmia"
     }
   },
   {
@@ -7972,8 +7972,8 @@
        "coordinates":  [ 134,35 ]
     },
     "properties": {
-    "0":725,
-    "Lasioglossum":"Osmia"
+    "id":725,
+    "Species":"Osmia"
     }
   },
   {
@@ -7983,8 +7983,8 @@
        "coordinates":  [ 138,44 ]
     },
     "properties": {
-    "0":726,
-    "Lasioglossum":"Apis mellifera"
+    "id":726,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -7994,8 +7994,8 @@
        "coordinates":  [ 136,48 ]
     },
     "properties": {
-    "0":727,
-    "Lasioglossum":"Apis mellifera"
+    "id":727,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8005,8 +8005,8 @@
        "coordinates":  [ 120,36 ]
     },
     "properties": {
-    "0":728,
-    "Lasioglossum":"Lasioglossum"
+    "id":728,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8016,8 +8016,8 @@
        "coordinates":  [ 105,41 ]
     },
     "properties": {
-    "0":729,
-    "Lasioglossum":"Seladonia"
+    "id":729,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8027,8 +8027,8 @@
        "coordinates":  [ 130,23 ]
     },
     "properties": {
-    "0":730,
-    "Lasioglossum":"Osmia"
+    "id":730,
+    "Species":"Osmia"
     }
   },
   {
@@ -8038,8 +8038,8 @@
        "coordinates":  [ 126,30 ]
     },
     "properties": {
-    "0":731,
-    "Lasioglossum":"Osmia"
+    "id":731,
+    "Species":"Osmia"
     }
   },
   {
@@ -8049,8 +8049,8 @@
        "coordinates":  [ 136,33 ]
     },
     "properties": {
-    "0":732,
-    "Lasioglossum":"Apis mellifera"
+    "id":732,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8060,8 +8060,8 @@
        "coordinates":  [ 104,38 ]
     },
     "properties": {
-    "0":733,
-    "Lasioglossum":"Osmia"
+    "id":733,
+    "Species":"Osmia"
     }
   },
   {
@@ -8071,8 +8071,8 @@
        "coordinates":  [ 114,26 ]
     },
     "properties": {
-    "0":734,
-    "Lasioglossum":"Osmia"
+    "id":734,
+    "Species":"Osmia"
     }
   },
   {
@@ -8082,8 +8082,8 @@
        "coordinates":  [ 106,34 ]
     },
     "properties": {
-    "0":735,
-    "Lasioglossum":"Osmia"
+    "id":735,
+    "Species":"Osmia"
     }
   },
   {
@@ -8093,8 +8093,8 @@
        "coordinates":  [ 131,48 ]
     },
     "properties": {
-    "0":736,
-    "Lasioglossum":"Seladonia"
+    "id":736,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8104,8 +8104,8 @@
        "coordinates":  [ 125,51 ]
     },
     "properties": {
-    "0":737,
-    "Lasioglossum":"Seladonia"
+    "id":737,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8115,8 +8115,8 @@
        "coordinates":  [ 128,20 ]
     },
     "properties": {
-    "0":738,
-    "Lasioglossum":"Apis mellifera"
+    "id":738,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8126,8 +8126,8 @@
        "coordinates":  [ 123,60 ]
     },
     "properties": {
-    "0":739,
-    "Lasioglossum":"Osmia"
+    "id":739,
+    "Species":"Osmia"
     }
   },
   {
@@ -8137,8 +8137,8 @@
        "coordinates":  [ 128,38 ]
     },
     "properties": {
-    "0":740,
-    "Lasioglossum":"Osmia"
+    "id":740,
+    "Species":"Osmia"
     }
   },
   {
@@ -8148,8 +8148,8 @@
        "coordinates":  [ 139,59 ]
     },
     "properties": {
-    "0":741,
-    "Lasioglossum":"Osmia"
+    "id":741,
+    "Species":"Osmia"
     }
   },
   {
@@ -8159,8 +8159,8 @@
        "coordinates":  [ 132,35 ]
     },
     "properties": {
-    "0":742,
-    "Lasioglossum":"Apis mellifera"
+    "id":742,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8170,8 +8170,8 @@
        "coordinates":  [ 115,44 ]
     },
     "properties": {
-    "0":743,
-    "Lasioglossum":"Osmia"
+    "id":743,
+    "Species":"Osmia"
     }
   },
   {
@@ -8181,8 +8181,8 @@
        "coordinates":  [ 113,25 ]
     },
     "properties": {
-    "0":744,
-    "Lasioglossum":"Osmia"
+    "id":744,
+    "Species":"Osmia"
     }
   },
   {
@@ -8192,8 +8192,8 @@
        "coordinates":  [ 117,30 ]
     },
     "properties": {
-    "0":745,
-    "Lasioglossum":"Lasioglossum"
+    "id":745,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8203,8 +8203,8 @@
        "coordinates":  [ 120,35 ]
     },
     "properties": {
-    "0":746,
-    "Lasioglossum":"Apis mellifera"
+    "id":746,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8214,8 +8214,8 @@
        "coordinates":  [ 139,47 ]
     },
     "properties": {
-    "0":747,
-    "Lasioglossum":"Seladonia"
+    "id":747,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8225,8 +8225,8 @@
        "coordinates":  [ 122,45 ]
     },
     "properties": {
-    "0":748,
-    "Lasioglossum":"Apis mellifera"
+    "id":748,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8236,8 +8236,8 @@
        "coordinates":  [ 138,60 ]
     },
     "properties": {
-    "0":749,
-    "Lasioglossum":"Osmia"
+    "id":749,
+    "Species":"Osmia"
     }
   },
   {
@@ -8247,8 +8247,8 @@
        "coordinates":  [ 109,33 ]
     },
     "properties": {
-    "0":750,
-    "Lasioglossum":"Osmia"
+    "id":750,
+    "Species":"Osmia"
     }
   },
   {
@@ -8258,8 +8258,8 @@
        "coordinates":  [ 136,50 ]
     },
     "properties": {
-    "0":751,
-    "Lasioglossum":"Apis mellifera"
+    "id":751,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8269,8 +8269,8 @@
        "coordinates":  [ 108,34 ]
     },
     "properties": {
-    "0":752,
-    "Lasioglossum":"Apis mellifera"
+    "id":752,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8280,8 +8280,8 @@
        "coordinates":  [ 122,52 ]
     },
     "properties": {
-    "0":753,
-    "Lasioglossum":"Osmia"
+    "id":753,
+    "Species":"Osmia"
     }
   },
   {
@@ -8291,8 +8291,8 @@
        "coordinates":  [ 126,36 ]
     },
     "properties": {
-    "0":754,
-    "Lasioglossum":"Apis mellifera"
+    "id":754,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8302,8 +8302,8 @@
        "coordinates":  [ 108,55 ]
     },
     "properties": {
-    "0":755,
-    "Lasioglossum":"Lasioglossum"
+    "id":755,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8313,8 +8313,8 @@
        "coordinates":  [ 129,26 ]
     },
     "properties": {
-    "0":756,
-    "Lasioglossum":"Apis mellifera"
+    "id":756,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8324,8 +8324,8 @@
        "coordinates":  [ 107,58 ]
     },
     "properties": {
-    "0":757,
-    "Lasioglossum":"Seladonia"
+    "id":757,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8335,8 +8335,8 @@
        "coordinates":  [ 110,36 ]
     },
     "properties": {
-    "0":758,
-    "Lasioglossum":"Osmia"
+    "id":758,
+    "Species":"Osmia"
     }
   },
   {
@@ -8346,8 +8346,8 @@
        "coordinates":  [ 102,31 ]
     },
     "properties": {
-    "0":759,
-    "Lasioglossum":"Osmia"
+    "id":759,
+    "Species":"Osmia"
     }
   },
   {
@@ -8357,8 +8357,8 @@
        "coordinates":  [ 103,50 ]
     },
     "properties": {
-    "0":760,
-    "Lasioglossum":"Osmia"
+    "id":760,
+    "Species":"Osmia"
     }
   },
   {
@@ -8368,8 +8368,8 @@
        "coordinates":  [ 116,32 ]
     },
     "properties": {
-    "0":761,
-    "Lasioglossum":"Lasioglossum"
+    "id":761,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8379,8 +8379,8 @@
        "coordinates":  [ 105,41 ]
     },
     "properties": {
-    "0":762,
-    "Lasioglossum":"Seladonia"
+    "id":762,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8390,8 +8390,8 @@
        "coordinates":  [ 116,31 ]
     },
     "properties": {
-    "0":763,
-    "Lasioglossum":"Osmia"
+    "id":763,
+    "Species":"Osmia"
     }
   },
   {
@@ -8401,8 +8401,8 @@
        "coordinates":  [ 122,44 ]
     },
     "properties": {
-    "0":764,
-    "Lasioglossum":"Seladonia"
+    "id":764,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8412,8 +8412,8 @@
        "coordinates":  [ 113,26 ]
     },
     "properties": {
-    "0":765,
-    "Lasioglossum":"Osmia"
+    "id":765,
+    "Species":"Osmia"
     }
   },
   {
@@ -8423,8 +8423,8 @@
        "coordinates":  [ 124,25 ]
     },
     "properties": {
-    "0":766,
-    "Lasioglossum":"Apis mellifera"
+    "id":766,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8434,8 +8434,8 @@
        "coordinates":  [ 124,26 ]
     },
     "properties": {
-    "0":767,
-    "Lasioglossum":"Apis mellifera"
+    "id":767,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8445,8 +8445,8 @@
        "coordinates":  [ 139,30 ]
     },
     "properties": {
-    "0":768,
-    "Lasioglossum":"Lasioglossum"
+    "id":768,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8456,8 +8456,8 @@
        "coordinates":  [ 136,39 ]
     },
     "properties": {
-    "0":769,
-    "Lasioglossum":"Osmia"
+    "id":769,
+    "Species":"Osmia"
     }
   },
   {
@@ -8467,8 +8467,8 @@
        "coordinates":  [ 114,32 ]
     },
     "properties": {
-    "0":770,
-    "Lasioglossum":"Osmia"
+    "id":770,
+    "Species":"Osmia"
     }
   },
   {
@@ -8478,8 +8478,8 @@
        "coordinates":  [ 124,45 ]
     },
     "properties": {
-    "0":771,
-    "Lasioglossum":"Seladonia"
+    "id":771,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8489,8 +8489,8 @@
        "coordinates":  [ 110,29 ]
     },
     "properties": {
-    "0":772,
-    "Lasioglossum":"Osmia"
+    "id":772,
+    "Species":"Osmia"
     }
   },
   {
@@ -8500,8 +8500,8 @@
        "coordinates":  [ 137,29 ]
     },
     "properties": {
-    "0":773,
-    "Lasioglossum":"Apis mellifera"
+    "id":773,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8511,8 +8511,8 @@
        "coordinates":  [ 139,43 ]
     },
     "properties": {
-    "0":774,
-    "Lasioglossum":"Apis mellifera"
+    "id":774,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8522,8 +8522,8 @@
        "coordinates":  [ 134,59 ]
     },
     "properties": {
-    "0":775,
-    "Lasioglossum":"Seladonia"
+    "id":775,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8533,8 +8533,8 @@
        "coordinates":  [ 122,45 ]
     },
     "properties": {
-    "0":776,
-    "Lasioglossum":"Lasioglossum"
+    "id":776,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8544,8 +8544,8 @@
        "coordinates":  [ 121,59 ]
     },
     "properties": {
-    "0":777,
-    "Lasioglossum":"Apis mellifera"
+    "id":777,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8555,8 +8555,8 @@
        "coordinates":  [ 109,30 ]
     },
     "properties": {
-    "0":778,
-    "Lasioglossum":"Lasioglossum"
+    "id":778,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8566,8 +8566,8 @@
        "coordinates":  [ 128,23 ]
     },
     "properties": {
-    "0":779,
-    "Lasioglossum":"Osmia"
+    "id":779,
+    "Species":"Osmia"
     }
   },
   {
@@ -8577,8 +8577,8 @@
        "coordinates":  [ 105,21 ]
     },
     "properties": {
-    "0":780,
-    "Lasioglossum":"Apis mellifera"
+    "id":780,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8588,8 +8588,8 @@
        "coordinates":  [ 124,58 ]
     },
     "properties": {
-    "0":781,
-    "Lasioglossum":"Osmia"
+    "id":781,
+    "Species":"Osmia"
     }
   },
   {
@@ -8599,8 +8599,8 @@
        "coordinates":  [ 109,27 ]
     },
     "properties": {
-    "0":782,
-    "Lasioglossum":"Osmia"
+    "id":782,
+    "Species":"Osmia"
     }
   },
   {
@@ -8610,8 +8610,8 @@
        "coordinates":  [ 112,35 ]
     },
     "properties": {
-    "0":783,
-    "Lasioglossum":"Osmia"
+    "id":783,
+    "Species":"Osmia"
     }
   },
   {
@@ -8621,8 +8621,8 @@
        "coordinates":  [ 127,27 ]
     },
     "properties": {
-    "0":784,
-    "Lasioglossum":"Lasioglossum"
+    "id":784,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8632,8 +8632,8 @@
        "coordinates":  [ 131,54 ]
     },
     "properties": {
-    "0":785,
-    "Lasioglossum":"Osmia"
+    "id":785,
+    "Species":"Osmia"
     }
   },
   {
@@ -8643,8 +8643,8 @@
        "coordinates":  [ 104,47 ]
     },
     "properties": {
-    "0":786,
-    "Lasioglossum":"Osmia"
+    "id":786,
+    "Species":"Osmia"
     }
   },
   {
@@ -8654,8 +8654,8 @@
        "coordinates":  [ 105,38 ]
     },
     "properties": {
-    "0":787,
-    "Lasioglossum":"Osmia"
+    "id":787,
+    "Species":"Osmia"
     }
   },
   {
@@ -8665,8 +8665,8 @@
        "coordinates":  [ 121,39 ]
     },
     "properties": {
-    "0":788,
-    "Lasioglossum":"Seladonia"
+    "id":788,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8676,8 +8676,8 @@
        "coordinates":  [ 129,49 ]
     },
     "properties": {
-    "0":789,
-    "Lasioglossum":"Lasioglossum"
+    "id":789,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8687,8 +8687,8 @@
        "coordinates":  [ 110,42 ]
     },
     "properties": {
-    "0":790,
-    "Lasioglossum":"Apis mellifera"
+    "id":790,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8698,8 +8698,8 @@
        "coordinates":  [ 109,24 ]
     },
     "properties": {
-    "0":791,
-    "Lasioglossum":"Seladonia"
+    "id":791,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8709,8 +8709,8 @@
        "coordinates":  [ 129,30 ]
     },
     "properties": {
-    "0":792,
-    "Lasioglossum":"Apis mellifera"
+    "id":792,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8720,8 +8720,8 @@
        "coordinates":  [ 139,33 ]
     },
     "properties": {
-    "0":793,
-    "Lasioglossum":"Apis mellifera"
+    "id":793,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8731,8 +8731,8 @@
        "coordinates":  [ 110,55 ]
     },
     "properties": {
-    "0":794,
-    "Lasioglossum":"Apis mellifera"
+    "id":794,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8742,8 +8742,8 @@
        "coordinates":  [ 131,40 ]
     },
     "properties": {
-    "0":795,
-    "Lasioglossum":"Osmia"
+    "id":795,
+    "Species":"Osmia"
     }
   },
   {
@@ -8753,8 +8753,8 @@
        "coordinates":  [ 101,28 ]
     },
     "properties": {
-    "0":796,
-    "Lasioglossum":"Seladonia"
+    "id":796,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8764,8 +8764,8 @@
        "coordinates":  [ 120,36 ]
     },
     "properties": {
-    "0":797,
-    "Lasioglossum":"Osmia"
+    "id":797,
+    "Species":"Osmia"
     }
   },
   {
@@ -8775,8 +8775,8 @@
        "coordinates":  [ 133,43 ]
     },
     "properties": {
-    "0":798,
-    "Lasioglossum":"Lasioglossum"
+    "id":798,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8786,8 +8786,8 @@
        "coordinates":  [ 114,35 ]
     },
     "properties": {
-    "0":799,
-    "Lasioglossum":"Apis mellifera"
+    "id":799,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8797,8 +8797,8 @@
        "coordinates":  [ 135,21 ]
     },
     "properties": {
-    "0":800,
-    "Lasioglossum":"Lasioglossum"
+    "id":800,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8808,8 +8808,8 @@
        "coordinates":  [ 124,34 ]
     },
     "properties": {
-    "0":801,
-    "Lasioglossum":"Lasioglossum"
+    "id":801,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8819,8 +8819,8 @@
        "coordinates":  [ 103,31 ]
     },
     "properties": {
-    "0":802,
-    "Lasioglossum":"Apis mellifera"
+    "id":802,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8830,8 +8830,8 @@
        "coordinates":  [ 137,37 ]
     },
     "properties": {
-    "0":803,
-    "Lasioglossum":"Lasioglossum"
+    "id":803,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8841,8 +8841,8 @@
        "coordinates":  [ 123,21 ]
     },
     "properties": {
-    "0":804,
-    "Lasioglossum":"Osmia"
+    "id":804,
+    "Species":"Osmia"
     }
   },
   {
@@ -8852,8 +8852,8 @@
        "coordinates":  [ 125,42 ]
     },
     "properties": {
-    "0":805,
-    "Lasioglossum":"Osmia"
+    "id":805,
+    "Species":"Osmia"
     }
   },
   {
@@ -8863,8 +8863,8 @@
        "coordinates":  [ 116,46 ]
     },
     "properties": {
-    "0":806,
-    "Lasioglossum":"Osmia"
+    "id":806,
+    "Species":"Osmia"
     }
   },
   {
@@ -8874,8 +8874,8 @@
        "coordinates":  [ 125,40 ]
     },
     "properties": {
-    "0":807,
-    "Lasioglossum":"Seladonia"
+    "id":807,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8885,8 +8885,8 @@
        "coordinates":  [ 116,31 ]
     },
     "properties": {
-    "0":808,
-    "Lasioglossum":"Seladonia"
+    "id":808,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8896,8 +8896,8 @@
        "coordinates":  [ 108,32 ]
     },
     "properties": {
-    "0":809,
-    "Lasioglossum":"Apis mellifera"
+    "id":809,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8907,8 +8907,8 @@
        "coordinates":  [ 135,46 ]
     },
     "properties": {
-    "0":810,
-    "Lasioglossum":"Osmia"
+    "id":810,
+    "Species":"Osmia"
     }
   },
   {
@@ -8918,8 +8918,8 @@
        "coordinates":  [ 116,25 ]
     },
     "properties": {
-    "0":811,
-    "Lasioglossum":"Apis mellifera"
+    "id":811,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -8929,8 +8929,8 @@
        "coordinates":  [ 122,55 ]
     },
     "properties": {
-    "0":812,
-    "Lasioglossum":"Lasioglossum"
+    "id":812,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8940,8 +8940,8 @@
        "coordinates":  [ 116,40 ]
     },
     "properties": {
-    "0":813,
-    "Lasioglossum":"Lasioglossum"
+    "id":813,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8951,8 +8951,8 @@
        "coordinates":  [ 122,54 ]
     },
     "properties": {
-    "0":814,
-    "Lasioglossum":"Lasioglossum"
+    "id":814,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -8962,8 +8962,8 @@
        "coordinates":  [ 128,59 ]
     },
     "properties": {
-    "0":815,
-    "Lasioglossum":"Osmia"
+    "id":815,
+    "Species":"Osmia"
     }
   },
   {
@@ -8973,8 +8973,8 @@
        "coordinates":  [ 107,57 ]
     },
     "properties": {
-    "0":816,
-    "Lasioglossum":"Seladonia"
+    "id":816,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8984,8 +8984,8 @@
        "coordinates":  [ 108,24 ]
     },
     "properties": {
-    "0":817,
-    "Lasioglossum":"Seladonia"
+    "id":817,
+    "Species":"Seladonia"
     }
   },
   {
@@ -8995,8 +8995,8 @@
        "coordinates":  [ 109,37 ]
     },
     "properties": {
-    "0":818,
-    "Lasioglossum":"Seladonia"
+    "id":818,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9006,8 +9006,8 @@
        "coordinates":  [ 116,31 ]
     },
     "properties": {
-    "0":819,
-    "Lasioglossum":"Apis mellifera"
+    "id":819,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9017,8 +9017,8 @@
        "coordinates":  [ 127,58 ]
     },
     "properties": {
-    "0":820,
-    "Lasioglossum":"Apis mellifera"
+    "id":820,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9028,8 +9028,8 @@
        "coordinates":  [ 116,20 ]
     },
     "properties": {
-    "0":821,
-    "Lasioglossum":"Seladonia"
+    "id":821,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9039,8 +9039,8 @@
        "coordinates":  [ 100,49 ]
     },
     "properties": {
-    "0":822,
-    "Lasioglossum":"Lasioglossum"
+    "id":822,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9050,8 +9050,8 @@
        "coordinates":  [ 124,36 ]
     },
     "properties": {
-    "0":823,
-    "Lasioglossum":"Apis mellifera"
+    "id":823,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9061,8 +9061,8 @@
        "coordinates":  [ 105,48 ]
     },
     "properties": {
-    "0":824,
-    "Lasioglossum":"Osmia"
+    "id":824,
+    "Species":"Osmia"
     }
   },
   {
@@ -9072,8 +9072,8 @@
        "coordinates":  [ 136,30 ]
     },
     "properties": {
-    "0":825,
-    "Lasioglossum":"Seladonia"
+    "id":825,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9083,8 +9083,8 @@
        "coordinates":  [ 136,23 ]
     },
     "properties": {
-    "0":826,
-    "Lasioglossum":"Seladonia"
+    "id":826,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9094,8 +9094,8 @@
        "coordinates":  [ 130,38 ]
     },
     "properties": {
-    "0":827,
-    "Lasioglossum":"Seladonia"
+    "id":827,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9105,8 +9105,8 @@
        "coordinates":  [ 122,60 ]
     },
     "properties": {
-    "0":828,
-    "Lasioglossum":"Lasioglossum"
+    "id":828,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9116,8 +9116,8 @@
        "coordinates":  [ 102,25 ]
     },
     "properties": {
-    "0":829,
-    "Lasioglossum":"Osmia"
+    "id":829,
+    "Species":"Osmia"
     }
   },
   {
@@ -9127,8 +9127,8 @@
        "coordinates":  [ 105,33 ]
     },
     "properties": {
-    "0":830,
-    "Lasioglossum":"Osmia"
+    "id":830,
+    "Species":"Osmia"
     }
   },
   {
@@ -9138,8 +9138,8 @@
        "coordinates":  [ 129,47 ]
     },
     "properties": {
-    "0":831,
-    "Lasioglossum":"Osmia"
+    "id":831,
+    "Species":"Osmia"
     }
   },
   {
@@ -9149,8 +9149,8 @@
        "coordinates":  [ 115,48 ]
     },
     "properties": {
-    "0":832,
-    "Lasioglossum":"Seladonia"
+    "id":832,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9160,8 +9160,8 @@
        "coordinates":  [ 108,46 ]
     },
     "properties": {
-    "0":833,
-    "Lasioglossum":"Lasioglossum"
+    "id":833,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9171,8 +9171,8 @@
        "coordinates":  [ 117,43 ]
     },
     "properties": {
-    "0":834,
-    "Lasioglossum":"Apis mellifera"
+    "id":834,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9182,8 +9182,8 @@
        "coordinates":  [ 136,28 ]
     },
     "properties": {
-    "0":835,
-    "Lasioglossum":"Osmia"
+    "id":835,
+    "Species":"Osmia"
     }
   },
   {
@@ -9193,8 +9193,8 @@
        "coordinates":  [ 104,57 ]
     },
     "properties": {
-    "0":836,
-    "Lasioglossum":"Lasioglossum"
+    "id":836,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9204,8 +9204,8 @@
        "coordinates":  [ 128,40 ]
     },
     "properties": {
-    "0":837,
-    "Lasioglossum":"Seladonia"
+    "id":837,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9215,8 +9215,8 @@
        "coordinates":  [ 119,42 ]
     },
     "properties": {
-    "0":838,
-    "Lasioglossum":"Lasioglossum"
+    "id":838,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9226,8 +9226,8 @@
        "coordinates":  [ 116,51 ]
     },
     "properties": {
-    "0":839,
-    "Lasioglossum":"Seladonia"
+    "id":839,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9237,8 +9237,8 @@
        "coordinates":  [ 132,20 ]
     },
     "properties": {
-    "0":840,
-    "Lasioglossum":"Apis mellifera"
+    "id":840,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9248,8 +9248,8 @@
        "coordinates":  [ 127,36 ]
     },
     "properties": {
-    "0":841,
-    "Lasioglossum":"Osmia"
+    "id":841,
+    "Species":"Osmia"
     }
   },
   {
@@ -9259,8 +9259,8 @@
        "coordinates":  [ 100,31 ]
     },
     "properties": {
-    "0":842,
-    "Lasioglossum":"Seladonia"
+    "id":842,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9270,8 +9270,8 @@
        "coordinates":  [ 121,22 ]
     },
     "properties": {
-    "0":843,
-    "Lasioglossum":"Seladonia"
+    "id":843,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9281,8 +9281,8 @@
        "coordinates":  [ 136,23 ]
     },
     "properties": {
-    "0":844,
-    "Lasioglossum":"Apis mellifera"
+    "id":844,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9292,8 +9292,8 @@
        "coordinates":  [ 100,25 ]
     },
     "properties": {
-    "0":845,
-    "Lasioglossum":"Apis mellifera"
+    "id":845,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9303,8 +9303,8 @@
        "coordinates":  [ 106,26 ]
     },
     "properties": {
-    "0":846,
-    "Lasioglossum":"Lasioglossum"
+    "id":846,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9314,8 +9314,8 @@
        "coordinates":  [ 111,30 ]
     },
     "properties": {
-    "0":847,
-    "Lasioglossum":"Osmia"
+    "id":847,
+    "Species":"Osmia"
     }
   },
   {
@@ -9325,8 +9325,8 @@
        "coordinates":  [ 130,21 ]
     },
     "properties": {
-    "0":848,
-    "Lasioglossum":"Apis mellifera"
+    "id":848,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9336,8 +9336,8 @@
        "coordinates":  [ 113,25 ]
     },
     "properties": {
-    "0":849,
-    "Lasioglossum":"Lasioglossum"
+    "id":849,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9347,8 +9347,8 @@
        "coordinates":  [ 100,51 ]
     },
     "properties": {
-    "0":850,
-    "Lasioglossum":"Lasioglossum"
+    "id":850,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9358,8 +9358,8 @@
        "coordinates":  [ 127,26 ]
     },
     "properties": {
-    "0":851,
-    "Lasioglossum":"Osmia"
+    "id":851,
+    "Species":"Osmia"
     }
   },
   {
@@ -9369,8 +9369,8 @@
        "coordinates":  [ 114,55 ]
     },
     "properties": {
-    "0":852,
-    "Lasioglossum":"Apis mellifera"
+    "id":852,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9380,8 +9380,8 @@
        "coordinates":  [ 119,56 ]
     },
     "properties": {
-    "0":853,
-    "Lasioglossum":"Apis mellifera"
+    "id":853,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9391,8 +9391,8 @@
        "coordinates":  [ 110,56 ]
     },
     "properties": {
-    "0":854,
-    "Lasioglossum":"Lasioglossum"
+    "id":854,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9402,8 +9402,8 @@
        "coordinates":  [ 109,32 ]
     },
     "properties": {
-    "0":855,
-    "Lasioglossum":"Lasioglossum"
+    "id":855,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9413,8 +9413,8 @@
        "coordinates":  [ 139,45 ]
     },
     "properties": {
-    "0":856,
-    "Lasioglossum":"Lasioglossum"
+    "id":856,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9424,8 +9424,8 @@
        "coordinates":  [ 108,47 ]
     },
     "properties": {
-    "0":857,
-    "Lasioglossum":"Lasioglossum"
+    "id":857,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9435,8 +9435,8 @@
        "coordinates":  [ 107,44 ]
     },
     "properties": {
-    "0":858,
-    "Lasioglossum":"Lasioglossum"
+    "id":858,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9446,8 +9446,8 @@
        "coordinates":  [ 129,37 ]
     },
     "properties": {
-    "0":859,
-    "Lasioglossum":"Seladonia"
+    "id":859,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9457,8 +9457,8 @@
        "coordinates":  [ 103,54 ]
     },
     "properties": {
-    "0":860,
-    "Lasioglossum":"Seladonia"
+    "id":860,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9468,8 +9468,8 @@
        "coordinates":  [ 112,23 ]
     },
     "properties": {
-    "0":861,
-    "Lasioglossum":"Apis mellifera"
+    "id":861,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9479,8 +9479,8 @@
        "coordinates":  [ 117,41 ]
     },
     "properties": {
-    "0":862,
-    "Lasioglossum":"Seladonia"
+    "id":862,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9490,8 +9490,8 @@
        "coordinates":  [ 118,48 ]
     },
     "properties": {
-    "0":863,
-    "Lasioglossum":"Apis mellifera"
+    "id":863,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9501,8 +9501,8 @@
        "coordinates":  [ 118,49 ]
     },
     "properties": {
-    "0":864,
-    "Lasioglossum":"Lasioglossum"
+    "id":864,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9512,8 +9512,8 @@
        "coordinates":  [ 116,55 ]
     },
     "properties": {
-    "0":865,
-    "Lasioglossum":"Apis mellifera"
+    "id":865,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9523,8 +9523,8 @@
        "coordinates":  [ 116,31 ]
     },
     "properties": {
-    "0":866,
-    "Lasioglossum":"Apis mellifera"
+    "id":866,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9534,8 +9534,8 @@
        "coordinates":  [ 140,43 ]
     },
     "properties": {
-    "0":867,
-    "Lasioglossum":"Apis mellifera"
+    "id":867,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9545,8 +9545,8 @@
        "coordinates":  [ 127,32 ]
     },
     "properties": {
-    "0":868,
-    "Lasioglossum":"Osmia"
+    "id":868,
+    "Species":"Osmia"
     }
   },
   {
@@ -9556,8 +9556,8 @@
        "coordinates":  [ 136,45 ]
     },
     "properties": {
-    "0":869,
-    "Lasioglossum":"Apis mellifera"
+    "id":869,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9567,8 +9567,8 @@
        "coordinates":  [ 102,32 ]
     },
     "properties": {
-    "0":870,
-    "Lasioglossum":"Seladonia"
+    "id":870,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9578,8 +9578,8 @@
        "coordinates":  [ 114,59 ]
     },
     "properties": {
-    "0":871,
-    "Lasioglossum":"Osmia"
+    "id":871,
+    "Species":"Osmia"
     }
   },
   {
@@ -9589,8 +9589,8 @@
        "coordinates":  [ 100,31 ]
     },
     "properties": {
-    "0":872,
-    "Lasioglossum":"Lasioglossum"
+    "id":872,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9600,8 +9600,8 @@
        "coordinates":  [ 125,59 ]
     },
     "properties": {
-    "0":873,
-    "Lasioglossum":"Apis mellifera"
+    "id":873,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9611,8 +9611,8 @@
        "coordinates":  [ 115,27 ]
     },
     "properties": {
-    "0":874,
-    "Lasioglossum":"Lasioglossum"
+    "id":874,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9622,8 +9622,8 @@
        "coordinates":  [ 101,56 ]
     },
     "properties": {
-    "0":875,
-    "Lasioglossum":"Apis mellifera"
+    "id":875,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9633,8 +9633,8 @@
        "coordinates":  [ 112,29 ]
     },
     "properties": {
-    "0":876,
-    "Lasioglossum":"Osmia"
+    "id":876,
+    "Species":"Osmia"
     }
   },
   {
@@ -9644,8 +9644,8 @@
        "coordinates":  [ 136,31 ]
     },
     "properties": {
-    "0":877,
-    "Lasioglossum":"Apis mellifera"
+    "id":877,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9655,8 +9655,8 @@
        "coordinates":  [ 112,25 ]
     },
     "properties": {
-    "0":878,
-    "Lasioglossum":"Apis mellifera"
+    "id":878,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9666,8 +9666,8 @@
        "coordinates":  [ 118,59 ]
     },
     "properties": {
-    "0":879,
-    "Lasioglossum":"Osmia"
+    "id":879,
+    "Species":"Osmia"
     }
   },
   {
@@ -9677,8 +9677,8 @@
        "coordinates":  [ 106,26 ]
     },
     "properties": {
-    "0":880,
-    "Lasioglossum":"Osmia"
+    "id":880,
+    "Species":"Osmia"
     }
   },
   {
@@ -9688,8 +9688,8 @@
        "coordinates":  [ 106,48 ]
     },
     "properties": {
-    "0":881,
-    "Lasioglossum":"Apis mellifera"
+    "id":881,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9699,8 +9699,8 @@
        "coordinates":  [ 102,33 ]
     },
     "properties": {
-    "0":882,
-    "Lasioglossum":"Apis mellifera"
+    "id":882,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9710,8 +9710,8 @@
        "coordinates":  [ 135,54 ]
     },
     "properties": {
-    "0":883,
-    "Lasioglossum":"Seladonia"
+    "id":883,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9721,8 +9721,8 @@
        "coordinates":  [ 129,54 ]
     },
     "properties": {
-    "0":884,
-    "Lasioglossum":"Lasioglossum"
+    "id":884,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9732,8 +9732,8 @@
        "coordinates":  [ 107,51 ]
     },
     "properties": {
-    "0":885,
-    "Lasioglossum":"Osmia"
+    "id":885,
+    "Species":"Osmia"
     }
   },
   {
@@ -9743,8 +9743,8 @@
        "coordinates":  [ 140,59 ]
     },
     "properties": {
-    "0":886,
-    "Lasioglossum":"Lasioglossum"
+    "id":886,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9754,8 +9754,8 @@
        "coordinates":  [ 120,48 ]
     },
     "properties": {
-    "0":887,
-    "Lasioglossum":"Osmia"
+    "id":887,
+    "Species":"Osmia"
     }
   },
   {
@@ -9765,8 +9765,8 @@
        "coordinates":  [ 128,60 ]
     },
     "properties": {
-    "0":888,
-    "Lasioglossum":"Osmia"
+    "id":888,
+    "Species":"Osmia"
     }
   },
   {
@@ -9776,8 +9776,8 @@
        "coordinates":  [ 100,22 ]
     },
     "properties": {
-    "0":889,
-    "Lasioglossum":"Apis mellifera"
+    "id":889,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9787,8 +9787,8 @@
        "coordinates":  [ 120,30 ]
     },
     "properties": {
-    "0":890,
-    "Lasioglossum":"Lasioglossum"
+    "id":890,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9798,8 +9798,8 @@
        "coordinates":  [ 130,27 ]
     },
     "properties": {
-    "0":891,
-    "Lasioglossum":"Lasioglossum"
+    "id":891,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9809,8 +9809,8 @@
        "coordinates":  [ 121,30 ]
     },
     "properties": {
-    "0":892,
-    "Lasioglossum":"Seladonia"
+    "id":892,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9820,8 +9820,8 @@
        "coordinates":  [ 128,47 ]
     },
     "properties": {
-    "0":893,
-    "Lasioglossum":"Apis mellifera"
+    "id":893,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9831,8 +9831,8 @@
        "coordinates":  [ 107,57 ]
     },
     "properties": {
-    "0":894,
-    "Lasioglossum":"Osmia"
+    "id":894,
+    "Species":"Osmia"
     }
   },
   {
@@ -9842,8 +9842,8 @@
        "coordinates":  [ 112,45 ]
     },
     "properties": {
-    "0":895,
-    "Lasioglossum":"Osmia"
+    "id":895,
+    "Species":"Osmia"
     }
   },
   {
@@ -9853,8 +9853,8 @@
        "coordinates":  [ 103,25 ]
     },
     "properties": {
-    "0":896,
-    "Lasioglossum":"Seladonia"
+    "id":896,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9864,8 +9864,8 @@
        "coordinates":  [ 120,49 ]
     },
     "properties": {
-    "0":897,
-    "Lasioglossum":"Lasioglossum"
+    "id":897,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9875,8 +9875,8 @@
        "coordinates":  [ 104,24 ]
     },
     "properties": {
-    "0":898,
-    "Lasioglossum":"Osmia"
+    "id":898,
+    "Species":"Osmia"
     }
   },
   {
@@ -9886,8 +9886,8 @@
        "coordinates":  [ 117,30 ]
     },
     "properties": {
-    "0":899,
-    "Lasioglossum":"Osmia"
+    "id":899,
+    "Species":"Osmia"
     }
   },
   {
@@ -9897,8 +9897,8 @@
        "coordinates":  [ 132,52 ]
     },
     "properties": {
-    "0":900,
-    "Lasioglossum":"Lasioglossum"
+    "id":900,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9908,8 +9908,8 @@
        "coordinates":  [ 118,34 ]
     },
     "properties": {
-    "0":901,
-    "Lasioglossum":"Osmia"
+    "id":901,
+    "Species":"Osmia"
     }
   },
   {
@@ -9919,8 +9919,8 @@
        "coordinates":  [ 118,49 ]
     },
     "properties": {
-    "0":902,
-    "Lasioglossum":"Apis mellifera"
+    "id":902,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9930,8 +9930,8 @@
        "coordinates":  [ 137,25 ]
     },
     "properties": {
-    "0":903,
-    "Lasioglossum":"Osmia"
+    "id":903,
+    "Species":"Osmia"
     }
   },
   {
@@ -9941,8 +9941,8 @@
        "coordinates":  [ 138,49 ]
     },
     "properties": {
-    "0":904,
-    "Lasioglossum":"Apis mellifera"
+    "id":904,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -9952,8 +9952,8 @@
        "coordinates":  [ 114,25 ]
     },
     "properties": {
-    "0":905,
-    "Lasioglossum":"Osmia"
+    "id":905,
+    "Species":"Osmia"
     }
   },
   {
@@ -9963,8 +9963,8 @@
        "coordinates":  [ 138,29 ]
     },
     "properties": {
-    "0":906,
-    "Lasioglossum":"Lasioglossum"
+    "id":906,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -9974,8 +9974,8 @@
        "coordinates":  [ 109,60 ]
     },
     "properties": {
-    "0":907,
-    "Lasioglossum":"Osmia"
+    "id":907,
+    "Species":"Osmia"
     }
   },
   {
@@ -9985,8 +9985,8 @@
        "coordinates":  [ 129,26 ]
     },
     "properties": {
-    "0":908,
-    "Lasioglossum":"Seladonia"
+    "id":908,
+    "Species":"Seladonia"
     }
   },
   {
@@ -9996,8 +9996,8 @@
        "coordinates":  [ 136,27 ]
     },
     "properties": {
-    "0":909,
-    "Lasioglossum":"Lasioglossum"
+    "id":909,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10007,8 +10007,8 @@
        "coordinates":  [ 140,31 ]
     },
     "properties": {
-    "0":910,
-    "Lasioglossum":"Apis mellifera"
+    "id":910,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10018,8 +10018,8 @@
        "coordinates":  [ 123,59 ]
     },
     "properties": {
-    "0":911,
-    "Lasioglossum":"Apis mellifera"
+    "id":911,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10029,8 +10029,8 @@
        "coordinates":  [ 105,60 ]
     },
     "properties": {
-    "0":912,
-    "Lasioglossum":"Osmia"
+    "id":912,
+    "Species":"Osmia"
     }
   },
   {
@@ -10040,8 +10040,8 @@
        "coordinates":  [ 104,51 ]
     },
     "properties": {
-    "0":913,
-    "Lasioglossum":"Seladonia"
+    "id":913,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10051,8 +10051,8 @@
        "coordinates":  [ 132,45 ]
     },
     "properties": {
-    "0":914,
-    "Lasioglossum":"Seladonia"
+    "id":914,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10062,8 +10062,8 @@
        "coordinates":  [ 118,35 ]
     },
     "properties": {
-    "0":915,
-    "Lasioglossum":"Apis mellifera"
+    "id":915,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10073,8 +10073,8 @@
        "coordinates":  [ 103,39 ]
     },
     "properties": {
-    "0":916,
-    "Lasioglossum":"Lasioglossum"
+    "id":916,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10084,8 +10084,8 @@
        "coordinates":  [ 131,49 ]
     },
     "properties": {
-    "0":917,
-    "Lasioglossum":"Seladonia"
+    "id":917,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10095,8 +10095,8 @@
        "coordinates":  [ 108,21 ]
     },
     "properties": {
-    "0":918,
-    "Lasioglossum":"Osmia"
+    "id":918,
+    "Species":"Osmia"
     }
   },
   {
@@ -10106,8 +10106,8 @@
        "coordinates":  [ 128,37 ]
     },
     "properties": {
-    "0":919,
-    "Lasioglossum":"Apis mellifera"
+    "id":919,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10117,8 +10117,8 @@
        "coordinates":  [ 111,31 ]
     },
     "properties": {
-    "0":920,
-    "Lasioglossum":"Seladonia"
+    "id":920,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10128,8 +10128,8 @@
        "coordinates":  [ 121,30 ]
     },
     "properties": {
-    "0":921,
-    "Lasioglossum":"Seladonia"
+    "id":921,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10139,8 +10139,8 @@
        "coordinates":  [ 113,52 ]
     },
     "properties": {
-    "0":922,
-    "Lasioglossum":"Osmia"
+    "id":922,
+    "Species":"Osmia"
     }
   },
   {
@@ -10150,8 +10150,8 @@
        "coordinates":  [ 137,36 ]
     },
     "properties": {
-    "0":923,
-    "Lasioglossum":"Seladonia"
+    "id":923,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10161,8 +10161,8 @@
        "coordinates":  [ 104,21 ]
     },
     "properties": {
-    "0":924,
-    "Lasioglossum":"Seladonia"
+    "id":924,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10172,8 +10172,8 @@
        "coordinates":  [ 108,54 ]
     },
     "properties": {
-    "0":925,
-    "Lasioglossum":"Osmia"
+    "id":925,
+    "Species":"Osmia"
     }
   },
   {
@@ -10183,8 +10183,8 @@
        "coordinates":  [ 134,56 ]
     },
     "properties": {
-    "0":926,
-    "Lasioglossum":"Lasioglossum"
+    "id":926,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10194,8 +10194,8 @@
        "coordinates":  [ 119,25 ]
     },
     "properties": {
-    "0":927,
-    "Lasioglossum":"Lasioglossum"
+    "id":927,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10205,8 +10205,8 @@
        "coordinates":  [ 115,59 ]
     },
     "properties": {
-    "0":928,
-    "Lasioglossum":"Lasioglossum"
+    "id":928,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10216,8 +10216,8 @@
        "coordinates":  [ 126,26 ]
     },
     "properties": {
-    "0":929,
-    "Lasioglossum":"Seladonia"
+    "id":929,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10227,8 +10227,8 @@
        "coordinates":  [ 104,59 ]
     },
     "properties": {
-    "0":930,
-    "Lasioglossum":"Seladonia"
+    "id":930,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10238,8 +10238,8 @@
        "coordinates":  [ 120,39 ]
     },
     "properties": {
-    "0":931,
-    "Lasioglossum":"Osmia"
+    "id":931,
+    "Species":"Osmia"
     }
   },
   {
@@ -10249,8 +10249,8 @@
        "coordinates":  [ 107,59 ]
     },
     "properties": {
-    "0":932,
-    "Lasioglossum":"Seladonia"
+    "id":932,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10260,8 +10260,8 @@
        "coordinates":  [ 112,33 ]
     },
     "properties": {
-    "0":933,
-    "Lasioglossum":"Lasioglossum"
+    "id":933,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10271,8 +10271,8 @@
        "coordinates":  [ 109,54 ]
     },
     "properties": {
-    "0":934,
-    "Lasioglossum":"Apis mellifera"
+    "id":934,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10282,8 +10282,8 @@
        "coordinates":  [ 113,33 ]
     },
     "properties": {
-    "0":935,
-    "Lasioglossum":"Lasioglossum"
+    "id":935,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10293,8 +10293,8 @@
        "coordinates":  [ 137,25 ]
     },
     "properties": {
-    "0":936,
-    "Lasioglossum":"Seladonia"
+    "id":936,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10304,8 +10304,8 @@
        "coordinates":  [ 138,28 ]
     },
     "properties": {
-    "0":937,
-    "Lasioglossum":"Lasioglossum"
+    "id":937,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10315,8 +10315,8 @@
        "coordinates":  [ 127,25 ]
     },
     "properties": {
-    "0":938,
-    "Lasioglossum":"Lasioglossum"
+    "id":938,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10326,8 +10326,8 @@
        "coordinates":  [ 109,27 ]
     },
     "properties": {
-    "0":939,
-    "Lasioglossum":"Osmia"
+    "id":939,
+    "Species":"Osmia"
     }
   },
   {
@@ -10337,8 +10337,8 @@
        "coordinates":  [ 111,58 ]
     },
     "properties": {
-    "0":940,
-    "Lasioglossum":"Seladonia"
+    "id":940,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10348,8 +10348,8 @@
        "coordinates":  [ 134,48 ]
     },
     "properties": {
-    "0":941,
-    "Lasioglossum":"Apis mellifera"
+    "id":941,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10359,8 +10359,8 @@
        "coordinates":  [ 126,47 ]
     },
     "properties": {
-    "0":942,
-    "Lasioglossum":"Apis mellifera"
+    "id":942,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10370,8 +10370,8 @@
        "coordinates":  [ 131,37 ]
     },
     "properties": {
-    "0":943,
-    "Lasioglossum":"Apis mellifera"
+    "id":943,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10381,8 +10381,8 @@
        "coordinates":  [ 137,28 ]
     },
     "properties": {
-    "0":944,
-    "Lasioglossum":"Osmia"
+    "id":944,
+    "Species":"Osmia"
     }
   },
   {
@@ -10392,8 +10392,8 @@
        "coordinates":  [ 116,47 ]
     },
     "properties": {
-    "0":945,
-    "Lasioglossum":"Osmia"
+    "id":945,
+    "Species":"Osmia"
     }
   },
   {
@@ -10403,8 +10403,8 @@
        "coordinates":  [ 128,40 ]
     },
     "properties": {
-    "0":946,
-    "Lasioglossum":"Seladonia"
+    "id":946,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10414,8 +10414,8 @@
        "coordinates":  [ 121,46 ]
     },
     "properties": {
-    "0":947,
-    "Lasioglossum":"Apis mellifera"
+    "id":947,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10425,8 +10425,8 @@
        "coordinates":  [ 105,24 ]
     },
     "properties": {
-    "0":948,
-    "Lasioglossum":"Osmia"
+    "id":948,
+    "Species":"Osmia"
     }
   },
   {
@@ -10436,8 +10436,8 @@
        "coordinates":  [ 111,26 ]
     },
     "properties": {
-    "0":949,
-    "Lasioglossum":"Apis mellifera"
+    "id":949,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10447,8 +10447,8 @@
        "coordinates":  [ 128,59 ]
     },
     "properties": {
-    "0":950,
-    "Lasioglossum":"Lasioglossum"
+    "id":950,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10458,8 +10458,8 @@
        "coordinates":  [ 124,23 ]
     },
     "properties": {
-    "0":951,
-    "Lasioglossum":"Lasioglossum"
+    "id":951,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10469,8 +10469,8 @@
        "coordinates":  [ 130,35 ]
     },
     "properties": {
-    "0":952,
-    "Lasioglossum":"Seladonia"
+    "id":952,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10480,8 +10480,8 @@
        "coordinates":  [ 118,37 ]
     },
     "properties": {
-    "0":953,
-    "Lasioglossum":"Apis mellifera"
+    "id":953,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10491,8 +10491,8 @@
        "coordinates":  [ 137,56 ]
     },
     "properties": {
-    "0":954,
-    "Lasioglossum":"Osmia"
+    "id":954,
+    "Species":"Osmia"
     }
   },
   {
@@ -10502,8 +10502,8 @@
        "coordinates":  [ 121,20 ]
     },
     "properties": {
-    "0":955,
-    "Lasioglossum":"Seladonia"
+    "id":955,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10513,8 +10513,8 @@
        "coordinates":  [ 108,57 ]
     },
     "properties": {
-    "0":956,
-    "Lasioglossum":"Lasioglossum"
+    "id":956,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10524,8 +10524,8 @@
        "coordinates":  [ 103,56 ]
     },
     "properties": {
-    "0":957,
-    "Lasioglossum":"Seladonia"
+    "id":957,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10535,8 +10535,8 @@
        "coordinates":  [ 135,40 ]
     },
     "properties": {
-    "0":958,
-    "Lasioglossum":"Osmia"
+    "id":958,
+    "Species":"Osmia"
     }
   },
   {
@@ -10546,8 +10546,8 @@
        "coordinates":  [ 110,25 ]
     },
     "properties": {
-    "0":959,
-    "Lasioglossum":"Seladonia"
+    "id":959,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10557,8 +10557,8 @@
        "coordinates":  [ 128,36 ]
     },
     "properties": {
-    "0":960,
-    "Lasioglossum":"Seladonia"
+    "id":960,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10568,8 +10568,8 @@
        "coordinates":  [ 132,40 ]
     },
     "properties": {
-    "0":961,
-    "Lasioglossum":"Seladonia"
+    "id":961,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10579,8 +10579,8 @@
        "coordinates":  [ 138,21 ]
     },
     "properties": {
-    "0":962,
-    "Lasioglossum":"Seladonia"
+    "id":962,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10590,8 +10590,8 @@
        "coordinates":  [ 122,43 ]
     },
     "properties": {
-    "0":963,
-    "Lasioglossum":"Lasioglossum"
+    "id":963,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10601,8 +10601,8 @@
        "coordinates":  [ 121,56 ]
     },
     "properties": {
-    "0":964,
-    "Lasioglossum":"Osmia"
+    "id":964,
+    "Species":"Osmia"
     }
   },
   {
@@ -10612,8 +10612,8 @@
        "coordinates":  [ 124,52 ]
     },
     "properties": {
-    "0":965,
-    "Lasioglossum":"Osmia"
+    "id":965,
+    "Species":"Osmia"
     }
   },
   {
@@ -10623,8 +10623,8 @@
        "coordinates":  [ 117,40 ]
     },
     "properties": {
-    "0":966,
-    "Lasioglossum":"Lasioglossum"
+    "id":966,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10634,8 +10634,8 @@
        "coordinates":  [ 109,26 ]
     },
     "properties": {
-    "0":967,
-    "Lasioglossum":"Apis mellifera"
+    "id":967,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10645,8 +10645,8 @@
        "coordinates":  [ 117,34 ]
     },
     "properties": {
-    "0":968,
-    "Lasioglossum":"Seladonia"
+    "id":968,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10656,8 +10656,8 @@
        "coordinates":  [ 120,55 ]
     },
     "properties": {
-    "0":969,
-    "Lasioglossum":"Osmia"
+    "id":969,
+    "Species":"Osmia"
     }
   },
   {
@@ -10667,8 +10667,8 @@
        "coordinates":  [ 126,24 ]
     },
     "properties": {
-    "0":970,
-    "Lasioglossum":"Osmia"
+    "id":970,
+    "Species":"Osmia"
     }
   },
   {
@@ -10678,8 +10678,8 @@
        "coordinates":  [ 105,48 ]
     },
     "properties": {
-    "0":971,
-    "Lasioglossum":"Lasioglossum"
+    "id":971,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10689,8 +10689,8 @@
        "coordinates":  [ 102,24 ]
     },
     "properties": {
-    "0":972,
-    "Lasioglossum":"Osmia"
+    "id":972,
+    "Species":"Osmia"
     }
   },
   {
@@ -10700,8 +10700,8 @@
        "coordinates":  [ 104,46 ]
     },
     "properties": {
-    "0":973,
-    "Lasioglossum":"Seladonia"
+    "id":973,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10711,8 +10711,8 @@
        "coordinates":  [ 130,28 ]
     },
     "properties": {
-    "0":974,
-    "Lasioglossum":"Lasioglossum"
+    "id":974,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10722,8 +10722,8 @@
        "coordinates":  [ 110,59 ]
     },
     "properties": {
-    "0":975,
-    "Lasioglossum":"Seladonia"
+    "id":975,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10733,8 +10733,8 @@
        "coordinates":  [ 112,49 ]
     },
     "properties": {
-    "0":976,
-    "Lasioglossum":"Seladonia"
+    "id":976,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10744,8 +10744,8 @@
        "coordinates":  [ 122,51 ]
     },
     "properties": {
-    "0":977,
-    "Lasioglossum":"Apis mellifera"
+    "id":977,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10755,8 +10755,8 @@
        "coordinates":  [ 102,20 ]
     },
     "properties": {
-    "0":978,
-    "Lasioglossum":"Lasioglossum"
+    "id":978,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10766,8 +10766,8 @@
        "coordinates":  [ 127,29 ]
     },
     "properties": {
-    "0":979,
-    "Lasioglossum":"Osmia"
+    "id":979,
+    "Species":"Osmia"
     }
   },
   {
@@ -10777,8 +10777,8 @@
        "coordinates":  [ 123,29 ]
     },
     "properties": {
-    "0":980,
-    "Lasioglossum":"Seladonia"
+    "id":980,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10788,8 +10788,8 @@
        "coordinates":  [ 113,55 ]
     },
     "properties": {
-    "0":981,
-    "Lasioglossum":"Seladonia"
+    "id":981,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10799,8 +10799,8 @@
        "coordinates":  [ 113,27 ]
     },
     "properties": {
-    "0":982,
-    "Lasioglossum":"Apis mellifera"
+    "id":982,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10810,8 +10810,8 @@
        "coordinates":  [ 107,22 ]
     },
     "properties": {
-    "0":983,
-    "Lasioglossum":"Osmia"
+    "id":983,
+    "Species":"Osmia"
     }
   },
   {
@@ -10821,8 +10821,8 @@
        "coordinates":  [ 121,52 ]
     },
     "properties": {
-    "0":984,
-    "Lasioglossum":"Lasioglossum"
+    "id":984,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10832,8 +10832,8 @@
        "coordinates":  [ 105,36 ]
     },
     "properties": {
-    "0":985,
-    "Lasioglossum":"Apis mellifera"
+    "id":985,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10843,8 +10843,8 @@
        "coordinates":  [ 116,20 ]
     },
     "properties": {
-    "0":986,
-    "Lasioglossum":"Osmia"
+    "id":986,
+    "Species":"Osmia"
     }
   },
   {
@@ -10854,8 +10854,8 @@
        "coordinates":  [ 105,39 ]
     },
     "properties": {
-    "0":987,
-    "Lasioglossum":"Apis mellifera"
+    "id":987,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10865,8 +10865,8 @@
        "coordinates":  [ 113,28 ]
     },
     "properties": {
-    "0":988,
-    "Lasioglossum":"Osmia"
+    "id":988,
+    "Species":"Osmia"
     }
   },
   {
@@ -10876,8 +10876,8 @@
        "coordinates":  [ 123,39 ]
     },
     "properties": {
-    "0":989,
-    "Lasioglossum":"Seladonia"
+    "id":989,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10887,8 +10887,8 @@
        "coordinates":  [ 114,39 ]
     },
     "properties": {
-    "0":990,
-    "Lasioglossum":"Seladonia"
+    "id":990,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10898,8 +10898,8 @@
        "coordinates":  [ 127,51 ]
     },
     "properties": {
-    "0":991,
-    "Lasioglossum":"Apis mellifera"
+    "id":991,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10909,8 +10909,8 @@
        "coordinates":  [ 103,46 ]
     },
     "properties": {
-    "0":992,
-    "Lasioglossum":"Lasioglossum"
+    "id":992,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10920,8 +10920,8 @@
        "coordinates":  [ 105,37 ]
     },
     "properties": {
-    "0":993,
-    "Lasioglossum":"Osmia"
+    "id":993,
+    "Species":"Osmia"
     }
   },
   {
@@ -10931,8 +10931,8 @@
        "coordinates":  [ 120,21 ]
     },
     "properties": {
-    "0":994,
-    "Lasioglossum":"Apis mellifera"
+    "id":994,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10942,8 +10942,8 @@
        "coordinates":  [ 110,36 ]
     },
     "properties": {
-    "0":995,
-    "Lasioglossum":"Seladonia"
+    "id":995,
+    "Species":"Seladonia"
     }
   },
   {
@@ -10953,8 +10953,8 @@
        "coordinates":  [ 106,35 ]
     },
     "properties": {
-    "0":996,
-    "Lasioglossum":"Apis mellifera"
+    "id":996,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10964,8 +10964,8 @@
        "coordinates":  [ 129,45 ]
     },
     "properties": {
-    "0":997,
-    "Lasioglossum":"Lasioglossum"
+    "id":997,
+    "Species":"Lasioglossum"
     }
   },
   {
@@ -10975,8 +10975,8 @@
        "coordinates":  [ 123,24 ]
     },
     "properties": {
-    "0":998,
-    "Lasioglossum":"Apis mellifera"
+    "id":998,
+    "Species":"Apis mellifera"
     }
   },
   {
@@ -10986,8 +10986,8 @@
        "coordinates":  [ 100,45 ]
     },
     "properties": {
-    "0":999,
-    "Lasioglossum":"Osmia"
+    "id":999,
+    "Species":"Osmia"
     }
   }
 ]

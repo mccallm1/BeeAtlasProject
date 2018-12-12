@@ -14,29 +14,31 @@
   }
 </style>
 
+<!-- SVG frame containing map -->
 <svg width="900" height="600" stroke="black" fill="white"></svg>
 
+<!-- d3 references/imports -->
 <script src="https://d3js.org/d3.v4.js"></script>
 <script src="https://d3js.org/topojson.v2.min.js"></script>
 
+<!-- d3 code -->
 <script>
+  // initialize d3 vars: svg, projection, path
   var svg = d3.select("svg");
-
   var projection = d3.geoMercator();
-  //var projection = d3.geoAlbers();
   var path = d3.geoPath().projection(projection);
-  //var path = d3.geoPath();
 
-  d3.json("data/or_counties_formatted.json", function(error, or) {
+  // pull map data
+  d3.json("data/or_counties_editted.json", function(error, or) {
     if (error) throw error;
-
+    // add county data
     svg.append("g")
       .attr("class", "counties")
       .selectAll("path")
       .data(topojson.feature(or, or.objects.cb_2015_oregon_county_20m).features)
       .enter().append("path")
         .attr("d", path);
-
+    // append borders
     svg.append("path")
         .attr("class", "county-borders")
         .attr("d", path(topojson.mesh(or, or.objects.cb_2015_oregon_county_20m, function(a, b) { return a !== b; })));
@@ -44,4 +46,5 @@
   });
 </script>
 
+<!-- Load plotted points from JS file-->
 <script src="point_plotter.js"></script>
